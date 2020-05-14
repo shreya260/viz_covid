@@ -1,0 +1,2455 @@
+Age,Clade,Country,Admin Division,Division of exposure,Region,Sex,Collection Data
+56.0,B,Singapore,Singapore,Singapore,Asia,Female,2020-02-18
+29.0,B,Singapore,Singapore,Singapore,Asia,Male,2020-02-17
+29.0,B,Singapore,Singapore,Singapore,Asia,Male,2020-02-28
+39.0,B,Singapore,Singapore,Singapore,Asia,Female,2020-02-06
+35.0,B,Turkey,Kocaeli,Saudi Arabia,Europe,Male,2020-03-19
+37.0,B,Singapore,Singapore,Singapore,Asia,Male,2020-02-13
+51.0,B,Singapore,Singapore,Singapore,Asia,Female,2020-02-13
+34.0,B,Singapore,Singapore,Singapore,Asia,Female,2020-03-09
+74.0,B,Spain,Andalusia,Andalusia,Europe,Male,2020-03-02
+37.0,B,Singapore,Singapore,Singapore,Asia,Male,2020-02-14
+69.0,B,Singapore,Singapore,Singapore,Asia,Male,2020-02-16
+24.0,B,China,Shanghai,Shanghai,Asia,Male,2020-01-29
+54.0,B,China,Jiangxi,Jiangxi,Asia,Male,2020-01-21
+24.0,B,China,Shanghai,Shanghai,Asia,Male,2020-02-03
+35.0,B,China,Shanghai,Shanghai,Asia,Male,2020-01-30
+50.0,B,China,Jiangxi,Jiangxi,Asia,Male,2020-01-23
+43.0,B,China,Jiangxi,Jiangxi,Asia,Male,2020-01-26
+47.0,B,Australia,Victoria,Victoria,Oceania,Female,2020-01-31
+47.0,B,China,Beijing,Beijing,Asia,Male,2020-02-01
+46.0,B,China,Jiangxi,Jiangxi,Asia,Female,2020-01-25
+53.0,B,China,Shanghai,Shanghai,Asia,Female,2020-01-29
+50.0,B,United Kingdom,England,Hubei,Europe,Female,2020-01-29
+23.0,B,United Kingdom,England,Hubei,Europe,Male,2020-01-29
+23.0,B,India,Kerala,China,Asia,Male,2020-01-31
+38.0,B,China,Beijing,Beijing,Asia,Male,2020-02-01
+23.0,B,China,Beijing,Beijing,Asia,Male,2020-01-29
+23.0,B,China,Beijing,Beijing,Asia,Male,2020-01-29
+37.0,B,China,Shandong,Shandong,Asia,Male,2020-01-23
+53.0,B,China,Shandong,Shandong,Asia,Female,2020-01-24
+28.0,B,China,Shandong,Shandong,Asia,Male,2020-01-25
+35.0,B,China,Shandong,Shandong,Asia,Female,2020-01-26
+56.0,B,China,Yunnan,Yunnan,Asia,Male,2020-01-17
+26.0,B,USA,Arizona,Hubei,North America,Male,2020-01-22
+33.0,B,China,Guangdong,Guangdong,Asia,Female,2020-01-31
+58.0,B,China,Anhui,Anhui,Asia,Male,2020-01-24
+24.0,B,South Korea,Chungcheongnam,Chungcheongnam,Asia,Male,2020-02-06
+20.0,B,China,Jiangxi,Jiangxi,Asia,Female,2020-01-30
+66.0,B,China,Guangdong,Guangdong,Asia,Male,2020-01-30
+31.0,B,China,Beijing,Beijing,Asia,Male,2020-02-25
+32.0,B,South Korea,South Korea,South Korea,Asia,Male,2020-01-30
+27.0,B,South Korea,South Korea,South Korea,Asia,Female,2020-02-23
+33.0,B,South Korea,Seoul,Seoul,Asia,Male,2020-01-30
+42.0,B,South Korea,South Korea,South Korea,Asia,Male,2020-02-02
+47.0,B,China,Beijing,Beijing,Asia,Male,2020-02-05
+28.0,B,South Korea,Seoul,Seoul,Asia,Male,2020-01-31
+41.0,B,South Korea,South Korea,South Korea,Asia,Female,2020-02-07
+41.0,B,South Korea,South Korea,South Korea,Asia,Female,2020-02-05
+59.0,B,South Korea,South Korea,South Korea,Asia,Female,2020-02-23
+59.0,B,South Korea,South Korea,South Korea,Asia,Female,2020-02-05
+54.0,B,South Korea,Gyeonggi,Gyeonggi,Asia,Male,2020-01-25
+47.0,B,China,Beijing,Beijing,Asia,Male,2020-01-31
+55.0,B,South Korea,Seoul,Seoul,Asia,Male,2020-01-30
+76.0,B,South Korea,South Korea,South Korea,Asia,Male,2020-02-19
+10.0,B2,China,Guangdong,Guangdong,Asia,Male,2020-01-11
+50.0,B2,USA,Texas,Hubei,North America,Female,2020-02-11
+63.0,B2,China,Shanghai,Shanghai,Asia,Male,2020-01-30
+35.0,B2,Australia,New South Wales,New South Wales,Oceania,Male,2020-01-24
+60.0,B2,China,Beijing,Beijing,Asia,Male,2020-02-04
+63.0,B2,China,Beijing,Beijing,Asia,Female,2020-02-04
+37.0,B2,China,Beijing,Beijing,Asia,Male,2020-02-02
+37.0,B2,China,Beijing,Beijing,Asia,Male,2020-02-10
+37.0,B2,China,Beijing,Beijing,Asia,Female,2020-02-08
+63.0,B2,China,Guangdong,Guangdong,Asia,Female,2020-01-15
+66.0,B2,China,Guangdong,Guangdong,Asia,Male,2020-01-14
+69.0,B2,China,Jiangxi,Jiangxi,Asia,Female,2020-01-29
+42.0,B2,China,Shanghai,Shanghai,Asia,Female,2020-01-28
+9.0,B2,United Arab Emirates,United Arab Emirates,United Arab Emirates,Asia,Male,2020-01-29
+38.0,B2,Germany,Bavaria,Bavaria,Europe,Female,2020-03-02
+41.0,B2,China,Guangdong,Guangdong,Asia,Female,2020-02-17
+25.0,B2,China,Shanghai,Shanghai,Asia,Male,2020-02-07
+62.0,B2,China,Shanghai,Shanghai,Asia,Female,2020-01-28
+72.0,B2,China,Guangdong,Guangdong,Asia,Female,2020-02-25
+49.0,B,Malaysia,Selangor,Selangor,Asia,Female,2020-01-30
+29.0,B,Thailand,Bangkok,Bangkok,Asia,Female,2020-03-17
+29.0,B,Thailand,Bangkok,Bangkok,Asia,Female,2020-03-17
+22.0,B,Thailand,Pathum Thani,Pathum Thani,Asia,Female,2020-03-18
+53.0,B,Thailand,Bangkok,Bangkok,Asia,Male,2020-03-13
+46.0,B,Thailand,Bangkok,Bangkok,Asia,Male,2020-03-14
+41.0,B,Thailand,Bangkok,Bangkok,Asia,Male,2020-03-13
+35.0,B,Thailand,Nonthaburi,Nonthaburi,Asia,Male,2020-03-14
+51.0,B,Thailand,Bangkok,Bangkok,Asia,Male,2020-03-14
+47.0,B4,China,Fujian,Fujian,Asia,Male,2020-01-23
+42.0,B4,Australia,Queensland,Queensland,Oceania,Female,2020-01-30
+27.0,B4,China,Shanghai,Shanghai,Asia,Female,2020-01-30
+66.0,B4,China,Shanghai,Shanghai,Asia,Female,2020-02-02
+54.0,B4,China,Shanghai,Shanghai,Asia,Female,2020-01-25
+44.0,B4,Democratic Republic of the Congo,Sud Kivu,Sud Kivu,Africa,Male,2020-03-22
+41.0,B4,India,Gujarat,Gujarat,Asia,Male,2020-04-23
+25.0,B4,Australia,Victoria,Victoria,Oceania,Female,2020-02-08
+38.0,B4,Ghana,Greater Accra,Greater Accra,Africa,Male,2020-03-29
+40.0,B4,Senegal,Thies,Thies,Africa,Female,2020-03-20
+30.0,B4,Ghana,Greater Accra,Greater Accra,Africa,Female,2020-03-30
+55.0,B4,Ghana,Greater Accra,Greater Accra,Africa,Male,2020-03-25
+39.0,B4,China,Shanghai,Shanghai,Asia,Male,2020-01-25
+44.0,B4,Australia,Queensland,Hubei,Oceania,Male,2020-01-28
+8.0,B4,Australia,Queensland,Queensland,Oceania,Male,2020-02-05
+37.0,B4,Australia,Queensland,Queensland,Oceania,Male,2020-02-05
+56.0,B4,USA,California,Hubei,North America,Female,2020-02-06
+31.0,B4,Singapore,Singapore,Hubei,Asia,Female,2020-02-03
+54.0,B4,Ghana,Greater Accra,Greater Accra,Africa,Male,2020-03-29
+50.0,B4,Saudi Arabia,Makkah,Makkah,Asia,Female,2020-03-23
+75.0,B4,Saudi Arabia,Makkah,Makkah,Asia,Female,2020-03-23
+42.0,B4,Senegal,Dakar,Dakar,Africa,Male,2020-03-20
+31.0,B4,Saudi Arabia,Makkah,Makkah,Asia,Male,2020-04-14
+42.0,B4,Saudi Arabia,Makkah,Makkah,Asia,Male,2020-04-16
+28.0,B4,Ghana,Greater Accra,Greater Accra,Africa,Female,2020-03-30
+37.0,B4,Saudi Arabia,Makkah,Makkah,Asia,Male,2020-03-23
+69.0,B4,Saudi Arabia,Makkah,Makkah,Asia,Male,2020-03-23
+56.0,B4,Saudi Arabia,Makkah,Makkah,Asia,Male,2020-03-23
+67.0,B4,Saudi Arabia,Makkah,Makkah,Asia,Female,2020-03-23
+23.0,B4,Saudi Arabia,Makkah,Makkah,Asia,Female,2020-03-23
+36.0,B4,Saudi Arabia,Makkah,Makkah,Asia,Male,2020-04-16
+31.0,B4,Saudi Arabia,Makkah,Makkah,Asia,Male,2020-04-16
+52.0,B4,Russia,Republic of Kabardino-Balkaria,Republic of Kabardino-Balkaria,Europe,Female,2020-03-23
+37.0,B4,Russia,Republic of Kabardino-Balkaria,Republic of Kabardino-Balkaria,Europe,Female,2020-03-23
+53.0,B4,Saudi Arabia,Makkah,Makkah,Asia,Male,2020-04-14
+29.0,B4,Saudi Arabia,Madinah,Madinah,Asia,Female,2020-03-29
+41.0,B,Spain,Madrid,Madrid,Europe,Female,2020-03-02
+36.0,B,France,Grand Est,Grand Est,Europe,Male,2020-02-25
+89.0,B,Spain,Basque Country,Basque Country,Europe,Male,2020-03-04
+58.0,B,Spain,Comunitat Valenciana,Comunitat Valenciana,Europe,Male,2020-02-27
+56.0,B,Brazil,Amazonas State,Amazonas State,South America,Male,2020-03-16
+33.0,B,Spain,Castilla y Leon,Castilla y Leon,Europe,Male,2020-03-04
+31.0,B,Spain,Basque Country,Basque Country,Europe,Male,2020-03-05
+37.0,B,Spain,Comunitat Valenciana,Comunitat Valenciana,Europe,Female,2020-03-17
+27.0,B,Brazil,Rio de Janeiro,Rio de Janeiro,South America,Male,2020-03-05
+87.0,B,Spain,Comunitat Valenciana,Comunitat Valenciana,Europe,Female,2020-03-17
+89.0,B,Spain,Comunitat Valenciana,Comunitat Valenciana,Europe,Female,2020-03-09
+64.0,B,Spain,Madrid,Madrid,Europe,Male,2020-03-22
+65.0,B,Australia,Victoria,Victoria,Oceania,Male,2020-04-12
+80.0,B,Australia,Victoria,Victoria,Oceania,Male,2020-03-20
+62.0,B,Australia,Victoria,Victoria,Oceania,Male,2020-04-07
+22.0,B,Australia,Queensland,Queensland,Oceania,Female,2020-03-23
+47.0,B,Spain,Comunitat Valenciana,Comunitat Valenciana,Europe,Male,2020-02-27
+59.0,B,Spain,Comunitat Valenciana,Comunitat Valenciana,Europe,Male,2020-02-29
+52.0,B,Spain,Castilla y Leon,Castilla y Leon,Europe,Male,2020-03-01
+44.0,B,Spain,Comunitat Valenciana,Comunitat Valenciana,Europe,Male,2020-02-26
+64.0,B,Spain,Comunitat Valenciana,Comunitat Valenciana,Europe,Female,2020-03-10
+71.0,B,Mexico,Mexico City,Mexico City,North America,Male,2020-03-10
+49.0,B,Spain,Comunitat Valenciana,Comunitat Valenciana,Europe,Male,2020-03-10
+17.0,B,Chile,Santiago,Santiago,South America,Male,2020-03-08
+45.0,B,Spain,Comunitat Valenciana,Comunitat Valenciana,Europe,Male,2020-02-28
+90.0,B,Spain,Comunitat Valenciana,Comunitat Valenciana,Europe,Female,2020-03-17
+91.0,B,Spain,Basque Country,Basque Country,Europe,Male,2020-03-02
+43.0,B,Spain,Comunitat Valenciana,Comunitat Valenciana,Europe,Male,2020-02-27
+30.0,B,Spain,Madrid,Madrid,Europe,Female,2020-03-11
+51.0,B,Senegal,Dakar,Dakar,Africa,Male,2020-03-13
+57.0,B,Brazil,Rio de Janeiro,Rio de Janeiro,South America,Female,2020-03-17
+56.0,B,Chile,Santiago,Santiago,South America,Female,2020-03-03
+34.0,B,Spain,Canary Islands,Canary Islands,Europe,Male,2020-03-04
+57.0,B,Spain,La Rioja,La Rioja,Europe,Male,2020-03-03
+81.0,B,Spain,Basque Country,Basque Country,Europe,Male,2020-03-03
+25.0,B,Spain,Castilla y Leon,Castilla y Leon,Europe,Female,2020-03-03
+14.0,B,Chile,Santiago,Santiago,South America,Male,2020-03-07
+58.0,B,Chile,Santiago,Santiago,South America,Male,2020-03-06
+76.0,B,India,Delhi,Delhi,Asia,Female,2020-03-30
+80.0,B,Spain,Madrid,Madrid,Europe,Male,2020-03-08
+72.0,B,Spain,Madrid,Madrid,Europe,Male,2020-03-09
+39.0,B,China,Hubei,Hubei,Asia,Male,2020-01-05
+43.0,B,Australia,New South Wales,Hubei,Oceania,Male,2020-01-24
+37.0,B,China,Jiangxi,Jiangxi,Asia,Female,2020-01-22
+38.0,B,China,Jiangxi,Jiangxi,Asia,Male,2020-01-22
+81.0,B,China,Shanghai,Shanghai,Asia,Male,2020-01-29
+54.0,B,China,Zhejiang,Zhejiang,Asia,Female,2020-01-31
+41.0,B,China,Guangdong,Guangdong,Asia,Male,2020-01-28
+66.0,B,China,Jiangxi,Jiangxi,Asia,Male,2020-01-27
+56.0,B,Singapore,Singapore,Singapore,Asia,Male,2020-01-27
+39.0,B,China,Guangdong,Guangdong,Asia,Female,2020-01-27
+52.0,B,Taiwan,Taiwan,Taiwan,Asia,Female,2020-01-24
+31.0,B,China,Zhejiang,Zhejiang,Asia,Male,2020-01-26
+90.0,B,China,Guangdong,Guangdong,Asia,Male,2020-02-06
+71.0,B,China,Guangdong,Guangdong,Asia,Female,2020-02-17
+28.0,B,India,Delhi,Delhi,Asia,Female,2020-04-05
+70.0,B,China,Jiangxi,Jiangxi,Asia,Male,2020-02-05
+72.0,B,China,Guangdong,Guangdong,Asia,Male,2020-02-05
+58.0,B,Turkey,Ankara,Saudi Arabia,Europe,Female,2020-03-27
+26.0,B,China,Jiangxi,Jiangxi,Asia,Male,2020-01-25
+79.0,B,China,Jiangxi,Jiangxi,Asia,Female,2020-01-25
+79.0,B,China,Guangdong,Guangdong,Asia,Male,2020-01-30
+27.0,B,China,Shanghai,Shanghai,Asia,Female,2020-01-30
+55.0,B,China,Shanghai,Shanghai,Asia,Male,2020-01-30
+53.0,B,China,Shanghai,Shanghai,Asia,Female,2020-01-30
+47.0,B,China,Zhejiang,Zhejiang,Asia,Female,2020-02-01
+54.0,B,Belgium,Flanders,Hubei,Europe,Male,2020-02-03
+79.0,B,China,Guangdong,Guangdong,Asia,Male,2020-02-25
+28.0,B,China,Guangdong,Guangdong,Asia,Male,2020-02-07
+44.0,B,Singapore,Singapore,Singapore,Asia,Male,2020-02-27
+66.0,B,China,Jiangxi,Jiangxi,Asia,Female,2020-02-26
+72.0,B,China,Guangdong,Guangdong,Asia,Male,2020-02-08
+72.0,B,China,Guangdong,Guangdong,Asia,Male,2020-02-08
+78.0,B,China,Guangdong,Guangdong,Asia,Male,2020-01-29
+50.0,B,Taiwan,Taiwan,Hubei,Asia,Female,2020-01-31
+25.0,B,China,Guangdong,Guangdong,Asia,Female,2020-02-28
+76.0,B,Spain,Castilla La Mancha,Castilla La Mancha,Europe,Male,2020-03-01
+56.0,B,Spain,Castilla La Mancha,Castilla La Mancha,Europe,Male,2020-03-01
+84.0,B,Spain,Madrid,Madrid,Europe,Male,2020-03-03
+31.0,B,Spain,Madrid,Madrid,Europe,Male,2020-03-27
+23.0,B,Spain,Madrid,Madrid,Europe,Female,2020-03-11
+79.0,B,Australia,Victoria,Victoria,Oceania,Male,2020-02-23
+47.0,B,Spain,Comunitat Valenciana,Comunitat Valenciana,Europe,Female,2020-03-19
+80.0,B,Spain,Comunitat Valenciana,Comunitat Valenciana,Europe,Male,2020-03-17
+51.0,B,Austria,Vienna,Vienna,Europe,Female,2020-03-18
+70.0,B,Spain,Comunitat Valenciana,Comunitat Valenciana,Europe,Male,2020-03-19
+64.0,B,Spain,Comunitat Valenciana,Comunitat Valenciana,Europe,Female,2020-03-17
+43.0,B,Mexico,Queretaro,Queretaro,North America,Male,2020-03-10
+27.0,B,Australia,Victoria,Victoria,Oceania,Male,2020-03-28
+33.0,B,Chile,Talca,Talca,South America,Male,2020-03-02
+33.0,B,Chile,Talca,Talca,South America,Female,2020-03-04
+29.0,B,Germany,Duesseldorf,Duesseldorf,Europe,Female,2020-03-17
+71.0,B,Mexico,Estado de Mexico,Estado de Mexico,North America,Male,2020-03-04
+35.0,B,China,Sichuan,Sichuan,Asia,Male,2020-01-15
+50.0,B,Vietnam,Vinhphuc,Vinhphuc,Asia,Male,2020-02-11
+38.0,B,USA,California,Hubei,North America,Male,2020-01-23
+79.0,B,China,Shanghai,Shanghai,Asia,Male,2020-02-01
+39.0,B,Hong Kong,Hong Kong,Hong Kong,Asia,Male,2020-01-22
+33.0,B,China,Guangdong,Guangdong,Asia,Female,2020-02-28
+36.0,B,China,Shanghai,Shanghai,Asia,Female,2020-02-01
+54.0,B,China,Shanghai,Shanghai,Asia,Female,2020-02-01
+25.0,B,Vietnam,Thanh Hoa,Hubei,Asia,Female,2020-01-24
+25.0,B,Vietnam,Thanh Hoa,Thanh Hoa,Asia,Female,2020-01-24
+51.0,B,South Korea,South Korea,South Korea,Asia,Male,2020-02-12
+73.0,B,South Korea,South Korea,South Korea,Asia,Female,2020-02-23
+73.0,B,South Korea,South Korea,South Korea,Asia,Female,2020-02-09
+68.0,B,USA,Illinois,Hubei,North America,Male,2020-01-28
+48.0,B,USA,South Carolina,South Carolina,North America,Male,2020-03-07
+40.0,B,USA,Georgia,Georgia,North America,Female,2020-03-10
+74.0,B,USA,South Carolina,South Carolina,North America,Female,2020-03-08
+85.0,B,USA,South Carolina,South Carolina,North America,Male,2020-03-07
+46.0,B,USA,Georgia,Georgia,North America,Female,2020-03-03
+84.0,B,USA,South Carolina,South Carolina,North America,Female,2020-03-05
+68.0,B,USA,Georgia,Georgia,North America,Male,2020-03-05
+84.0,B,USA,South Carolina,South Carolina,North America,Female,2020-03-07
+88.0,B,USA,South Carolina,South Carolina,North America,Male,2020-03-06
+38.0,B,USA,Indiana,Indiana,North America,Female,2020-03-24
+65.0,B,USA,Florida,Florida,North America,Male,2020-03-05
+22.0,B,USA,Ohio,Ohio,North America,Male,2020-03-31
+51.0,B,USA,Maryland,Maryland,North America,Male,2020-03-30
+22.0,B,USA,New York,New York,North America,Male,2020-03-17
+73.0,B,USA,Maryland,Maryland,North America,Male,2020-03-20
+30.0,B,USA,Maryland,Maryland,North America,Male,2020-03-11
+59.0,B,Taiwan,Taipei,USA,Asia,Female,2020-03-17
+67.0,B,USA,Maryland,Maryland,North America,Male,2020-03-18
+46.0,B1,China,Chongqing,Chongqing,Asia,Male,2020-01-21
+31.0,B1,Singapore,Singapore,Singapore,Asia,Female,2020-01-29
+77.0,B1,China,Guangdong,Guangdong,Asia,Female,2020-01-20
+73.0,B1,China,Fujian,Fujian,Asia,Female,2020-01-21
+34.0,B1,China,Guangdong,Guangdong,Asia,Female,2020-02-28
+45.0,B1,Malaysia,Selangor,Selangor,Asia,Male,2020-02-04
+53.0,B1,China,Hangzhou,Hangzhou,Asia,Male,2020-01-26
+45.0,B1,Canada,British Columbia,British Columbia,North America,Male,2020-03-13
+89.0,B1,Canada,British Columbia,British Columbia,North America,Female,2020-03-09
+55.0,B1,Canada,British Columbia,British Columbia,North America,Male,2020-03-05
+17.0,B1,Canada,British Columbia,British Columbia,North America,Male,2020-03-05
+34.0,B1,Canada,British Columbia,British Columbia,North America,Male,2020-03-10
+55.0,B1,Canada,British Columbia,British Columbia,North America,Female,2020-03-02
+46.0,B1,Canada,British Columbia,British Columbia,North America,Female,2020-03-05
+83.0,B1,Canada,British Columbia,British Columbia,North America,Male,2020-03-07
+94.0,B1,Canada,British Columbia,British Columbia,North America,Male,2020-03-11
+58.0,B1,Canada,British Columbia,British Columbia,North America,Female,2020-03-10
+50.0,B1,Canada,British Columbia,British Columbia,North America,Female,2020-03-10
+53.0,B1,Canada,British Columbia,British Columbia,North America,Female,2020-03-10
+60.0,B1,Australia,Victoria,Victoria,Oceania,Male,2020-03-22
+57.0,B1,Australia,Western Australia,Western Australia,Oceania,Male,2020-03-15
+55.0,B1,Canada,Ontario,Ontario,North America,Male,2020-03-09
+50.0,B1,Canada,Ontario,Ontario,North America,Male,2020-03-09
+62.0,B1,Canada,Ontario,Ontario,North America,Female,2020-03-12
+26.0,B1,Canada,Ontario,Ontario,North America,Male,2020-03-12
+28.0,B1,Canada,Ontario,Ontario,North America,Male,2020-03-14
+61.0,B1,Canada,Ontario,Ontario,North America,Male,2020-03-10
+40.0,B1,Canada,Ontario,Ontario,North America,Female,2020-03-05
+39.0,B1,Costa Rica,San Rafael,San Rafael,North America,Male,2020-03-17
+32.0,B1,India,Delhi,Delhi,Asia,Male,2020-03-16
+38.0,B1,Mexico,Mexico City,Mexico City,North America,Male,2020-03-16
+70.0,B1,Mexico,Mexico City,Mexico City,North America,Male,2020-03-12
+32.0,B1,Mexico,Mexico City,Mexico City,North America,Male,2020-03-12
+38.0,B1,Mexico,Mexico City,Mexico City,North America,Male,2020-03-12
+63.0,B1,Mexico,Mexico City,Mexico City,North America,Female,2020-03-12
+55.0,B1,Australia,Western Australia,Western Australia,Oceania,Male,2020-03-14
+28.0,B1,Canada,British Columbia,British Columbia,North America,Male,2020-03-11
+63.0,B1,Australia,Queensland,Queensland,Oceania,Female,2020-03-11
+67.0,B1,Australia,Victoria,Victoria,Oceania,Female,2020-04-02
+37.0,B1,Taiwan,New Taipei City,New Taipei City,Asia,Male,2020-03-19
+45.0,B1,Australia,Victoria,Victoria,Oceania,Male,2020-03-20
+27.0,B1,USA,New Jersey,New Jersey,North America,Female,2020-03-18
+57.0,B1,Australia,Victoria,Victoria,Oceania,Female,2020-03-16
+42.0,B1,Singapore,Singapore,Singapore,Asia,Male,2020-03-17
+56.0,B1,USA,Montana,Montana,North America,Male,2020-04-15
+78.0,B1,USA,Illinois,Illinois,North America,Female,2020-03-07
+75.0,B1,USA,Hawaii,Hawaii,North America,Male,2020-03-07
+68.0,B1,Canada,British Columbia,British Columbia,North America,Male,2020-03-09
+58.0,B1,Canada,British Columbia,British Columbia,North America,Female,2020-03-13
+26.0,B1,Canada,Ontario,Ontario,North America,Female,2020-03-12
+45.0,B1,Australia,Queensland,Queensland,Oceania,Male,2020-03-25
+59.0,B1,Canada,British Columbia,British Columbia,North America,Male,2020-03-11
+67.0,B1,USA,Utah,Utah,North America,Female,2020-03-05
+40.0,B1,USA,Virginia,Virginia,North America,Male,2020-03-08
+37.0,B1,Canada,British Columbia,British Columbia,North America,Female,2020-03-09
+90.0,B1,Canada,British Columbia,British Columbia,North America,Male,2020-03-13
+67.0,B1,USA,Arizona,Arizona,North America,Female,2020-03-09
+69.0,B1,USA,Arizona,Arizona,North America,Male,2020-03-09
+59.0,B1,USA,Washington DC,Washington DC,North America,Male,2020-03-06
+77.0,B1,USA,North Carolina,North Carolina,North America,Male,2020-03-06
+89.0,B1,USA,New York,New York,North America,Male,2020-03-18
+40.0,A3,Pakistan,Gilgit Baltistan,Iran,Asia,Female,2020-03-04
+33.0,A3,Sri Lanka,Sri Lanka,Sri Lanka,Asia,Male,2020-03-16
+35.0,A3,United Arab Emirates,United Arab Emirates,United Arab Emirates,Asia,Male,2020-02-25
+37.0,A3,China,Shandong,Shandong,Asia,Male,2020-01-19
+64.0,A3,China,Shanghai,Shanghai,Asia,Female,2020-02-07
+35.0,A3,China,Shanghai,Shanghai,Asia,Female,2020-02-08
+19.0,A3,Turkey,Mardin,Mardin,Europe,Female,2020-03-25
+71.0,A3,China,Shanghai,Shanghai,Asia,Female,2020-02-01
+71.0,A3,Georgia,Tbilisi,Tbilisi,Asia,Female,2020-03-30
+42.0,A3,China,Jiangxi,Jiangxi,Asia,Female,2020-01-26
+60.0,A3,China,Jiangxi,Jiangxi,Asia,Female,2020-01-29
+38.0,A3,India,Kargil,Kargil,Asia,Female,2020-03-29
+43.0,A3,Australia,Western Australia,Western Australia,Oceania,Female,2020-03-14
+37.0,A3,Australia,New South Wales,New South Wales,Oceania,Female,2020-03-08
+41.0,A3,Australia,New South Wales,New South Wales,Oceania,Female,2020-03-11
+64.0,A3,United Arab Emirates,United Arab Emirates,United Arab Emirates,Asia,Male,2020-02-25
+58.0,A3,China,Jiangxi,Jiangxi,Asia,Male,2020-01-29
+70.0,A3,India,India,Iran,Asia,Male,2020-03-10
+51.0,A3,China,Shanghai,Shanghai,Asia,Female,2020-01-30
+42.0,A3,China,Shanghai,Shanghai,Asia,Male,2020-01-30
+51.0,A3,Canada,Ontario,Ontario,North America,Male,2020-03-11
+57.0,A3,Canada,British Columbia,Iran,North America,Male,2020-02-28
+54.0,A3,Canada,British Columbia,Iran,North America,Male,2020-02-27
+63.0,A3,Australia,Queensland,Queensland,Oceania,Female,2020-02-29
+53.0,A3,Australia,New South Wales,New South Wales,Oceania,Male,2020-02-29
+64.0,A3,United Arab Emirates,United Arab Emirates,United Arab Emirates,Asia,Female,2020-02-25
+29.0,A3,United Arab Emirates,United Arab Emirates,United Arab Emirates,Asia,Male,2020-02-25
+45.0,A3,Australia,New South Wales,New South Wales,Oceania,Male,2020-03-05
+82.0,A3,Turkey,Kayseri,Kayseri,Europe,Male,2020-03-17
+43.0,A3,Australia,New South Wales,Iran,Oceania,Male,2020-02-28
+62.0,A3,Canada,Ontario,Ontario,North America,Male,2020-02-20
+61.0,A3,Canada,Ontario,Ontario,North America,Female,2020-03-12
+42.0,A3,United Kingdom,England,England,Europe,Male,2020-02-27
+56.0,A3,Sweden,Stockholm,Stockholm,Europe,Female,2020-02-27
+59.0,A3,United Arab Emirates,United Arab Emirates,United Arab Emirates,Asia,Male,2020-02-25
+27.0,A3,Australia,Victoria,Victoria,Oceania,Male,2020-04-11
+24.0,A3,Australia,Victoria,Victoria,Oceania,Male,2020-04-03
+27.0,A3,Australia,Victoria,Victoria,Oceania,Female,2020-04-06
+43.0,A3,Australia,Victoria,Victoria,Oceania,Male,2020-04-07
+59.0,A3,Canada,British Columbia,British Columbia,North America,Female,2020-03-03
+81.0,A3,Canada,Ontario,Ontario,North America,Male,2020-03-08
+60.0,A3,Canada,Ontario,Ontario,North America,Female,2020-03-14
+27.0,A3,Canada,British Columbia,British Columbia,North America,Male,2020-03-04
+27.0,A3,Canada,British Columbia,British Columbia,North America,Male,2020-03-04
+60.0,A3,Australia,New South Wales,New South Wales,Oceania,Female,2020-02-28
+59.0,A3,India,India,Iran,Asia,Male,2020-03-12
+70.0,A3,India,India,Iran,Asia,Male,2020-03-12
+55.0,A3,India,India,Iran,Asia,Female,2020-03-12
+68.0,A3,Canada,British Columbia,Iran,North America,Male,2020-03-04
+43.0,A3,India,India,Iran,Asia,Male,2020-03-10
+50.0,A3,India,India,Iran,Asia,Female,2020-03-12
+77.0,A3,Austria,Austria,Iran,Europe,Male,2020-03-03
+34.0,A3,Democratic Republic of the Congo,Sud Kivu,Sud Kivu,Africa,Male,2020-03-20
+54.0,A3,United Arab Emirates,United Arab Emirates,United Arab Emirates,Asia,Male,2020-03-14
+33.0,A3,United Arab Emirates,United Arab Emirates,United Arab Emirates,Asia,Male,2020-03-14
+79.0,A3,Turkey,Eskisehir,Eskisehir,Europe,Female,2020-03-17
+27.0,A3,Turkey,Istanbul,Iran,Europe,Male,2020-03-19
+62.0,A3,Turkey,Ankara,Ankara,Europe,Female,2020-03-19
+41.0,A3,Turkey,Istanbul,Taiwan,Europe,Male,2020-03-19
+25.0,A3,India,Ladakh,Ladakh,Asia,Female,2020-03-17
+30.0,A3,India,Ladakh,Ladakh,Asia,Female,2020-03-15
+28.0,A3,India,Ladakh,Ladakh,Asia,Female,2020-03-17
+40.0,A3,India,Ladakh,Ladakh,Asia,Male,2020-03-17
+33.0,A3,India,India,Iran,Asia,Female,2020-03-10
+68.0,A3,India,India,Iran,Asia,Male,2020-03-10
+45.0,A3,India,India,Iran,Asia,Male,2020-03-10
+72.0,A3,India,India,Iran,Asia,Male,2020-03-10
+66.0,A3,India,India,Iran,Asia,Male,2020-03-10
+52.0,A3,Turkey,Kocaeli,Kocaeli,Europe,Male,2020-03-25
+31.0,A3,Turkey,Ankara,Ankara,Europe,Male,2020-03-19
+62.0,A3,Turkey,Ankara,Ankara,Europe,Male,2020-03-26
+70.0,A3,India,India,Iran,Asia,Female,2020-03-12
+35.0,A3,India,Ladakh,Ladakh,Asia,Female,2020-03-18
+51.0,A3,Australia,New South Wales,Iran,Oceania,Female,2020-02-29
+50.0,A3,Turkey,Kocaeli,Kocaeli,Europe,Female,2020-03-25
+30.0,A3,Turkey,Kocaeli,Kocaeli,Europe,Male,2020-03-27
+37.0,A3,Turkey,Balikesir,Balikesir,Europe,Female,2020-03-22
+72.0,A3,Turkey,Canakkale,Canakkale,Europe,Female,2020-03-18
+36.0,A1a,China,Zhejiang,Zhejiang,Asia,Male,2020-01-25
+24.0,A1a,Taiwan,Taipei,Taipei,Asia,Male,2020-02-07
+70.0,A1a,Hong Kong,Hong Kong,Hong Kong,Asia,Female,2020-02-19
+70.0,A1a,Hong Kong,Hong Kong,Hong Kong,Asia,Female,2020-02-26
+76.0,A1a,Hong Kong,Hong Kong,Hong Kong,Asia,Female,2020-02-22
+26.0,A1a,Hong Kong,Hong Kong,Hong Kong,Asia,Male,2020-02-26
+24.0,A1a,Hong Kong,Hong Kong,Hong Kong,Asia,Male,2020-02-24
+55.0,A1a,Hong Kong,Hong Kong,Hong Kong,Asia,Female,2020-02-24
+68.0,A1a,Hong Kong,Hong Kong,Hong Kong,Asia,Male,2020-02-19
+71.0,A1a,Hong Kong,Hong Kong,Hong Kong,Asia,Male,2020-02-11
+63.0,A1a,Hong Kong,Hong Kong,Hong Kong,Asia,Female,2020-01-30
+23.0,A1a,Hong Kong,Hong Kong,Hong Kong,Asia,Male,2020-02-09
+17.0,A1a,Hong Kong,Hong Kong,Hong Kong,Asia,Male,2020-02-26
+29.0,A1a,Hong Kong,Hong Kong,Hong Kong,Asia,Female,2020-02-26
+80.0,A1a,Canada,British Columbia,Hong Kong,North America,Female,2020-03-04
+29.0,A1a,Hong Kong,Hong Kong,Hong Kong,Asia,Female,2020-02-25
+57.0,A1a,Hong Kong,Hong Kong,Hong Kong,Asia,Female,2020-02-08
+51.0,A1a,Hong Kong,Hong Kong,Hong Kong,Asia,Female,2020-02-09
+86.0,A1a,Hong Kong,Hong Kong,Hong Kong,Asia,Female,2020-02-10
+68.0,A1a,Hong Kong,Hong Kong,Hong Kong,Asia,Male,2020-02-08
+91.0,A1a,Hong Kong,Hong Kong,Hong Kong,Asia,Female,2020-02-08
+53.0,A1a,China,Hangzhou,Hangzhou,Asia,Female,2020-01-23
+57.0,A1a,Italy,Lazio,Lazio,Europe,Male,2020-01-29
+66.0,A1a,Italy,Lazio,Hubei,Europe,Female,2020-01-29
+48.0,A1a,Iceland,Reykjavik,Italy,Europe,Male,2020-02-27
+28.0,A1a,Belgium,Deinze,Deinze,Europe,Male,2020-03-06
+80.0,A1a,Spain,Comunitat Valenciana,Comunitat Valenciana,Europe,Male,2020-03-19
+23.0,A1a,Taiwan,Taipei,Taipei,Asia,Male,2020-03-15
+44.0,A1a,Spain,Madrid,Madrid,Europe,Female,2020-03-09
+79.0,A1a,Spain,Comunitat Valenciana,Comunitat Valenciana,Europe,Female,2020-03-20
+23.0,A1a,France,Bretagne,Bretagne,Europe,Male,2020-03-01
+25.0,A1a,France,Bretagne,Bretagne,Europe,Male,2020-03-05
+63.0,A1a,Australia,Western Australia,Western Australia,Oceania,Female,2020-03-13
+55.0,A1a,Australia,Victoria,Victoria,Oceania,Female,2020-04-08
+61.0,A1a,United Kingdom,England,England,Europe,Female,2020-02-27
+64.0,A1a,Spain,Andalusia,Andalusia,Europe,Male,2020-02-28
+68.0,A1a,South Korea,South Korea,South Korea,Asia,Female,2020-02-18
+47.0,A1a,South Korea,South Korea,South Korea,Asia,Female,2020-02-18
+25.0,A1a,South Korea,South Korea,South Korea,Asia,Female,2020-02-18
+56.0,A1a,USA,Georgia,Georgia,North America,Male,2020-02-29
+58.0,A1a,USA,Washington,South Korea,North America,Female,2020-02-27
+23.0,A1a,South Korea,South Korea,South Korea,Asia,Male,2020-02-26
+23.0,A1a,South Korea,South Korea,South Korea,Asia,Male,2020-02-27
+1.0,A1a,South Korea,South Korea,South Korea,Asia,Female,2020-02-29
+24.0,A1a,South Korea,South Korea,South Korea,Asia,Female,2020-02-29
+38.0,A1a,USA,Oregon,Oregon,North America,Female,2020-04-07
+44.0,A1a,USA,Oregon,Oregon,North America,Female,2020-04-08
+89.0,A1a,United Kingdom,England,England,Europe,Male,2020-03-10
+46.0,A1a,USA,Oregon,Oregon,North America,Male,2020-04-16
+40.0,A1a,USA,Oregon,Oregon,North America,Female,2020-03-01
+87.0,A1a,United Kingdom,England,England,Europe,Male,2020-03-20
+76.0,A1a,Finland,Helsinki,Helsinki,Europe,Male,2020-03-01
+27.0,A1a,Finland,Finland,Finland,Europe,Male,2020-03-04
+55.0,A1a,Finland,Helsinki,Helsinki,Europe,Female,2020-03-03
+35.0,A1a,Russia,Saint-Petersburg,Saint-Petersburg,Europe,Male,2020-03-24
+18.0,A1a,Vietnam,Hanoi,Hanoi,Asia,Male,2020-03-18
+46.0,A1a,United Kingdom,England,England,Europe,Male,2020-02-28
+29.0,A1a,Brazil,Minas Gerais,Minas Gerais,South America,Male,2020-03-18
+84.0,A1a,United Kingdom,England,England,Europe,Male,2020-03-26
+18.0,A1a,India,Delhi,Delhi,Asia,Female,2020-03-17
+21.0,A1a,Australia,Victoria,Victoria,Oceania,Male,2020-03-28
+27.0,A1a,United Kingdom,England,Hubei,Europe,Female,2020-02-09
+43.0,A1a,Sweden,Halland,Halland,Europe,Male,2020-03-11
+82.0,A1a,Finland,Finland,Finland,Europe,Female,2020-03-14
+56.0,A1a,Germany,Duesseldorf,Duesseldorf,Europe,Male,2020-03-16
+30.0,A1a,Germany,Bavaria,Bavaria,Europe,Female,2020-03-14
+90.0,A1a,Germany,Bavaria,Bavaria,Europe,Male,2020-03-17
+30.0,A1a,Germany,Munich,Munich,Europe,Female,2020-03-14
+32.0,A1a,USA,New York,New York,North America,Female,2020-03-18
+49.0,A1a,USA,Nevada,Nevada,North America,Female,2020-03-09
+43.0,A1a,USA,Washington DC,Washington DC,North America,Male,2020-03-11
+44.0,A1a,USA,Washington DC,Washington DC,North America,Male,2020-03-22
+36.0,A1a,Canada,British Columbia,Europe,North America,Male,2020-03-05
+89.0,A1a,United Kingdom,England,England,Europe,Female,2020-02-25
+49.0,A1a,United Kingdom,England,England,Europe,Male,2020-02-25
+81.0,A1a,United Kingdom,England,England,Europe,Male,2020-02-28
+75.0,A1a,United Kingdom,England,England,Europe,Female,2020-02-28
+37.0,A1a,Brazil,Espirito Santo,Espirito Santo,South America,Female,2020-02-29
+62.0,A1a,Ireland,Louth,Louth,Europe,Female,2020-03-10
+48.0,A1a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Male,2020-03-20
+80.0,A1a,United Kingdom,Wales,Wales,Europe,Male,2020-03-23
+22.0,A1a,India,Delhi,Delhi,Asia,Female,2020-03-15
+33.0,A1a,Germany,Bavaria,Bavaria,Europe,Female,2020-03-30
+20.0,A1a,Vietnam,Hanoi,Hanoi,Asia,Female,2020-03-17
+38.0,A1a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Male,2020-03-17
+29.0,A1a,Portugal,Portugal,Portugal,Europe,Male,2020-03-16
+65.0,A1a,United Kingdom,England,England,Europe,Male,2020-03-20
+85.0,A1a,United Kingdom,England,England,Europe,Female,2020-03-18
+23.0,A1a,United Kingdom,England,England,Europe,Male,2020-03-21
+49.0,A1a,USA,Maryland,Maryland,North America,Male,2020-03-21
+81.0,A1a,United Kingdom,England,England,Europe,Female,2020-03-27
+79.0,A1a,Belgium,Antwerp,Antwerp,Europe,Female,2020-04-03
+91.0,A1a,Belgium,Antwerp,Antwerp,Europe,Female,2020-04-16
+30.0,A1a,Australia,Queensland,Queensland,Oceania,Female,2020-03-24
+21.0,A1a,Taiwan,Taipei,Taipei,Asia,Female,2020-03-24
+32.0,A1a,Brazil,Sao Paulo,Lombardy,South America,Male,2020-02-28
+33.0,A1a,Switzerland,Zurich,Zurich,Europe,Female,2020-02-26
+60.0,A1a,France,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,Europe,Male,2020-03-18
+63.0,A1a,Germany,Bavaria,Bavaria,Europe,Male,2020-04-11
+21.0,A1a,China,Hangzhou,Hangzhou,Asia,Male,2020-03-15
+42.0,A1a,Singapore,Singapore,Singapore,Asia,Male,2020-03-05
+60.0,A1a,Luxembourg,Luxembourg,Luxembourg,Europe,Male,2020-03-09
+40.0,A1a,South Africa,KwaZulu-Natal,KwaZulu-Natal,Africa,Female,2020-03-23
+34.0,A1a,United Kingdom,England,England,Europe,Female,2020-02-25
+29.0,A1a,Belgium,Liège,Liège,Europe,Female,2020-03-15
+58.0,A1a,Luxembourg,Luxembourg,Luxembourg,Europe,Male,2020-04-02
+67.0,A1a,United Kingdom,England,England,Europe,Male,2020-03-24
+41.0,A1a,Taiwan,Taipei,Ireland,Asia,Female,2020-03-13
+52.0,A1a,United Kingdom,England,England,Europe,Female,2020-02-26
+77.0,A1a,USA,Florida,Florida,North America,Female,2020-03-05
+53.0,A1a,Iceland,Reykjavik,Germany,Europe,Male,2020-03-13
+36.0,A1a,USA,New York,New York,North America,Female,2020-03-18
+74.0,A1a,Belgium,Oevel,Oevel,Europe,Male,2020-03-09
+26.0,A1a,Spain,Madrid,Madrid,Europe,Male,2020-03-09
+82.0,A1a,USA,New York,New York,North America,Female,2020-04-03
+80.0,A1a,Austria,Styria,Styria,Europe,Male,2020-04-17
+59.0,A1a,Austria,Austria,Austria,Europe,Male,2020-03-06
+42.0,A1a,Ireland,Dublin,Dublin,Europe,Male,2020-03-10
+81.0,A1a,Luxembourg,Luxembourg,Luxembourg,Europe,Male,2020-03-10
+73.0,A1a,USA,California,California,North America,Male,2020-03-18
+54.0,A1a,Iceland,Reykjavik,Reykjavik,Europe,Male,2020-03-19
+41.0,A1a,Iceland,Reykjavik,Reykjavik,Europe,Male,2020-03-21
+72.0,A1a,Iceland,Reykjavik,Reykjavik,Europe,Female,2020-03-19
+60.0,A1a,Australia,Victoria,Victoria,Oceania,Female,2020-04-08
+84.0,A1a,United Kingdom,Wales,Wales,Europe,Male,2020-03-25
+46.0,A7,USA,California,California,North America,Female,2020-02-23
+54.0,A6,Taiwan,Taipei,Taipei,Asia,Male,2020-03-27
+57.0,A6,Ecuador,Quito,Quito,South America,Male,2020-03-09
+46.0,A6,Australia,Queensland,Queensland,Oceania,Male,2020-03-19
+61.0,A6,Singapore,Singapore,Singapore,Asia,Male,2020-03-16
+44.0,A6,Spain,Comunitat Valenciana,Comunitat Valenciana,Europe,Female,2020-03-17
+69.0,A6,Finland,Helsinki,Helsinki,Europe,Male,2020-03-14
+20.0,A6,Austria,Styria,Styria,Europe,Female,2020-03-13
+53.0,A6,USA,New York,New York,North America,Female,2020-03-26
+43.0,A6,Iceland,Reykjavik,United Kingdom,Europe,Male,2020-03-25
+34.0,A6,Slovakia,Martin,Martin,Europe,Female,2020-03-08
+87.0,A6,Russia,Saint-Petersburg,Saint-Petersburg,Europe,Female,2020-03-20
+77.0,A2,Austria,Styria,Styria,Europe,Male,2020-04-14
+38.0,A2,China,Shanghai,Shanghai,Asia,Male,2020-01-31
+49.0,A2,China,Guangdong,Guangdong,Asia,Male,2020-02-05
+47.0,A2,China,Shanghai,Shanghai,Asia,Female,2020-01-28
+23.0,A2,Belgium,Courcelles,Courcelles,Europe,Female,2020-03-06
+23.0,A2,Finland,Finland,Italy,Europe,Female,2020-03-01
+33.0,A2,Brazil,Minas Gerais,Minas Gerais,South America,Female,2020-03-13
+40.0,A2,Belgium,Oudergem,Oudergem,Europe,Female,2020-03-19
+56.0,A2,Belgium,Quevy,Quevy,Europe,Female,2020-03-18
+46.0,A2a,Belgium,Alken,Alken,Europe,Female,2020-03-06
+33.0,A2a,USA,New York,New York,North America,Female,2020-04-03
+30.0,A2a,Canada,Ontario,Ontario,North America,Female,2020-03-13
+70.0,A2a,USA,Indiana,Indiana,North America,Female,2020-04-06
+71.0,A2a,Italy,Lombardy,Lombardy,Europe,Male,2020-02-24
+24.0,A2a,Finland,Helsinki,Lombardy,Europe,Female,2020-02-25
+35.0,A2a,United Arab Emirates,United Arab Emirates,United Arab Emirates,Asia,Male,2020-03-12
+44.0,A2a,Belgium,Vilvoorde,Vilvoorde,Europe,Male,2020-03-24
+24.0,A2a,Spain,Madrid,Madrid,Europe,Male,2020-02-25
+18.0,A2a,Spain,Castilla y Leon,Castilla y Leon,Europe,Male,2020-02-26
+72.0,A2a,Belgium,Beringen,Beringen,Europe,Male,2020-03-24
+44.0,A2a,Belgium,Dilbeek,Dilbeek,Europe,Male,2020-03-07
+72.0,A2a,Belgium,Watermaal-Bosvoorde,Watermaal-Bosvoorde,Europe,Female,2020-03-09
+86.0,A2a,Belgium,Anderlecht,Anderlecht,Europe,Male,2020-03-19
+51.0,A2a,Belgium,Watermaal-Bosvoorde,Watermaal-Bosvoorde,Europe,Male,2020-03-20
+57.0,A2a,Belgium,Liège,Liège,Europe,Male,2020-03-19
+36.0,A2a,China,Zhejiang,Zhejiang,Asia,Male,2020-01-24
+82.0,A2a,Finland,Finland,Finland,Europe,Female,2020-03-13
+52.0,A2a,Finland,Finland,Finland,Europe,Male,2020-03-14
+90.0,A2a,Finland,Finland,Finland,Europe,Female,2020-03-14
+41.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Male,2020-02-29
+65.0,A2a,Italy,Rome,Rome,Europe,Female,2020-03-07
+57.0,A2a,France,Bretagne,Bretagne,Europe,Male,2020-03-05
+55.0,A2a,Mexico,Mexico City,Mexico City,North America,Female,2020-03-13
+33.0,A2a,Spain,Madrid,Madrid,Europe,Male,2020-03-22
+35.0,A2a,Brazil,Minas Gerais,Minas Gerais,South America,Male,2020-03-17
+48.0,A2a,USA,Rhode Island,Rhode Island,North America,Male,2020-02-28
+53.0,A2a,Spain,Madrid,Madrid,Europe,Male,2020-03-09
+68.0,A2a,China,Beijing,Beijing,Asia,Female,2020-01-29
+29.0,A2a,Portugal,Portugal,Portugal,Europe,Female,2020-03-15
+31.0,A2a,Mexico,Puebla,Puebla,North America,Male,2020-03-11
+54.0,A2a,Spain,Comunitat Valenciana,Comunitat Valenciana,Europe,Female,2020-03-28
+44.0,A2a,Spain,Madrid,Madrid,Europe,Female,2020-03-12
+89.0,A2a,Spain,Catalunya,Catalunya,Europe,Male,2020-03-13
+79.0,A2a,Turkey,Denizli,Denizli,Europe,Female,2020-03-25
+59.0,A2a,Turkey,Ankara,Saudi Arabia,Europe,Female,2020-03-25
+79.0,A2a,Spain,Comunitat Valenciana,Comunitat Valenciana,Europe,Male,2020-03-18
+88.0,A2a,Spain,Madrid,Madrid,Europe,Female,2020-03-11
+89.0,A2a,Australia,Victoria,Victoria,Oceania,Male,2020-04-04
+60.0,A2a,Russia,Saint-Petersburg,Saint-Petersburg,Europe,Female,2020-04-15
+18.0,A2a,Costa Rica,San Rafael,San Rafael,North America,Male,2020-03-16
+47.0,A2a,Costa Rica,San Rafael,San Rafael,North America,Male,2020-03-16
+68.0,A2a,USA,Hawaii,Hawaii,North America,Female,2020-03-05
+47.0,A2a,Iceland,Reykjavik,Switzerland,Europe,Male,2020-03-13
+42.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Male,2020-03-30
+78.0,A2a,Finland,Finland,Finland,Europe,Female,2020-03-13
+17.0,A2a,USA,Rhode Island,Rhode Island,North America,Female,2020-03-01
+35.0,A2a,Spain,Madrid,Madrid,Europe,Female,2020-03-12
+71.0,A2a,Spain,Madrid,Madrid,Europe,Female,2020-03-12
+87.0,A2a,Spain,Madrid,Madrid,Europe,Male,2020-03-07
+96.0,A2a,Spain,Madrid,Madrid,Europe,Male,2020-03-08
+82.0,A2a,Spain,Comunitat Valenciana,Comunitat Valenciana,Europe,Male,2020-03-17
+68.0,A2a,Spain,Comunitat Valenciana,Comunitat Valenciana,Europe,Female,2020-03-22
+60.0,A2a,Germany,Bavaria,Bavaria,Europe,Female,2020-03-21
+79.0,A2a,Austria,Vienna,Vienna,Europe,Female,2020-03-22
+40.0,A2a,Panama,Panama City,Comunitat Valenciana,North America,Female,2020-03-06
+36.0,A2a,Spain,Galicia,Galicia,Europe,Female,2020-03-07
+68.0,A2a,France,Centre-Val de Loire,Centre-Val de Loire,Europe,Male,2020-03-20
+26.0,A2a,Russia,Saint-Petersburg,Saint-Petersburg,Europe,Male,2020-03-20
+95.0,A2a,Russia,Saint-Petersburg,Saint-Petersburg,Europe,Female,2020-04-05
+74.0,A2a,Spain,Barcelona,Barcelona,Europe,Male,2020-03-15
+62.0,A2a,Russia,Saint-Petersburg,Saint-Petersburg,Europe,Female,2020-03-29
+37.0,A2a,Russia,Saint-Petersburg,Saint-Petersburg,Europe,Male,2020-03-29
+37.0,A2a,Austria,Austria,Austria,Europe,Female,2020-03-22
+77.0,A2a,Austria,Austria,Austria,Europe,Male,2020-03-23
+32.0,A2a,Argentina,Ciudad Autonoma de Buenos Aires,Ciudad Autonoma de Buenos Aires,South America,Male,2020-03-30
+65.0,A2a,Turkey,Ankara,Saudi Arabia,Europe,Male,2020-03-22
+62.0,A2a,Finland,Helsinki,Helsinki,Europe,Male,2020-03-14
+51.0,A2a,Spain,Comunitat Valenciana,Comunitat Valenciana,Europe,Male,2020-03-16
+64.0,A2a,Russia,Saint-Petersburg,Saint-Petersburg,Europe,Female,2020-04-09
+35.0,A2a,Russia,Saint-Petersburg,Saint-Petersburg,Europe,Male,2020-04-13
+27.0,A2a,Hungary,Baranya,Baranya,Europe,Male,2020-03-20
+78.0,A2a,Austria,Vienna,Vienna,Europe,Male,2020-03-24
+54.0,A2a,Russia,Saint-Petersburg,Saint-Petersburg,Europe,Male,2020-04-14
+33.0,A2a,Russia,Saint-Petersburg,Saint-Petersburg,Europe,Female,2020-04-14
+68.0,A2a,Spain,Comunitat Valenciana,Comunitat Valenciana,Europe,Male,2020-03-18
+48.0,A2a,Hungary,Szeged,Szeged,Europe,Male,2020-03-19
+57.0,A2a,Russia,Pskov Region,Pskov Region,Europe,Male,2020-03-25
+30.0,A2a,Russia,Sverdlovsk Region,Sverdlovsk Region,Europe,Female,2020-03-25
+55.0,A2a,Spain,Madrid,Madrid,Europe,Female,2020-03-27
+78.0,A2a,Austria,Vienna,Vienna,Europe,Male,2020-03-25
+70.0,A2a,Argentina,Ciudad Autonoma de Buenos Aires,Brazil,South America,Male,2020-03-31
+34.0,A2a,Argentina,Ciudad Autonoma de Buenos Aires,Spain,South America,Male,2020-04-01
+37.0,A2a,Argentina,Ciudad Autonoma de Buenos Aires,Ciudad Autonoma de Buenos Aires,South America,Male,2020-03-30
+36.0,A2a,Hungary,Balassagyarmat,Balassagyarmat,Europe,Female,2020-03-27
+53.0,A2a,Hungary,Balassagyarmat,Balassagyarmat,Europe,Male,2020-03-27
+35.0,A2a,Russia,Omsk Region,Omsk Region,Europe,Female,2020-04-01
+64.0,A2a,Spain,Comunitat Valenciana,Comunitat Valenciana,Europe,Male,2020-03-25
+64.0,A2a,Austria,Vienna,Vienna,Europe,Female,2020-03-17
+49.0,A2a,Austria,Vienna,Vienna,Europe,Female,2020-03-15
+40.0,A2a,Austria,Vienna,Vienna,Europe,Male,2020-03-17
+52.0,A2a,Austria,Austria,Austria,Europe,Male,2020-03-16
+18.0,A2a,Belgium,Hoegaarden,Hoegaarden,Europe,Male,2020-03-02
+86.0,A2a,Spain,Madrid,Madrid,Europe,Male,2020-03-22
+70.0,A2a,Mexico,Mexico City,Mexico City,North America,Female,2020-03-12
+42.0,A2a,Mexico,Mexico City,Mexico City,North America,Male,2020-03-12
+43.0,A2a,Taiwan,Taipei,Portugal,Asia,Male,2020-03-19
+32.0,A2a,Spain,Madrid,Madrid,Europe,Male,2020-03-12
+88.0,A2a,Spain,Madrid,Madrid,Europe,Female,2020-03-09
+63.0,A2a,Sweden,Skane,Skane,Europe,Male,2020-04-01
+37.0,A2a,Australia,Victoria,Victoria,Oceania,Male,2020-03-18
+25.0,A2a,Spain,Madrid,Madrid,Europe,Female,2020-03-29
+29.0,A2a,Taiwan,New Taipei City,New Taipei City,Asia,Male,2020-03-19
+21.0,A2a,Mexico,Chihuahua,Chihuahua,North America,Male,2020-03-13
+42.0,A2a,USA,Maryland,Maryland,North America,Female,2020-03-17
+34.0,A2a,Belgium,Montigny-le-Tilleul,Montigny-le-Tilleul,Europe,Female,2020-03-24
+50.0,A2a,Australia,Queensland,Queensland,Oceania,Female,2020-03-18
+81.0,A2a,Switzerland,Ticino,Ticino,Europe,Male,2020-03-01
+19.0,A2a,Belgium,Ath,Ath,Europe,Male,2020-03-07
+27.0,A2a,Ecuador,Pichincha,Guayas,South America,Male,2020-03-30
+75.0,A2a,Brazil,Minas Gerais,Minas Gerais,South America,Male,2020-03-18
+28.0,A2a,Gambia,West Coast Region,West Coast Region,Africa,Female,2020-03-17
+29.0,A2a,Ireland,Cork,Cork,Europe,Male,2020-03-08
+75.0,A2a,Belgium,Ukkel,Ukkel,Europe,Male,2020-03-09
+22.0,A2a,Belgium,Knokke-Heist,Knokke-Heist,Europe,Male,2020-03-05
+21.0,A2a,Singapore,Singapore,Singapore,Asia,Female,2020-03-21
+82.0,A2a,Belgium,Liège,Liège,Europe,Female,2020-03-31
+40.0,A2a,Chile,Santiago,Santiago,South America,Female,2020-03-05
+61.0,A2a,Brazil,Minas Gerais,Minas Gerais,South America,Male,2020-03-11
+61.0,A2a,Peru,Lima,Lima,South America,Female,2020-03-10
+19.0,A2a,United Arab Emirates,United Arab Emirates,United Arab Emirates,Asia,Male,2020-03-18
+39.0,A2a,Austria,Vienna,Vienna,Europe,Male,2020-03-21
+78.0,A2a,Finland,Finland,Finland,Europe,Male,2020-03-13
+34.0,A2a,Canada,Ontario,Ontario,North America,Female,2020-03-12
+63.0,A2a,Belgium,Mons,Mons,Europe,Female,2020-03-05
+38.0,A2a,Belgium,Charleroi,Charleroi,Europe,Male,2020-03-09
+15.0,A2a,USA,Georgia,Georgia,North America,Male,2020-02-29
+29.0,A2a,Thailand,Nonthaburi,Italy,Asia,Male,2020-03-03
+29.0,A2a,Thailand,Nonthaburi,Nonthaburi,Asia,Male,2020-03-03
+60.0,A2a,Italy,Abruzzo,Abruzzo,Europe,Female,2020-04-27
+89.0,A2a,Italy,Abruzzo,Abruzzo,Europe,Female,2020-04-26
+39.0,A2a,Switzerland,Geneva,Geneva,Europe,Male,2020-02-29
+30.0,A2a,Switzerland,Vaud,Vaud,Europe,Male,2020-03-01
+78.0,A2a,Italy,Abruzzo,Abruzzo,Europe,Female,2020-03-24
+40.0,A2a,Argentina,Ciudad Autonoma de Buenos Aires,Ciudad Autonoma de Buenos Aires,South America,Male,2020-03-24
+52.0,A2a,Russia,Moscow,Moscow,Europe,Male,2020-03-11
+26.0,A2a,Russia,Moscow,Moscow,Europe,Male,2020-03-11
+55.0,A2a,Switzerland,Graubünden,Graubünden,Europe,Male,2020-02-27
+36.0,A2a,Switzerland,Graubünden,Graubünden,Europe,Male,2020-02-27
+90.0,A2a,France,Occitanie,Occitanie,Europe,Female,2020-04-07
+88.0,A2a,France,Occitanie,Occitanie,Europe,Female,2020-04-08
+76.0,A2a,France,Occitanie,Occitanie,Europe,Male,2020-04-11
+25.0,A2a,Sweden,Halland,Halland,Europe,Male,2020-03-11
+49.0,A2a,Turkey,Istanbul,Istanbul,Europe,Female,2020-04-16
+35.0,A2a,Brazil,Sao Paulo,USA,South America,Male,2020-03-04
+53.0,A2a,Belgium,Liège,Liège,Europe,Female,2020-03-08
+34.0,A2a,Belgium,Montigny-le-Tilleul,Montigny-le-Tilleul,Europe,Male,2020-03-04
+35.0,A2a,Belgium,Liège,Liège,Europe,Male,2020-03-06
+36.0,A2a,Singapore,Singapore,Singapore,Asia,Male,2020-03-16
+19.0,A2a,Belgium,Rixensart,Rixensart,Europe,Male,2020-03-02
+49.0,A2a,Portugal,Portugal,Portugal,Europe,Female,2020-03-04
+72.0,A2a,Portugal,Portugal,Portugal,Europe,Female,2020-03-08
+12.0,A2a,Portugal,Portugal,Portugal,Europe,Male,2020-03-10
+54.0,A2a,United Kingdom,England,England,Europe,Female,2020-02-27
+73.0,A2a,Belgium,Gent,Gent,Europe,Female,2020-03-06
+59.0,A2a,Belgium,Stekene,Stekene,Europe,Female,2020-03-05
+25.0,A2a,France,Bretagne,Bretagne,Europe,Female,2020-03-18
+91.0,A2a,France,Occitanie,Occitanie,Europe,Female,2020-04-07
+74.0,A2a,France,Occitanie,Occitanie,Europe,Male,2020-03-26
+90.0,A2a,France,Occitanie,Occitanie,Europe,Male,2020-03-26
+30.0,A2a,Belgium,Liège,Liège,Europe,Female,2020-03-30
+25.0,A2a,Switzerland,Zurich,Zurich,Europe,Male,2020-02-29
+65.0,A2a,Brazil,Alagoas,Alagoas,South America,Male,2020-03-18
+74.0,A2a,Brazil,Minas Gerais,Minas Gerais,South America,Male,2020-03-20
+22.0,A2a,Brazil,Sao Paulo,Italy,South America,Male,2020-03-05
+56.0,A2a,China,Fujian,Fujian,Asia,Male,2020-03-15
+33.0,A2a,China,Fujian,Fujian,Asia,Female,2020-03-16
+19.0,A2a,Iceland,Reykjavik,United Kingdom,Europe,Female,2020-03-26
+55.0,A2a,Russia,Saint-Petersburg,Saint-Petersburg,Europe,Male,2020-04-07
+34.0,A2a,Germany,Duesseldorf,Duesseldorf,Europe,Female,2020-03-20
+17.0,A2a,China,Fujian,Fujian,Asia,Male,2020-03-21
+63.0,A2a,USA,Maryland,Maryland,North America,Male,2020-03-14
+57.0,A2a,USA,Maryland,Maryland,North America,Male,2020-03-17
+63.0,A2a,USA,Maryland,Maryland,North America,Male,2020-03-24
+71.0,A2a,France,Ile de France,Ile de France,Europe,Male,2020-03-25
+68.0,A2a,Belgium,Kaulile,Kaulile,Europe,Male,2020-03-09
+49.0,A2a,Belgium,Brussels,Brussels,Europe,Male,2020-03-01
+45.0,A2a,Belgium,Kessel-Lo,Kessel-Lo,Europe,Male,2020-03-02
+41.0,A2a,Belgium,Kessel-Lo,Kessel-Lo,Europe,Female,2020-03-02
+21.0,A2a,Sweden,Halland,Halland,Europe,Male,2020-03-12
+51.0,A2a,Sweden,Halland,Halland,Europe,Male,2020-03-12
+69.0,A2a,Belgium,Ghent,Ghent,Europe,Female,2020-03-24
+25.0,A2a,Sweden,Halland,Halland,Europe,Male,2020-03-11
+49.0,A2a,Belgium,Sint-Genesius-Rode,Sint-Genesius-Rode,Europe,Female,2020-03-06
+46.0,A2a,Belgium,Sint-Agatha-Berchem,Sint-Agatha-Berchem,Europe,Male,2020-03-07
+53.0,A2a,Belgium,Couvin,Couvin,Europe,Male,2020-03-06
+40.0,A2a,Belgium,Estinnes,Estinnes,Europe,Female,2020-03-05
+26.0,A2a,Belgium,Ronse,Ronse,Europe,Male,2020-03-06
+55.0,A2a,Belgium,Wevelgem,Wevelgem,Europe,Male,2020-03-05
+30.0,A2a,Belgium,Oostrozebeke,Oostrozebeke,Europe,Female,2020-03-06
+60.0,A2a,Belgium,Bonheiden,Bonheiden,Europe,Male,2020-03-04
+18.0,A2a,Belgium,Leuven,Leuven,Europe,Male,2020-03-05
+69.0,A2a,Australia,Victoria,Victoria,Oceania,Male,2020-03-20
+37.0,A2a,Switzerland,Zurich,Zurich,Europe,Male,2020-02-27
+23.0,A2a,Canada,Ontario,Ontario,North America,Male,2020-03-10
+45.0,A2a,Canada,Ontario,Ontario,North America,Male,2020-03-11
+42.0,A2a,Russia,Moscow,Moscow,Europe,Female,2020-04-02
+27.0,A2a,Austria,Tyrol,Tyrol,Europe,Male,2020-03-13
+47.0,A2a,Brazil,Goiais,Goiais,South America,Male,2020-03-13
+69.0,A2a,Portugal,Portugal,Portugal,Europe,Male,2020-03-10
+57.0,A2a,Turkey,Sakarya,Saudi Arabia,Europe,Female,2020-03-22
+43.0,A2a,United Kingdom,Wales,Wales,Europe,Female,2020-03-29
+70.0,A2a,Canada,Ontario,Ontario,North America,Male,2020-03-14
+39.0,A2a,South Africa,KwaZulu-Natal,KwaZulu-Natal,Africa,Female,2020-04-01
+59.0,A2a,United Kingdom,Wales,Wales,Europe,Male,2020-03-27
+21.0,A2a,Taiwan,Taipei,Taipei,Asia,Male,2020-03-22
+59.0,A2a,United Kingdom,Wales,Wales,Europe,Female,2020-03-20
+65.0,A2a,Austria,Vienna,Vienna,Europe,Male,2020-03-19
+41.0,A2a,Austria,Austria,Italy,Europe,Male,2020-02-26
+53.0,A2a,Austria,Vienna,Vienna,Europe,Female,2020-03-02
+26.0,A2a,Austria,Vienna,Vienna,Europe,Male,2020-03-07
+63.0,A2a,Austria,Vienna,Vienna,Europe,Male,2020-03-07
+40.0,A2a,Austria,Vienna,Vienna,Europe,Female,2020-02-28
+36.0,A2a,Austria,Vienna,Vienna,Europe,Male,2020-03-04
+19.0,A2a,Austria,Vienna,Vienna,Europe,Male,2020-03-06
+46.0,A2a,Austria,Vienna,Vienna,Europe,Female,2020-02-27
+30.0,A2a,Austria,Vienna,Vienna,Europe,Female,2020-03-03
+70.0,A2a,Austria,Vienna,Vienna,Europe,Female,2020-03-16
+36.0,A2a,Austria,Vienna,Vienna,Europe,Male,2020-02-28
+73.0,A2a,Austria,Vienna,Vienna,Europe,Female,2020-03-20
+15.0,A2a,Austria,Vienna,Vienna,Europe,Female,2020-03-17
+33.0,A2a,Austria,Vienna,Vienna,Europe,Female,2020-03-10
+48.0,A2a,Austria,Austria,Austria,Europe,Female,2020-03-15
+27.0,A2a,Brazil,Minas Gerais,Minas Gerais,South America,Male,2020-03-17
+31.0,A2a,Switzerland,Geneva,Geneva,Europe,Male,2020-02-28
+35.0,A2a,Brazil,Minas Gerais,Minas Gerais,South America,Male,2020-03-17
+22.0,A2a,Brazil,Minas Gerais,Minas Gerais,South America,Male,2020-03-16
+52.0,A2a,Brazil,Minas Gerais,Minas Gerais,South America,Male,2020-03-16
+44.0,A2a,Brazil,Minas Gerais,Minas Gerais,South America,Male,2020-03-17
+34.0,A2a,Brazil,Minas Gerais,Minas Gerais,South America,Male,2020-03-13
+30.0,A2a,Switzerland,Aargau,Aargau,Europe,Male,2020-02-29
+29.0,A2a,Switzerland,Geneva,Geneva,Europe,Male,2020-02-28
+30.0,A2a,Brazil,Distrito Federal,Distrito Federal,South America,Male,2020-03-13
+40.0,A2a,Argentina,Ciudad Autonoma de Buenos Aires,Ciudad Autonoma de Buenos Aires,South America,Male,2020-03-01
+54.0,A2a,Brazil,Rio de Janeiro,Rio de Janeiro,South America,Female,2020-03-25
+60.0,A2a,Brazil,Rio de Janeiro,Rio de Janeiro,South America,Female,2020-03-26
+43.0,A2a,Brazil,Rio de Janeiro,Rio de Janeiro,South America,Female,2020-03-20
+61.0,A2a,Brazil,Distrito Federal,Distrito Federal,South America,Female,2020-03-22
+92.0,A2a,Argentina,Ciudad Autonoma de Buenos Aires,Ciudad Autonoma de Buenos Aires,South America,Male,2020-04-18
+34.0,A2a,Argentina,Ciudad Autonoma de Buenos Aires,Ciudad Autonoma de Buenos Aires,South America,Female,2020-04-17
+48.0,A2a,Argentina,Ciudad Autonoma de Buenos Aires,Ciudad Autonoma de Buenos Aires,South America,Male,2020-04-18
+19.0,A2a,Brazil,Minas Gerais,Minas Gerais,South America,Female,2020-03-17
+60.0,A2a,Belgium,Braine-l alleud,Braine-l alleud,Europe,Female,2020-03-24
+63.0,A2a,Belgium,Zolder,Zolder,Europe,Male,2020-03-25
+79.0,A2a,Belgium,Lummen,Lummen,Europe,Female,2020-03-25
+72.0,A2a,Belgium,Bierbeek,Bierbeek,Europe,Male,2020-03-24
+74.0,A2a,United Kingdom,Wales,Wales,Europe,Female,2020-03-27
+76.0,A2a,Germany,Bavaria,Bavaria,Europe,Male,2020-03-28
+63.0,A2a,Germany,Bavaria,Bavaria,Europe,Male,2020-04-02
+40.0,A2a,Russia,Republic of Sakha,Republic of Sakha,Europe,Male,2020-03-20
+38.0,A2a,Russia,Moscow,Moscow,Europe,Female,2020-03-22
+44.0,A2a,Russia,Moscow,Moscow,Europe,Male,2020-03-22
+40.0,A2a,Russia,Republic of Sakha,Republic of Sakha,Europe,Male,2020-03-25
+97.0,A2a,Finland,Finland,Finland,Europe,Female,2020-03-13
+42.0,A2a,Denmark,Copenhagen,Copenhagen,Europe,Male,2020-03-02
+51.0,A2a,Sweden,Halland,Halland,Europe,Male,2020-03-15
+30.0,A2a,Vietnam,Vietnam,Vietnam,Asia,Male,2020-03-15
+25.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Female,2020-04-10
+22.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Female,2020-04-16
+28.0,A2a,Russia,Moscow,Moscow,Europe,Male,2020-03-18
+95.0,A2a,Argentina,Ciudad Autonoma de Buenos Aires,Ciudad Autonoma de Buenos Aires,South America,Male,2020-04-04
+34.0,A2a,Argentina,Rio Negro,Rio Negro,South America,Male,2020-04-03
+39.0,A2a,South Africa,KwaZulu-Natal,KwaZulu-Natal,Africa,Female,2020-03-27
+56.0,A2a,Russia,Khabarovsk Region,Khabarovsk Region,Europe,Female,2020-03-31
+47.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Male,2020-04-07
+50.0,A2a,Poland,Pomorskie,Pomorskie,Europe,Female,2020-03-27
+29.0,A2a,Argentina,Ciudad Autonoma de Buenos Aires,Ciudad Autonoma de Buenos Aires,South America,Male,2020-04-11
+78.0,A2a,USA,New York,New York,North America,Female,2020-04-01
+52.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Male,2020-04-07
+17.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Female,2020-04-07
+52.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Male,2020-04-07
+42.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Female,2020-04-07
+38.0,A2a,Hungary,Baranya,Baranya,Europe,Male,2020-03-30
+48.0,A2a,Iceland,Reykjavik,Austria,Europe,Male,2020-03-20
+84.0,A2a,Austria,Tyrol,Tyrol,Europe,Male,2020-04-06
+29.0,A2a,Argentina,Ciudad Autonoma de Buenos Aires,United Kingdom,South America,Female,2020-04-11
+27.0,A2a,Argentina,Ciudad Autonoma de Buenos Aires,Ciudad Autonoma de Buenos Aires,South America,Female,2020-04-11
+48.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Female,2020-03-28
+62.0,A2a,Costa Rica,Tibas,South America,North America,Male,2020-03-20
+82.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Male,2020-04-12
+63.0,A2a,Austria,Tyrol,Tyrol,Europe,Female,2020-03-17
+72.0,A2a,Australia,New South Wales,New South Wales,Oceania,Male,2020-03-08
+54.0,A2a,Turkey,Ankara,Ankara,Europe,Male,2020-03-25
+17.0,A2a,Switzerland,Bern,Bern,Europe,Male,2020-02-29
+36.0,A2a,Taiwan,New Taipei City,New Taipei City,Asia,Male,2020-03-26
+55.0,A2a,Switzerland,Basel,Basel,Europe,Male,2020-03-03
+22.0,A2a,Switzerland,Basel,Basel,Europe,Female,2020-03-03
+78.0,A2a,Belgium,Beringen,Beringen,Europe,Male,2020-03-24
+31.0,A2a,Hungary,Baranya,Baranya,Europe,Female,2020-03-22
+28.0,A2a,Hungary,Baranya,Baranya,Europe,Male,2020-03-20
+26.0,A2a,Belgium,Sint-Truiden,Sint-Truiden,Europe,Male,2020-03-25
+17.0,A2a,Belgium,Huldenberg,Huldenberg,Europe,Male,2020-03-25
+60.0,A2a,United Kingdom,Wales,Wales,Europe,Female,2020-03-30
+28.0,A2a,Switzerland,Geneva,Lombardy,Europe,Male,2020-02-26
+23.0,A2a,Austria,Vienna,Vienna,Europe,Female,2020-03-26
+49.0,A2a,Switzerland,Basel-Stadt,Basel-Stadt,Europe,Female,2020-02-28
+24.0,A2a,Switzerland,Basel,Basel,Europe,Male,2020-02-27
+21.0,A2a,USA,Georgia,Georgia,North America,Female,2020-03-04
+21.0,A2a,Switzerland,Basel,Basel,Europe,Male,2020-03-03
+30.0,A2a,Switzerland,Zurich,Zurich,Europe,Male,2020-02-29
+30.0,A2a,Switzerland,Geneva,Lombardy,Europe,Male,2020-02-27
+27.0,A2a,USA,Arizona,Arizona,North America,Male,2020-03-02
+22.0,A2a,Switzerland,Basel,Basel,Europe,unknwon,2020-03-02
+62.0,A2a,Switzerland,Basel,Basel,Europe,Male,2020-02-28
+23.0,A2a,Switzerland,Basel,Basel,Europe,Male,2020-02-27
+24.0,A2a,Hungary,Baranya,Baranya,Europe,Male,2020-03-30
+22.0,A2a,Austria,Austria,Austria,Europe,Female,2020-03-19
+56.0,A2a,Belgium,Zoutleeuw,Zoutleeuw,Europe,Female,2020-03-24
+73.0,A2a,Belgium,Quaregnon,Quaregnon,Europe,Male,2020-03-25
+91.0,A2a,Sweden,Vastra Gotaland,Vastra Gotaland,Europe,Female,2020-04-07
+28.0,A2a,Belgium,Ghent,Ghent,Europe,Male,2020-03-24
+28.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Female,2020-03-22
+80.0,A2a,Belgium,Ghent,Ghent,Europe,Female,2020-03-20
+22.0,A2a,Sweden,Varmland,Varmland,Europe,Male,2020-03-06
+22.0,A2a,Vietnam,Hanoi,Hanoi,Asia,Female,2020-03-13
+26.0,A2a,Switzerland,Zurich,Lombardy,Europe,Female,2020-02-29
+38.0,A2a,Argentina,Ciudad Autonoma de Buenos Aires,Ciudad Autonoma de Buenos Aires,South America,Male,2020-04-19
+35.0,A2a,Hungary,Baranya,Baranya,Europe,Male,2020-03-25
+28.0,A2a,Australia,Victoria,Victoria,Oceania,Male,2020-03-23
+20.0,A2a,USA,Missouri,Missouri,North America,Female,2020-03-06
+82.0,A2a,Spain,Comunitat Valenciana,Comunitat Valenciana,Europe,Male,2020-03-18
+41.0,A2a,Brazil,Bahia,Bahia,South America,Female,2020-03-06
+34.0,A2a,Brazil,Bahia,Bahia,South America,Female,2020-03-04
+68.0,A2a,India,Karnataka,Karnataka,Asia,Male,2020-04-06
+55.0,A2a,India,Karnataka,Karnataka,Asia,Male,2020-04-06
+26.0,A2a,India,Karnataka,Karnataka,Asia,Male,2020-04-08
+28.0,A2a,India,Karnataka,Karnataka,Asia,Female,2020-04-06
+32.0,A2a,India,Karnataka,Karnataka,Asia,Male,2020-04-12
+28.0,A2a,Belgium,Liège,Liège,Europe,Male,2020-03-15
+25.0,A2a,Belgium,Liège,Liège,Europe,Male,2020-03-15
+24.0,A2a,Belgium,Liège,Liège,Europe,Female,2020-03-16
+23.0,A2a,Switzerland,Basel-Stadt,Basel-Stadt,Europe,Female,2020-02-27
+15.0,A2a,India,India,India,Asia,Male,2020-03-02
+63.0,A2a,USA,Florida,Florida,North America,Male,2020-02-28
+13.0,A2a,Brazil,Sao Paulo,Sao Paulo,South America,Female,2020-03-04
+34.0,A2a,Brazil,Sao Paulo,Sao Paulo,South America,Male,2020-03-05
+30.0,A2a,Switzerland,Geneva,Geneva,Europe,Male,2020-03-01
+70.0,A2a,Belgium,Liège,Liège,Europe,Female,2020-03-30
+37.0,A2a,India,India,India,Asia,Female,2020-03-03
+29.0,A2a,USA,Florida,Florida,North America,Female,2020-02-28
+42.0,A2a,Spain,Barcelona,Barcelona,Europe,Female,2020-03-24
+35.0,A2a,Germany,Bavaria,Bavaria,Europe,Female,2020-03-22
+54.0,A2a,Germany,Bavaria,Bavaria,Europe,Male,2020-04-11
+54.0,A2a,Russia,Moscow,Moscow,Europe,Male,2020-03-16
+65.0,A2a,Switzerland,Basel,Basel,Europe,Male,2020-03-22
+42.0,A2a,Hungary,Baranya,Baranya,Europe,Female,2020-03-22
+44.0,A2a,Russia,Samara Region,Samara Region,Europe,Male,2020-03-20
+68.0,A2a,Hungary,Baranya,Baranya,Europe,Male,2020-03-20
+54.0,A2a,Hungary,Baranya,Baranya,Europe,Male,2020-03-22
+32.0,A2a,Switzerland,Basel,Basel,Europe,Female,2020-03-22
+28.0,A2a,Hungary,Baranya,Baranya,Europe,Female,2020-03-27
+32.0,A2a,United Arab Emirates,United Arab Emirates,United Arab Emirates,Asia,Female,2020-03-15
+84.0,A2a,Germany,Bavaria,Bavaria,Europe,Male,2020-04-10
+35.0,A2a,Finland,Finland,Finland,Europe,Male,2020-03-04
+43.0,A2a,Belgium,Sint-Pieters-Woluwe,Sint-Pieters-Woluwe,Europe,Female,2020-03-02
+28.0,A2a,Belgium,Dendermonde,Dendermonde,Europe,Female,2020-03-04
+44.0,A2a,Belgium,Komen,Komen,Europe,Female,2020-03-05
+19.0,A2a,Iceland,Reykjavik,Reykjavik,Europe,Female,2020-03-10
+16.0,A2a,Belgium,Holsbeek,Holsbeek,Europe,Male,2020-03-02
+59.0,A2a,Finland,Helsinki,Italy,Europe,Male,2020-03-03
+67.0,A2a,Ireland,Tipperary,Tipperary,Europe,Male,2020-03-06
+52.0,A2a,Belgium,Wervik,Wervik,Europe,Male,2020-03-06
+40.0,A2a,Belgium,Waasmunster,Waasmunster,Europe,Female,2020-03-05
+16.0,A2a,Belgium,Holsbeek,Holsbeek,Europe,Female,2020-03-02
+51.0,A2a,Belgium,Zolder,Zolder,Europe,Male,2020-03-04
+50.0,A2a,Belgium,Leuven,Leuven,Europe,Female,2020-03-03
+71.0,A2a,Italy,Abruzzo,Abruzzo,Europe,Male,2020-03-19
+49.0,A2a,Finland,Finland,Finland,Europe,Female,2020-03-05
+94.0,A2a,Austria,Vienna,Vienna,Europe,Male,2020-04-02
+94.0,A2a,Austria,Vienna,Vienna,Europe,Male,2020-04-07
+94.0,A2a,Austria,Vienna,Vienna,Europe,Male,2020-04-05
+53.0,A2a,Switzerland,Schwyz,Schwyz,Europe,Male,2020-03-02
+59.0,A2a,Germany,Bavaria,Bavaria,Europe,Male,2020-04-02
+28.0,A2a,Germany,Bavaria,Bavaria,Europe,Female,2020-04-01
+26.0,A2a,Czech Republic,Prague,Prague,Europe,Male,2020-03-22
+29.0,A2a,Germany,Bavaria,Bavaria,Europe,Male,2020-03-12
+52.0,A2a,Belgium,Asse,Asse,Europe,Female,2020-03-09
+31.0,A2a,Germany,Bavaria,Bavaria,Europe,Female,2020-03-11
+30.0,A2a,Germany,Munich,Munich,Europe,Female,2020-03-13
+64.0,A2a,Germany,Bavaria,Bavaria,Europe,Male,2020-03-05
+64.0,A2a,Germany,Munich,Munich,Europe,Male,2020-03-11
+50.0,A2a,Iceland,Reykjavik,Reykjavik,Europe,Female,2020-03-09
+22.0,A2a,Brazil,Sao Paulo,Italy,South America,Female,2020-03-03
+51.0,A2a,Belgium,Holsbeek,Holsbeek,Europe,Male,2020-03-03
+45.0,A2a,Russia,Lipetsk Region,Lipetsk Region,Europe,Male,2020-03-11
+62.0,A2a,Russia,Krasnodar Region,Krasnodar Region,Europe,Male,2020-03-11
+66.0,A2a,Sweden,Halland,Halland,Europe,Female,2020-03-11
+67.0,A2a,Ireland,Dublin,Dublin,Europe,Male,2020-03-06
+43.0,A2a,Finland,Finland,Finland,Europe,Female,2020-03-07
+61.0,A2a,Iceland,Reykjavik,Italy,Europe,Male,2020-03-02
+46.0,A2a,Brazil,Sao Paulo,Sao Paulo,South America,Male,2020-03-02
+48.0,A2a,Belgium,Holsbeek,Holsbeek,Europe,Female,2020-03-02
+49.0,A2a,Ireland,Dublin,Dublin,Europe,Female,2020-03-02
+60.0,A2a,Portugal,Portugal,Italy,Europe,Male,2020-03-01
+61.0,A2a,Russia,Lipetsk Region,Lipetsk Region,Europe,Male,2020-03-11
+31.0,A2a,Belgium,Antwerp,Antwerp,Europe,Female,2020-03-04
+50.0,A2a,Belgium,Brussels,Brussels,Europe,Female,2020-03-04
+11.0,A2a,Belgium,Leuven,Leuven,Europe,Male,2020-03-04
+13.0,A2a,Brazil,Sao Paulo,Italy,South America,Female,2020-03-04
+55.0,A2a,Belgium,Lubbeek,Lubbeek,Europe,Male,2020-03-04
+83.0,A2a,Austria,Vienna,Vienna,Europe,Male,2020-04-02
+83.0,A2a,Austria,Vienna,Vienna,Europe,Male,2020-04-05
+67.0,A2a,Russia,Saint-Petersburg,Saint-Petersburg,Europe,Female,2020-04-15
+39.0,A2a,Austria,Styria,Styria,Europe,Male,2020-03-19
+43.0,A2a,Russia,Moscow,Moscow,Europe,Male,2020-03-11
+30.0,A2a,Germany,Bavaria,Bavaria,Europe,Female,2020-03-11
+50.0,A2a,Iceland,Reykjavik,Italy,Europe,Male,2020-03-11
+22.0,A2a,Germany,Munich,Munich,Europe,Female,2020-03-12
+45.0,A2a,Belgium,Lanaken,Lanaken,Europe,Male,2020-03-05
+56.0,A2a,Germany,Bavaria,Bavaria,Europe,Male,2020-03-08
+60.0,A2a,Austria,Vienna,Vienna,Europe,Male,2020-03-16
+16.0,A2a,Russia,Moscow,Moscow,Europe,Female,2020-03-13
+56.0,A2a,Austria,Austria,Tyrol,Europe,Female,2020-03-13
+48.0,A2a,Austria,Vienna,Vienna,Europe,Female,2020-03-21
+72.0,A2a,Austria,Vienna,Vienna,Europe,Male,2020-03-17
+66.0,A2a,Czech Republic,Prague,Prague,Europe,Male,2020-03-16
+22.0,A2a,Germany,Bavaria,Bavaria,Europe,Female,2020-03-12
+65.0,A2a,Austria,Vienna,Vienna,Europe,Female,2020-03-14
+36.0,A2a,Austria,Burgenland,Burgenland,Europe,Male,2020-03-26
+70.0,A2a,Austria,Tyrol,Tyrol,Europe,Female,2020-03-25
+45.0,A2a,United Kingdom,Wales,Wales,Europe,Female,2020-03-30
+37.0,A2a,Austria,Vienna,Vienna,Europe,Male,2020-03-24
+24.0,A2a,Australia,Queensland,Queensland,Oceania,Female,2020-03-18
+36.0,A2a,Russia,Moscow Region,Moscow Region,Europe,Male,2020-03-19
+24.0,A2a,Austria,Styria,Styria,Europe,Female,2020-03-18
+47.0,A2a,Austria,Austria,Austria,Europe,Female,2020-03-19
+67.0,A2a,Italy,Abruzzo,Abruzzo,Europe,Male,2020-03-24
+29.0,A2a,Italy,Abruzzo,Abruzzo,Europe,Male,2020-04-09
+49.0,A2a,Italy,Abruzzo,Abruzzo,Europe,Female,2020-04-08
+47.0,A2a,United Kingdom,England,England,Europe,Female,2020-03-23
+73.0,A2a,Czech Republic,Prague,Prague,Europe,Male,2020-03-19
+75.0,A2a,Czech Republic,Prague,Prague,Europe,Male,2020-03-19
+59.0,A2a,Spain,Comunitat Valenciana,Comunitat Valenciana,Europe,Female,2020-03-17
+52.0,A2a,France,Bretagne,Bretagne,Europe,Female,2020-03-25
+66.0,A2a,USA,New York,New York,North America,Male,2020-04-13
+25.0,A2a,Russia,Saint-Petersburg,Saint-Petersburg,Europe,Male,2020-04-08
+71.0,A2a,Australia,Victoria,Victoria,Oceania,Male,2020-03-24
+66.0,A2a,Turkey,Kocaeli,Kocaeli,Europe,Female,2020-03-27
+64.0,A2a,Turkey,Ankara,Ankara,Europe,Male,2020-03-25
+70.0,A2a,Italy,Abruzzo,Abruzzo,Europe,Male,2020-03-21
+25.0,A2a,France,Bretagne,Bretagne,Europe,Male,2020-03-24
+80.0,A2a,France,Bretagne,Bretagne,Europe,Female,2020-03-22
+82.0,A2a,France,Bretagne,Bretagne,Europe,Female,2020-03-27
+77.0,A2a,France,Bretagne,Bretagne,Europe,Female,2020-03-29
+20.0,A2a,Belgium,Schoten,Schoten,Europe,Male,2020-03-06
+22.0,A2a,Ireland,Dublin,Dublin,Europe,Female,2020-03-08
+25.0,A2a,Austria,Tyrol,Tyrol,Europe,Female,2020-02-24
+27.0,A2a,Switzerland,Zurich,Lombardy,Europe,Male,2020-02-29
+30.0,A2a,United Kingdom,England,England,Europe,Female,2020-02-29
+46.0,A2a,Belgium,Sint-Niklaas,Sint-Niklaas,Europe,Male,2020-03-01
+19.0,A2a,Sweden,Orebro lan,Orebro lan,Europe,Female,2020-03-10
+39.0,A2a,Portugal,Portugal,Portugal,Europe,Male,2020-03-15
+56.0,A2a,Portugal,Portugal,Portugal,Europe,Male,2020-03-13
+44.0,A2a,India,West Bengal,West Bengal,Asia,Female,2020-03-28
+55.0,A2a,Belgium,Dilbeek,Dilbeek,Europe,Male,2020-03-04
+37.0,A2a,Sweden,Varmland,Varmland,Europe,Male,2020-03-05
+40.0,A2a,Sweden,Skane,Skane,Europe,Female,2020-03-16
+48.0,A2a,Sweden,Skane,Skane,Europe,Male,2020-03-16
+27.0,A2a,Vietnam,Red River Delta,Red River Delta,Asia,Male,2020-03-06
+64.0,A2a,Vietnam,Red River Delta,Red River Delta,Asia,Female,2020-03-06
+30.0,A2a,Sweden,Halland,Halland,Europe,Female,2020-03-11
+24.0,A2a,Canada,Ontario,Ontario,North America,Female,2020-03-11
+33.0,A2a,Turkey,Sakarya,Sakarya,Europe,Male,2020-03-22
+28.0,A2a,USA,New York,New York,North America,Male,2020-04-11
+83.0,A2a,Belgium,Liège,Liège,Europe,Female,2020-03-22
+77.0,A2a,Austria,Tyrol,Tyrol,Europe,Female,2020-03-24
+48.0,A2a,Brazil,Rio de Janeiro,Rio de Janeiro,South America,Male,2020-03-11
+48.0,A2a,Brazil,Rio de Janeiro,Rio de Janeiro,South America,Male,2020-03-11
+89.0,A2a,Vietnam,Vietnam,Vietnam,Asia,Male,2020-03-10
+74.0,A2a,Vietnam,Vietnam,Vietnam,Asia,Male,2020-03-09
+14.0,A2a,Portugal,Portugal,Portugal,Europe,Male,2020-03-08
+66.0,A2a,Sweden,Varmland,Varmland,Europe,Male,2020-03-08
+29.0,A2a,Sweden,Gavleborgs lan,Gavleborgs lan,Europe,Female,2020-03-16
+29.0,A2a,Sweden,Gavleborgs lan,Gavleborgs lan,Europe,Female,2020-03-16
+69.0,A2a,Argentina,Ciudad Autonoma de Buenos Aires,France,South America,Female,2020-04-02
+67.0,A2a,Portugal,Portugal,Portugal,Europe,Female,2020-03-21
+74.0,A2a,Portugal,Portugal,Portugal,Europe,Female,2020-03-21
+85.0,A2a,Portugal,Portugal,Portugal,Europe,Male,2020-03-18
+68.0,A2a,Portugal,Portugal,Portugal,Europe,Male,2020-03-18
+71.0,A2a,Spain,Comunitat Valenciana,Comunitat Valenciana,Europe,Male,2020-03-11
+2.0,A2a,Australia,Victoria,Victoria,Oceania,Female,2020-04-10
+25.0,A2a,Australia,Victoria,Victoria,Oceania,Female,2020-04-13
+20.0,A2a,Australia,Victoria,Victoria,Oceania,Female,2020-04-07
+64.0,A2a,United Kingdom,England,England,Europe,Female,2020-02-23
+41.0,A2a,Italy,Rome,Rome,Europe,Male,2020-02-28
+35.0,A2a,Mexico,Mexico City,Lombardy,North America,Male,2020-02-27
+69.0,A2a,Spain,Comunitat Valenciana,Comunitat Valenciana,Europe,Female,2020-02-27
+36.0,A2a,Russia,Perm Region,Perm Region,Europe,Female,2020-03-24
+28.0,A2a,Russia,Saint-Petersburg,Saint-Petersburg,Europe,Female,2020-03-24
+71.0,A2a,Russia,Saint-Petersburg,Saint-Petersburg,Europe,Female,2020-03-24
+96.0,A2a,Italy,Abruzzo,Abruzzo,Europe,Female,2020-03-28
+22.0,A2a,Taiwan,Taipei,Spain,Asia,Female,2020-03-18
+22.0,A2a,Taiwan,Taiwan,Taiwan,Asia,Female,2020-03-15
+27.0,A2a,Singapore,Singapore,Singapore,Asia,Male,2020-03-16
+58.0,A2a,Sri Lanka,Sri Lanka,Sri Lanka,Asia,Male,2020-03-10
+70.0,A2a,Vietnam,Vietnam,Vietnam,Asia,Female,2020-03-10
+39.0,A2a,Ireland,Wicklow,Wicklow,Europe,Female,2020-03-10
+35.0,A2a,Russia,Saint-Petersburg,Saint-Petersburg,Europe,Female,2020-03-13
+29.0,A2a,Hungary,Oroshaza,Oroshaza,Europe,Female,2020-03-25
+29.0,A2a,Italy,Abruzzo,Abruzzo,Europe,Female,2020-03-23
+40.0,A2a,Italy,Abruzzo,Abruzzo,Europe,Female,2020-03-19
+61.0,A2a,Italy,Abruzzo,Abruzzo,Europe,Male,2020-03-19
+55.0,A2a,Russia,Saint-Petersburg,Saint-Petersburg,Europe,Female,2020-04-09
+33.0,A2a,Australia,Victoria,Victoria,Oceania,Male,2020-03-21
+21.0,A2a,India,Telangana,United Kingdom,Asia,Male,2020-03-20
+62.0,A2a,Italy,Abruzzo,Abruzzo,Europe,Male,2020-03-20
+31.0,A2a,Russia,Primorskiy Region,Primorskiy Region,Europe,Female,2020-03-22
+52.0,A2a,France,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,Europe,Female,2020-03-22
+60.0,A2a,Italy,Abruzzo,Abruzzo,Europe,Male,2020-03-20
+55.0,A2a,Austria,Tyrol,Tyrol,Europe,Male,2020-03-20
+64.0,A2a,Belgium,Zoutleeuw,Zoutleeuw,Europe,Female,2020-03-24
+75.0,A2a,Italy,Abruzzo,Abruzzo,Europe,Male,2020-03-20
+25.0,A2a,Russia,Tatarstan,Tatarstan,Europe,Male,2020-03-24
+23.0,A2a,Singapore,Singapore,Singapore,Asia,Female,2020-03-20
+77.0,A2a,Belgium,Lasne,Lasne,Europe,Male,2020-03-24
+66.0,A2a,Czech Republic,Vysocina Region,Vysocina Region,Europe,Female ,2020-04-14
+59.0,A2a,Argentina,Buenos Aires,Mexico,South America,Male,2020-03-27
+22.0,A2a,Argentina,Buenos Aires,Buenos Aires,South America,Female,2020-04-01
+56.0,A2a,Czech Republic,Prague,Prague,Europe,Male,2020-03-21
+62.0,A2a,Italy,Abruzzo,Abruzzo,Europe,Male,2020-03-17
+53.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Female,2020-04-02
+94.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Female,2020-03-26
+94.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Female,2020-04-10
+98.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Female,2020-04-09
+54.0,A2a,Italy,Abruzzo,Abruzzo,Europe,Female,2020-04-08
+35.0,A2a,Italy,Abruzzo,Abruzzo,Europe,Male,2020-04-09
+18.0,A2a,Italy,Abruzzo,Abruzzo,Europe,Female,2020-04-08
+49.0,A2a,Italy,Abruzzo,Abruzzo,Europe,Female,2020-04-08
+56.0,A2a,Sweden,Halland,Halland,Europe,Female,2020-03-12
+24.0,A2a,Germany,Bavaria,Bavaria,Europe,Female,2020-03-12
+21.0,A2a,Sweden,Vastra Gotaland,Vastra Gotaland,Europe,Male,2020-04-16
+44.0,A2a,Sweden,Uppsala,Uppsala,Europe,Female,2020-04-14
+21.0,A2a,Australia,Victoria,Victoria,Oceania,Male,2020-03-28
+37.0,A2a,Russia,Republic of Buryatia,Republic of Buryatia,Europe,Female,2020-03-30
+29.0,A2a,Singapore,Singapore,Singapore,Asia,Male,2020-03-18
+66.0,A2a,Russia,Republic of Buryatia,Republic of Buryatia,Europe,Female,2020-03-30
+43.0,A2a,Hungary,Kecskemet,Kecskemet,Europe,Male,2020-03-21
+38.0,A2a,Australia,Victoria,Victoria,Oceania,Male,2020-04-11
+32.0,A2a,Russia,Buryat Republic,Buryat Republic,Europe,Male,2020-03-25
+26.0,A2a,South Africa,KwaZulu-Natal,KwaZulu-Natal,Africa,Female,2020-03-31
+50.0,A2a,Vietnam,Vietnam,Vietnam,Asia,Male,2020-03-09
+19.0,A2a,India,Delhi,Delhi,Asia,Female,2020-03-26
+79.0,A2a,Italy,Abruzzo,Abruzzo,Europe,Male,2020-03-24
+43.0,A2a,Italy,Abruzzo,Abruzzo,Europe,Male,2020-03-23
+26.0,A2a,Russia,Republic of Buryatia,Republic of Buryatia,Europe,Male,2020-03-27
+86.0,A2a,Italy,Abruzzo,Abruzzo,Europe,Male,2020-03-23
+49.0,A2a,Turkey,Kocaeli,Kocaeli,Europe,Male,2020-03-27
+38.0,A2a,Italy,Abruzzo,Abruzzo,Europe,Male,2020-03-23
+37.0,A2a,Russia,Republic of Buryatia,Republic of Buryatia,Europe,Female,2020-03-27
+60.0,A2a,Russia,Sverdlovsk Region,Sverdlovsk Region,Europe,Female,2020-03-30
+48.0,A2a,Belgium,Tienen,Tienen,Europe,Male,2020-03-25
+54.0,A2a,Belgium,Liège,Liège,Europe,Female,2020-03-31
+29.0,A2a,Argentina,Buenos Aires,Buenos Aires,South America,Female,2020-03-31
+41.0,A2a,Singapore,Singapore,Singapore,Asia,Female,2020-03-31
+85.0,A2a,Germany,Bavaria,Bavaria,Europe,Male,2020-03-24
+77.0,A2a,Germany,Bavaria,Bavaria,Europe,Male,2020-03-27
+78.0,A2a,Germany,Bavaria,Bavaria,Europe,Male,2020-04-02
+33.0,A2a,Germany,Bavaria,Bavaria,Europe,Male,2020-03-16
+59.0,A2a,Taiwan,Taiwan,Taiwan,Asia,Male,2020-03-16
+32.0,A2a,Germany,Munich,Munich,Europe,Female,2020-03-19
+59.0,A2a,Germany,Munich,Munich,Europe,Female,2020-03-19
+35.0,A2a,Germany,Munich,Munich,Europe,Female,2020-03-19
+60.0,A2a,Germany,Bavaria,Bavaria,Europe,Male,2020-03-20
+24.0,A2a,Portugal,Portugal,Portugal,Europe,Male,2020-03-20
+57.0,A2a,Sweden,Jamtland,Jamtland,Europe,Male,2020-03-23
+21.0,A2a,Singapore,Singapore,Singapore,Asia,Male,2020-03-18
+51.0,A2a,USA,Oregon,Oregon,North America,Male,2020-04-19
+71.0,A2a,Australia,Victoria,Victoria,Oceania,Male,2020-04-09
+76.0,A2a,Australia,Victoria,Victoria,Oceania,Male,2020-04-11
+23.0,A2a,Germany,Bavaria,Bavaria,Europe,Male,2020-04-13
+30.0,A2a,Russia,Saint-Petersburg,Saint-Petersburg,Europe,Female,2020-04-14
+73.0,A2a,Ghana,Greater Accra,Greater Accra,Africa,Male,2020-03-30
+64.0,A2a,Germany,Bavaria,Bavaria,Europe,Male,2020-03-30
+40.0,A2a,Sweden,Stockholm,Stockholm,Europe,Male,2020-04-16
+31.0,A2a,United Kingdom,England,England,Europe,Male,2020-04-01
+49.0,A2a,Italy,Abruzzo,Abruzzo,Europe,Male,2020-04-27
+33.0,A2a,United Kingdom,England,England,Europe,Female,2020-03-25
+40.0,A2a,Sweden,Stockholm,Stockholm,Europe,Female,2020-03-24
+32.0,A2a,India,Delhi,Delhi,Asia,Male,2020-03-25
+29.0,A2a,India,Uttar Pradesh,Uttar Pradesh,Asia,Female,2020-03-30
+44.0,A2a,Belgium,Tubize,Tubize,Europe,Male,2020-03-23
+55.0,A2a,Belgium,Lasne,Lasne,Europe,Female,2020-03-23
+70.0,A2a,Sweden,Stockholm,Stockholm,Europe,Female,2020-04-20
+61.0,A2a,Russia,Saint-Petersburg,Saint-Petersburg,Europe,Male,2020-04-07
+73.0,A2a,Russia,Saint-Petersburg,Saint-Petersburg,Europe,Male,2020-04-07
+57.0,A2a,Russia,Saint-Petersburg,Saint-Petersburg,Europe,Female,2020-04-07
+55.0,A2a,Russia,Saint-Petersburg,Saint-Petersburg,Europe,Female,2020-04-07
+41.0,A2a,Russia,Saint-Petersburg,Saint-Petersburg,Europe,Female,2020-04-07
+64.0,A2a,Russia,Saint-Petersburg,Saint-Petersburg,Europe,Female,2020-04-14
+37.0,A2a,Russia,Saint-Petersburg,Saint-Petersburg,Europe,Female,2020-04-14
+33.0,A2a,Russia,Saint-Petersburg,Saint-Petersburg,Europe,Female,2020-04-07
+32.0,A2a,Russia,Saint-Petersburg,Saint-Petersburg,Europe,Male,2020-04-07
+73.0,A2a,Russia,Saint-Petersburg,Saint-Petersburg,Europe,Female,2020-04-07
+50.0,A2a,Russia,Saint-Petersburg,Saint-Petersburg,Europe,Female,2020-04-10
+52.0,A2a,Russia,Saint-Petersburg,Saint-Petersburg,Europe,Female,2020-04-14
+64.0,A2a,Russia,Saint-Petersburg,Saint-Petersburg,Europe,Female,2020-04-07
+40.0,A2a,Russia,Saint-Petersburg,Saint-Petersburg,Europe,Female,2020-04-07
+71.0,A2a,Russia,Saint-Petersburg,Saint-Petersburg,Europe,Female,2020-04-10
+48.0,A2a,Russia,Saint-Petersburg,Saint-Petersburg,Europe,Male,2020-04-03
+78.0,A2a,Russia,Saint-Petersburg,Saint-Petersburg,Europe,Female,2020-04-07
+22.0,A2a,USA,Florida,Florida,North America,Female,2020-03-02
+81.0,A2a,Italy,Abruzzo,Abruzzo,Europe,Male,2020-03-20
+79.0,A2a,Italy,Abruzzo,Abruzzo,Europe,Female,2020-03-20
+59.0,A2a,Portugal,Portugal,Portugal,Europe,Female,2020-03-21
+31.0,A2a,Portugal,Portugal,Portugal,Europe,Male,2020-03-21
+48.0,A2a,India,West Bengal,West Bengal,Asia,Male,2020-03-21
+20.0,A2a,India,West Bengal,West Bengal,Asia,Male,2020-03-21
+70.0,A2a,United Kingdom,England,England,Europe,Female,2020-03-20
+64.0,A2a,Iceland,Reykjavik,United Kingdom,Europe,Male,2020-03-17
+46.0,A2a,Russia,Republic of Sakha,Republic of Sakha,Europe,Male,2020-03-20
+44.0,A2a,Russia,Moscow,Moscow,Europe,Male,2020-04-14
+41.0,A2a,Russia,Moscow,Moscow,Europe,Male,2020-04-14
+33.0,A2a,Russia,Moscow,Moscow,Europe,Male,2020-04-14
+41.0,A2a,Belgium,Fontaine-l Eveque,Fontaine-l Eveque,Europe,Male,2020-03-24
+22.0,A2a,Bangladesh,Dhaka,Dhaka,Asia,Female,2020-04-18
+80.0,A2a,Italy,Abruzzo,Abruzzo,Europe,Male,2020-03-14
+87.0,A2a,Italy,Abruzzo,Abruzzo,Europe,Male,2020-03-14
+18.0,A2a,Taiwan,New Taipei City,New Taipei City,Asia,Male,2020-03-14
+44.0,A2a,Russia,Moscow,Moscow,Europe,Male,2020-04-02
+54.0,A2a,France,Ile de France,Ile de France,Europe,Female,2020-03-18
+25.0,A2a,Australia,Victoria,Victoria,Oceania,Female,2020-03-21
+29.0,A2a,Czech Republic,Prague,Prague,Europe,Male,2020-03-18
+36.0,A2a,Czech Republic,Prague,Prague,Europe,Male,2020-03-18
+56.0,A2a,Russia,Saint-Petersburg,Saint-Petersburg,Europe,Male,2020-03-25
+19.0,A2a,India,Delhi,Delhi,Asia,Male,2020-03-18
+70.0,A2a,Italy,Abruzzo,Abruzzo,Europe,Male,2020-03-24
+35.0,A2a,Portugal,Portugal,Portugal,Europe,Female,2020-03-18
+26.0,A2a,Russia,Republic of Sakha,Republic of Sakha,Europe,Male,2020-03-27
+23.0,A2a,Portugal,Portugal,Portugal,Europe,Male,2020-03-18
+61.0,A2a,Turkey,Ankara,Ankara,Europe,Male,2020-03-27
+70.0,A2a,Portugal,Portugal,Portugal,Europe,Male,2020-03-18
+16.0,A2a,Russia,Republic of Buryatia,Republic of Buryatia,Europe,Male,2020-03-30
+85.0,A2a,Italy,Abruzzo,Abruzzo,Europe,Male,2020-03-24
+25.0,A2a,Belgium,Liège,Liège,Europe,Female,2020-03-31
+24.0,A2a,Italy,Abruzzo,Abruzzo,Europe,Male,2020-04-09
+55.0,A2a,Sweden,Vasterbotten,Vasterbotten,Europe,Female,2020-04-08
+35.0,A2a,USA,New Jersey,New Jersey,North America,Female,2020-04-08
+65.0,A2a,Italy,Abruzzo,Abruzzo,Europe,Male,2020-04-09
+24.0,A2a,Russia,Saint-Petersburg,Saint-Petersburg,Europe,Male,2020-04-15
+25.0,A2a,Russia,Republic of Buryatia,Republic of Buryatia,Europe,Male,2020-04-01
+49.0,A2a,Georgia,Tbilisi,Tbilisi,Asia,Female,2020-04-01
+44.0,A2a,Belgium,Nieuwerkerken,Nieuwerkerken,Europe,Female,2020-03-24
+50.0,A2a,Germany,Bavaria,Bavaria,Europe,Female,2020-03-22
+73.0,A2a,Belgium,Quaregnon,Quaregnon,Europe,Male,2020-03-25
+15.0,A2a,Portugal,Portugal,Portugal,Europe,Male,2020-03-22
+67.0,A2a,Russia,Buryat Republic,Buryat Republic,Europe,Female,2020-03-25
+18.0,A2a,Portugal,Portugal,Portugal,Europe,Male,2020-03-22
+51.0,A2a,Russia,Saint-Petersburg,Saint-Petersburg,Europe,Male,2020-03-25
+27.0,A2a,Vietnam,Red River Delta,Red River Delta,Asia,Male,2020-03-07
+64.0,A2a,Vietnam,Red River Delta,Red River Delta,Asia,Female,2020-03-07
+51.0,A2a,Argentina,Argentina,Argentina,South America,Male,2020-03-07
+50.0,A2a,Vietnam,Quangning,Quangning,Asia,Female,2020-03-07
+38.0,A2a,Russia,Republic of Sakha,Republic of Sakha,Europe,Male,2020-04-01
+25.0,A2a,France,Bretagne,Bretagne,Europe,Female,2020-04-01
+81.0,A2a,Spain,Comunitat Valenciana,Comunitat Valenciana,Europe,Female,2020-03-28
+36.0,A2a,USA,Ohio,Ohio,North America,Female,2020-04-01
+42.0,A2a,Czech Republic,Prague,Prague,Europe,Male,2020-03-17
+17.0,A2a,Taiwan,New Taipei City,New Taipei City,Asia,Male,2020-03-17
+75.0,A2a,Italy,Abruzzo,Abruzzo,Europe,Female,2020-03-17
+73.0,A2a,United Kingdom,Wales,Wales,Europe,Female,2020-03-27
+78.0,A2a,Italy,Abruzzo,Abruzzo,Europe,Female,2020-03-17
+37.0,A2a,Russia,Republic of Buryatia,Republic of Buryatia,Europe,Female,2020-03-27
+23.0,A2a,Russia,Novosibirsk Region,Novosibirsk Region,Europe,Female,2020-03-27
+70.0,A2a,Italy,Abruzzo,Abruzzo,Europe,Male,2020-03-24
+71.0,A2a,Turkey,Kocaeli,Kocaeli,Europe,Male,2020-03-23
+51.0,A2a,Kuwait,Kuwait,United Kingdom,Asia,Male,2020-03-16
+28.0,A2a,Singapore,Singapore,Singapore,Asia,Male,2020-03-16
+43.0,A2a,Hungary,Kecskemet,Kecskemet,Europe,Male,2020-03-29
+62.0,A2a,United Kingdom,England,England,Europe,Male,2020-03-30
+53.0,A2a,Australia,Victoria,Victoria,Oceania,Female,2020-04-13
+36.0,A2a,Australia,Victoria,Victoria,Oceania,Female,2020-04-08
+45.0,A2a,Belgium,Liège,Liège,Europe,Male,2020-03-30
+37.0,A2a,USA,Maryland,Maryland,North America,Male,2020-03-26
+82.0,A2a,Belgium,Liège,Liège,Europe,Female,2020-03-30
+57.0,A2a,Australia,Victoria,Victoria,Oceania,Female,2020-03-26
+67.0,A2a,Austria,Tyrol,Tyrol,Europe,Male,2020-03-25
+66.0,A2a,Italy,Abruzzo,Abruzzo,Europe,Male,2020-03-24
+53.0,A2a,Germany,Munich,Munich,Europe,Male,2020-03-21
+64.0,A2a,Italy,Abruzzo,Abruzzo,Europe,Male,2020-03-21
+29.0,A2a,Hungary,Bekesszentandras,Bekesszentandras,Europe,Male,2020-03-25
+55.0,A2a,Italy,Veneto,Veneto,Europe,Male,2020-03-25
+92.0,A2a,Germany,Bavaria,Bavaria,Europe,Female,2020-03-25
+56.0,A2a,United Kingdom,England,England,Europe,Male,2020-03-27
+14.0,A2a,Belgium,Huldenberg,Huldenberg,Europe,Female,2020-03-01
+48.0,A2a,Belgium,Huldenberg,Huldenberg,Europe,Female,2020-03-03
+12.0,A2a,Belgium,Couthuin,Couthuin,Europe,Female,2020-03-02
+45.0,A2a,Belgium,Kessel-Lo,Kessel-Lo,Europe,Male,2020-03-03
+63.0,A2a,Italy,Abruzzo,Abruzzo,Europe,Female,2020-03-14
+93.0,A2a,Italy,Abruzzo,Abruzzo,Europe,Male,2020-04-27
+60.0,A2a,India,Gujarat,Gujarat,Asia,Female,2020-04-07
+46.0,A2a,Germany,Duesseldorf,Duesseldorf,Europe,Female,2020-03-23
+37.0,A2a,Taiwan,Taipei,Taipei,Asia,Female,2020-03-19
+36.0,A2a,Switzerland,Basel,Basel,Europe,Female,2020-03-04
+46.0,A2a,Switzerland,Basel,Basel,Europe,Female,2020-03-05
+56.0,A2a,Switzerland,Basel,Basel,Europe,Female,2020-03-05
+31.0,A2a,Switzerland,Basel,Basel,Europe,Female,2020-03-05
+66.0,A2a,Switzerland,Basel,Basel,Europe,Female,2020-03-03
+53.0,A2a,France,Hauts de France,Hauts de France,Europe,Female,2020-03-08
+49.0,A2a,Switzerland,Basel,Basel,Europe,Male,2020-03-06
+68.0,A2a,Switzerland,Basel,Basel,Europe,Female,2020-03-04
+76.0,A2a,Switzerland,Basel,Basel,Europe,Male,2020-03-04
+49.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Male,2020-03-19
+29.0,A2a,Switzerland,Basel,Basel,Europe,Male,2020-03-04
+37.0,A2a,Switzerland,Basel,Basel,Europe,Male,2020-03-05
+23.0,A2a,Taiwan,Taiwan,Taiwan,Asia,Female,2020-03-18
+82.0,A2a,France,Ile de France,Ile de France,Europe,Male,2020-03-11
+53.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Male,2020-03-22
+18.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Female,2020-03-18
+41.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Male,2020-03-22
+56.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Male,2020-03-25
+65.0,A2a,Belgium,Liège,Liège,Europe,Female,2020-03-19
+52.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Female,2020-04-05
+63.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Male,2020-04-09
+33.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Female,2020-04-08
+29.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Female,2020-04-13
+21.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Female,2020-04-12
+37.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Male,2020-04-08
+13.0,A2a,United Kingdom,England,England,Europe,Male,2020-02-29
+45.0,A2a,United Kingdom,England,England,Europe,Female,2020-02-26
+32.0,A2a,Russia,Moscow,Moscow,Europe,Male,2020-03-22
+30.0,A2a,Argentina,Ciudad Autonoma de Buenos Aires,Ciudad Autonoma de Buenos Aires,South America,Male,2020-03-27
+58.0,A2a,Hong Kong,Hong Kong,Hong Kong,Asia,Male,2020-03-14
+61.0,A2a,Hong Kong,Hong Kong,Hong Kong,Asia,Female,2020-03-14
+33.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Male,2020-03-17
+68.0,A2a,Senegal,Mbour,Mbour,Africa,Female,2020-03-13
+33.0,A2a,Hungary,Szeged,Szeged,Europe,Male,2020-03-28
+39.0,A2a,Switzerland,Basel,Basel,Europe,Male,2020-03-04
+45.0,A2a,Portugal,Portugal,Portugal,Europe,Male,2020-03-17
+31.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Male,2020-03-26
+24.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Male,2020-04-15
+38.0,A2a,India,Karnataka,Karnataka,Asia,Male,2020-04-23
+27.0,A2a,India,Karnataka,Karnataka,Asia,Female,2020-04-24
+20.0,A2a,India,Karnataka,Karnataka,Asia,Male,2020-04-23
+52.0,A2a,India,Karnataka,Karnataka,Asia,Female,2020-04-24
+49.0,A2a,Denmark,Copenhagen,Copenhagen,Europe,Male,2020-03-02
+52.0,A2a,Canada,British Columbia,British Columbia,North America,Female,2020-03-10
+70.0,A2a,Switzerland,Ticino,Ticino,Europe,Male,2020-02-24
+61.0,A2a,Germany,Bavaria,Bavaria,Europe,Male,2020-04-06
+38.0,A2a,Italy,Lombardy,Lombardy,Europe,Female,2020-03-03
+27.0,A2a,Russia,Moscow Region,Moscow Region,Europe,Male,2020-03-19
+45.0,A2a,Brazil,Minas Gerais,Minas Gerais,South America,Male,2020-03-09
+50.0,A2a,Austria,Austria,Austria,Europe,Female,2020-03-13
+101.0,A2a,Italy,Abruzzo,Abruzzo,Europe,Female,2020-04-27
+36.0,A2a,Italy,Abruzzo,Abruzzo,Europe,Male,2020-04-07
+43.0,A2a,Italy,Abruzzo,Abruzzo,Europe,Female,2020-04-08
+36.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Male,2020-03-26
+84.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Male,2020-04-01
+46.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Female,2020-04-09
+36.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Male,2020-03-23
+80.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Male,2020-04-15
+75.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Female,2020-04-01
+62.0,A2a,France,Normandie,Normandie,Europe,Male,2020-03-04
+63.0,A2a,Germany,Bavaria,Bavaria,Europe,Male,2020-03-15
+39.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Female,2020-03-15
+70.0,A2a,Italy,Rome,Rome,Europe,Female,2020-03-23
+59.0,A2a,Russia,Moscow Region,Moscow Region,Europe,Male,2020-03-23
+26.0,A2a,Italy,Abruzzo,Abruzzo,Europe,Male,2020-03-17
+59.0,A2a,Canada,British Columbia,British Columbia,North America,Male,2020-03-12
+32.0,A2a,Ghana,Greater Accra,Greater Accra,Africa,Male,2020-03-30
+73.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Male,2020-04-07
+22.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Male,2020-04-05
+30.0,A2a,Sweden,Ostergotland,Ostergotland,Europe,Male,2020-03-12
+34.0,A2a,Canada,British Columbia,British Columbia,North America,Male,2020-03-13
+25.0,A2a,USA,Oregon,Oregon,North America,Female,2020-04-09
+11.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Male,2020-03-18
+44.0,A2a,Germany,Bavaria,Bavaria,Europe,Female,2020-04-02
+73.0,A2a,Germany,Bavaria,Bavaria,Europe,Female,2020-04-01
+75.0,A2a,Germany,Bavaria,Bavaria,Europe,Female,2020-04-09
+82.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Male,2020-03-18
+63.0,A2a,Germany,Bavaria,Bavaria,Europe,Male,2020-04-06
+75.0,A2a,Germany,Bavaria,Bavaria,Europe,Female,2020-04-07
+57.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Male,2020-03-28
+24.0,A2a,Belgium,Rixensart,Rixensart,Europe,Male,2020-03-06
+24.0,A2a,Belgium,Waterloo,Waterloo,Europe,Male,2020-03-07
+80.0,A2a,Taiwan,Taipei,Egypt,Asia,Male,2020-03-18
+39.0,A2a,Switzerland,Geneva,Geneva,Europe,Male,2020-03-07
+58.0,A2a,India,Delhi,Delhi,Asia,Male,2020-03-16
+63.0,A2a,Poland,Malopolskie,Malopolskie,Europe,Female,2020-03-28
+62.0,A2a,Poland,Malopolskie,Malopolskie,Europe,Male,2020-03-28
+34.0,A2a,United Kingdom,England,England,Europe,Male,2020-02-29
+34.0,A2a,United Kingdom,England,England,Europe,Male,2020-02-29
+78.0,A2a,Australia,Western Australia,Western Australia,Oceania,Male,2020-02-22
+60.0,A2a,Australia,Australia,Australia,Oceania,Male,2020-03-14
+79.0,A2a,Australia,Western Australia,Western Australia,Oceania,Male,2020-03-04
+38.0,A2a,United Kingdom,England,England,Europe,Male,2020-02-28
+56.0,A2a,United Kingdom,England,England,Europe,Male,2020-02-27
+15.0,A2a,United Kingdom,England,England,Europe,Female,2020-02-29
+52.0,A2a,United Kingdom,England,England,Europe,Female,2020-02-29
+32.0,A2a,Australia,Western Australia,Western Australia,Oceania,Male,2020-03-13
+45.0,A2a,Australia,Victoria,Victoria,Oceania,Male,2020-03-30
+27.0,A2a,Iceland,Reykjavik,Spain,Europe,Male,2020-03-17
+26.0,A2a,Belgium,Hasselt,Hasselt,Europe,Female,2020-03-04
+25.0,A2a,Switzerland,Aargau,Aargau,Europe,Male,2020-02-27
+58.0,A2a,United Arab Emirates,United Arab Emirates,United Arab Emirates,Asia,Male,2020-03-11
+35.0,A2a,Sweden,Varmland,Varmland,Europe,Female,2020-03-10
+54.0,A2a,Sweden,Varmland,Varmland,Europe,Male,2020-03-06
+48.0,A2a,Sweden,Varmland,Varmland,Europe,Male,2020-03-06
+54.0,A2a,Sweden,Varmland,Varmland,Europe,Male,2020-03-04
+54.0,A2a,Sweden,Varmland,Varmland,Europe,Male,2020-03-08
+46.0,A2a,Sweden,Varmland,Varmland,Europe,Male,2020-03-06
+45.0,A2a,Sweden,Varmland,Varmland,Europe,Male,2020-03-06
+49.0,A2a,Sweden,Varmland,Varmland,Europe,Female,2020-03-06
+69.0,A2a,Sweden,Varmland,Varmland,Europe,Male,2020-03-08
+37.0,A2a,Sweden,Varmland,Varmland,Europe,Male,2020-03-08
+54.0,A2a,Sweden,Varmland,Varmland,Europe,Female,2020-03-04
+30.0,A2a,Sweden,Varmland,Varmland,Europe,Male,2020-03-08
+54.0,A2a,Sweden,Varmland,Varmland,Europe,Female,2020-03-08
+50.0,A2a,Sweden,Varmland,Varmland,Europe,Female,2020-03-08
+25.0,A2a,Sweden,Varmland,Varmland,Europe,Female,2020-03-08
+27.0,A2a,Sweden,Varmland,Varmland,Europe,Male,2020-03-08
+15.0,A2a,Sweden,Varmland,Varmland,Europe,Male,2020-03-09
+46.0,A2a,India,India,Iran,Asia,Female,2020-03-10
+73.0,A2a,India,India,India,Asia,Female,2020-03-03
+77.0,A2a,India,India,India,Asia,Female,2020-03-03
+70.0,A2a,India,India,India,Asia,Female,2020-03-03
+59.0,A2a,India,India,India,Asia,Male,2020-03-03
+66.0,A2a,India,India,India,Asia,Male,2020-03-03
+65.0,A2a,India,India,India,Asia,Female,2020-03-03
+51.0,A2a,Belgium,Kasterlee,Kasterlee,Europe,Female,2020-03-04
+59.0,A2a,Belgium,Nevele,Nevele,Europe,Male,2020-03-06
+53.0,A2a,Slovakia,Kostoliste,Kostoliste,Europe,Female,2020-03-06
+14.0,A2a,Sweden,Orebro lan,Orebro lan,Europe,Male,2020-03-04
+41.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Male,2020-03-19
+26.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Female,2020-03-21
+69.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Female,2020-03-22
+70.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Male,2020-03-14
+23.0,A2a,France,Bretagne,Bretagne,Europe,Female,2020-04-06
+29.0,A2a,Finland,Finland,Iran,Europe,Female,2020-03-04
+52.0,A2a,Russia,Moscow,Moscow,Europe,Male,2020-03-11
+36.0,A2a,Russia,Moscow,Moscow,Europe,Female,2020-03-11
+25.0,A2a,Australia,Queensland,Queensland,Oceania,Female,2020-03-14
+51.0,A2a,Sweden,Stockholm,Stockholm,Europe,Female,2020-03-10
+45.0,A2a,Sweden,Uppsala,Uppsala,Europe,Female,2020-03-10
+62.0,A2a,Belgium,Dalhem,Dalhem,Europe,Male,2020-03-06
+52.0,A2a,Belgium,Antwerp,Antwerp,Europe,Female,2020-04-10
+33.0,A2a,Italy,Rome,Rome,Europe,Male,2020-03-23
+41.0,A2a,Belgium,Mons,Mons,Europe,Female,2020-03-07
+76.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Female,2020-04-03
+61.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Female,2020-03-20
+36.0,A2a,Russia,Sverdlovsk Region,Sverdlovsk Region,Europe,Female,2020-03-19
+36.0,A2a,Russia,Moscow Region,Moscow Region,Europe,Male,2020-03-13
+29.0,A2a,Belgium,Liège,Liège,Europe,Female,2020-03-09
+67.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Male,2020-04-07
+41.0,A2a,Italy,Abruzzo,Abruzzo,Europe,Male,2020-03-16
+26.0,A2a,India,India,India,Asia,Female,2020-03-17
+25.0,A2a,India,India,India,Asia,Female,2020-03-17
+30.0,A2a,United Arab Emirates,United Arab Emirates,United Arab Emirates,Asia,Female,2020-03-15
+56.0,A2a,USA,South Carolina,South Carolina,North America,Male,2020-03-05
+54.0,A2a,Italy,Castel di Sangro,Castel di Sangro,Europe,Male,2020-03-19
+40.0,A2a,Finland,Helsinki,Italy,Europe,Male,2020-03-03
+53.0,A2a,Belgium,Sint-Gillis-Waas,Sint-Gillis-Waas,Europe,Male,2020-03-07
+31.0,A2a,Denmark,Copenhagen,Copenhagen,Europe,Male,2020-03-03
+83.0,A2a,Belgium,Antwerp,Antwerp,Europe,Female,2020-04-02
+41.0,A2a,Belgium,Zonhoven,Zonhoven,Europe,Male,2020-03-10
+12.0,A2a,Belgium,Houthalen-Helchteren,Houthalen-Helchteren,Europe,Female,2020-03-05
+72.0,A2a,USA,New Hampshire,New Hampshire,North America,Male,2020-03-06
+38.0,A2a,South Africa,KwaZulu-Natal,KwaZulu-Natal,Africa,Male,2020-03-07
+9.0,A2a,Belgium,Merelbeke,Merelbeke,Europe,Male,2020-03-06
+56.0,A2a,Belgium,Huldenberg,Huldenberg,Europe,Male,2020-03-01
+21.0,A2a,United Kingdom,England,England,Europe,Male,2020-02-29
+33.0,A2a,Poland,Pomorskie,Pomorskie,Europe,Female,2020-03-19
+38.0,A2a,Italy,Lombardy,Lombardy,Europe,Male,2020-02-20
+80.0,A2a,Italy,Lombardy,Lombardy,Europe,Male,2020-02-24
+61.0,A2a,Brazil,Sao Paulo,Lombardy,South America,Male,2020-02-25
+14.0,A2a,Denmark,Copenhagen,Copenhagen,Europe,Male,2020-03-01
+37.0,A2a,Brazil,Sao Paulo,Sao Paulo,South America,Female,2020-02-29
+44.0,A2a,Czech Republic,Usti nad Labem,Italy,Europe,Male,2020-03-01
+62.0,A2a,Greece,Athens,Athens,Europe,Male,2020-02-29
+69.0,A2a,Brazil,Sao Paulo,Sao Paulo,South America,Female,2020-02-29
+73.0,A2a,Italy,Friuli Venezia Giulia,Friuli Venezia Giulia,Europe,Male,2020-03-01
+52.0,A2a,Belgium,Antwerp,Antwerp,Europe,Female,2020-04-01
+63.0,A2a,Italy,Friuli Venezia Giulia,Friuli Venezia Giulia,Europe,Male,2020-03-30
+61.0,A2a,Italy,Friuli Venezia Giulia,Friuli Venezia Giulia,Europe,Male,2020-03-30
+90.0,A2a,France,Bourgogne-France-Comté,Bourgogne-France-Comté,Europe,Female,2020-04-09
+40.0,A2a,Belgium,Herent,Herent,Europe,Female,2020-03-06
+44.0,A2a,Belgium,Pelt,Pelt,Europe,Male,2020-03-05
+41.0,A2a,Belgium,Bree,Bree,Europe,Male,2020-03-05
+22.0,A2a,Brazil,Minas Gerais,Minas Gerais,South America,Male,2020-03-15
+25.0,A2a,Mexico,Mexico City,Mexico City,North America,Female,2020-03-15
+37.0,A2a,India,Gujarat,Gujarat,Asia,Male,2020-04-05
+37.0,A2a,India,Gujarat,Gujarat,Asia,Male,2020-04-05
+52.0,A2a,Germany,Duesseldorf,Duesseldorf,Europe,Female,2020-03-20
+42.0,A2a,United Kingdom,England,England,Europe,Male,2020-03-17
+26.0,A2a,Poland,Malopolskie,Malopolskie,Europe,Female,2020-03-30
+11.0,A2a,India,West Bengal,West Bengal,Asia,Male,2020-03-26
+61.0,A2a,Hungary,Kecskemet,Kecskemet,Europe,Female,2020-03-25
+56.0,A2a,Italy,Rome,Rome,Europe,Male,2020-03-04
+34.0,A2a,Belgium,Vorst,Vorst,Europe,Male,2020-03-04
+34.0,A2a,Belgium,Vorst,Vorst,Europe,Male,2020-03-03
+13.0,A2a,Ireland,Limerick,Limerick,Europe,Male,2020-03-03
+61.0,A2a,Austria,Italian cruise ship,Italian cruise ship,Europe,Female,2020-03-03
+69.0,A2a,Austria,Italian cruise ship,Italian cruise ship,Europe,Male,2020-03-03
+69.0,A2a,Austria,Italian cruise ship,Italian cruise ship,Europe,Male,2020-03-06
+69.0,A2a,Austria,Italian cruise ship,Italian cruise ship,Europe,Male,2020-03-11
+45.0,A2a,Italy,Friuli Venezia Giulia,Friuli Venezia Giulia,Europe,Male,2020-03-01
+47.0,A2a,Belgium,Kraainem,Italy,Europe,Male,2020-03-01
+59.0,A2a,Italy,Friuli Venezia Giulia,Friuli Venezia Giulia,Europe,Male,2020-03-01
+59.0,A2a,Italy,Friuli Venezia Giulia,Friuli Venezia Giulia,Europe,Female,2020-03-01
+41.0,A2a,Ireland,Limerick,Limerick,Europe,Male,2020-03-03
+11.0,A2a,Ireland,Limerick,Limerick,Europe,Female,2020-03-03
+59.0,A2a,Sweden,Norrbotten,Norrbotten,Europe,Male,2020-04-02
+60.0,A2a,France,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,Europe,Male,2020-03-22
+77.0,A2a,United Kingdom,Wales,Wales,Europe,Male,2020-03-22
+23.0,A2a,India,Uttar Pradesh,Uttar Pradesh,Asia,Male,2020-03-12
+88.0,A2a,France,Grand Est,Grand Est,Europe,Male,2020-03-04
+52.0,A2a,Brazil,Rio de Janeiro,Rio de Janeiro,South America,Female,2020-03-04
+37.0,A2a,Brazil,Sao Paulo,Sao Paulo,South America,Male,2020-03-04
+21.0,A2a,Denmark,Copenhagen,Copenhagen,Europe,Female,2020-03-03
+60.0,A2a,USA,Indiana,Indiana,North America,Male,2020-03-09
+89.0,A2a,United Kingdom,Wales,Wales,Europe,Female,2020-03-25
+68.0,A2a,India,Gujarat,Gujarat,Asia,Male,2020-04-29
+70.0,A2a,Germany,Bavaria,Bavaria,Europe,Female,2020-04-11
+67.0,A2a,Germany,Bavaria,Bavaria,Europe,Female,2020-04-08
+86.0,A2a,Germany,Bavaria,Bavaria,Europe,Female,2020-04-11
+85.0,A2a,Germany,Bavaria,Bavaria,Europe,Female,2020-04-13
+60.0,A2a,India,Gujarat,Gujarat,Asia,Male,2020-04-29
+8.0,A2a,India,Madhya Pradesh,Madhya Pradesh,Asia,Female,2020-04-20
+51.0,A2a,Australia,Victoria,Victoria,Oceania,Male,2020-03-16
+33.0,A2a,Kuwait,Kuwait,United Kingdom,Asia,Male,2020-03-16
+65.0,A2a,Italy,Abruzzo,Abruzzo,Europe,Male,2020-03-20
+64.0,A2a,Belgium,Charleroi,Charleroi,Europe,Male,2020-03-24
+36.0,A2a,Russia,Saint-Petersburg,Saint-Petersburg,Europe,Male,2020-03-25
+45.0,A2a,Austria,Vienna,Vienna,Europe,Female,2020-03-24
+54.0,A2a,USA,Indiana,Indiana,North America,Female,2020-04-06
+79.0,A2a,Germany,Bavaria,Bavaria,Europe,Male,2020-04-12
+18.0,A2a,Kuwait,Kuwait,USA,Asia,Male,2020-03-16
+34.0,A2a,India,Gujarat,Gujarat,Asia,Male,2020-04-29
+84.0,A2a,Belgium,Colfontaine,Colfontaine,Europe,Male,2020-03-25
+69.0,A2a,Sweden,Uppsala,Uppsala,Europe,Male,2020-03-25
+56.0,A2a,Italy,Veneto,Veneto,Europe,Female,2020-03-25
+48.0,A2a,United Kingdom,Northern Ireland,Northern Ireland,Europe,Female,2020-02-26
+50.0,A2a,Belgium,Havelange,Havelange,Europe,Male,2020-03-05
+31.0,A2a,Germany,Duesseldorf,Duesseldorf,Europe,Male,2020-03-16
+35.0,A2a,Germany,Duesseldorf,Duesseldorf,Europe,Female,2020-03-16
+53.0,A2a,Austria,Styria,Styria,Europe,Male,2020-03-17
+62.0,A2a,Austria,Styria,Styria,Europe,Male,2020-03-24
+52.0,A2a,Austria,Styria,Styria,Europe,Female,2020-03-25
+18.0,A2a,Austria,Vienna,Vienna,Europe,Female,2020-03-21
+27.0,A2a,Taiwan,Taiwan,Taiwan,Asia,Female,2020-03-19
+32.0,A2a,Italy,Rome,Rome,Europe,Male,2020-03-01
+37.0,A2a,Belgium,Soumagne,Soumagne,Europe,Male,2020-03-06
+54.0,A2a,Belgium,Theux,Theux,Europe,Male,2020-03-06
+39.0,A2a,Belgium,Herstal,Herstal,Europe,Female,2020-03-06
+40.0,A2a,Belgium,Seraing,Seraing,Europe,Male,2020-03-06
+58.0,A2a,Russia,Tver Region,Tver Region,Europe,Female,2020-03-19
+61.0,A2a,USA,Indiana,Indiana,North America,Male,2020-03-19
+24.0,A2a,India,Telangana,Italy,Asia,Female,2020-03-11
+60.0,A2a,Australia,Queensland,Queensland,Oceania,Male,2020-03-11
+22.0,A2a,Austria,Tyrol,Tyrol,Europe,Male,2020-03-11
+47.0,A2a,Brazil,Rio de Janeiro,Rio de Janeiro,South America,Male,2020-03-19
+29.0,A2a,India,Delhi,Delhi,Asia,Female,2020-04-13
+58.0,A2a,Canada,Ontario,Ontario,North America,Male,2020-03-08
+36.0,A2a,USA,New York,New York,North America,Male,2020-03-22
+85.0,A2a,United Kingdom,England,England,Europe,Female,2020-03-23
+75.0,A2a,Australia,Victoria,Victoria,Oceania,Male,2020-04-06
+73.0,A2a,Australia,Victoria,Victoria,Oceania,Male,2020-04-02
+28.0,A2a,India,Gujarat,Gujarat,Asia,Female,2020-04-29
+65.0,A2a,India,Gujarat,Gujarat,Asia,Male,2020-04-21
+60.0,A2a,India,Gujarat,Gujarat,Asia,Male,2020-04-30
+35.0,A2a,India,Gujarat,Gujarat,Asia,Male,2020-04-26
+42.0,A2a,Belgium,Namur,Namur,Europe,Female,2020-03-06
+15.0,A2a,Sweden,Dalarna,Dalarna,Europe,Female,2020-03-13
+30.0,A2a,Germany,Bavaria,Bavaria,Europe,Female,2020-03-13
+41.0,A2a,Austria,Austria,Germany,Europe,Male,2020-03-13
+37.0,A2a,Brazil,Rio Grande do Sul,Rio Grande do Sul,South America,Male,2020-03-14
+44.0,A2a,Brazil,Sao Paulo,Sao Paulo,South America,Male,2020-03-13
+63.0,A2a,India,Madhya Pradesh,Madhya Pradesh,Asia,Male,2020-04-16
+59.0,A2a,United Kingdom,Wales,Wales,Europe,Male,2020-03-20
+60.0,A2a,Italy,Rome,Rome,Europe,Male,2020-03-23
+22.0,A2a,Russia,Samara Region,Samara Region,Europe,Male,2020-03-20
+17.0,A2a,India,Madhya Pradesh,Madhya Pradesh,Asia,Female,2020-04-20
+14.0,A2a,India,Madhya Pradesh,Madhya Pradesh,Asia,Female,2020-04-16
+45.0,A2a,India,Gujarat,Gujarat,Asia,Male,2020-04-13
+81.0,A2a,Germany,Bavaria,Bavaria,Europe,Male,2020-04-10
+42.0,A2a,Brazil,Sao Paulo,Sao Paulo,South America,Male,2020-03-13
+30.0,A2a,India,Gujarat,Gujarat,Asia,Male,2020-05-02
+48.0,A2a,India,Madhya Pradesh,Madhya Pradesh,Asia,Male,2020-04-16
+54.0,A2a,India,Gujarat,Gujarat,Asia,Male,2020-04-14
+54.0,A2a,Austria,Burgenland,Burgenland,Europe,Female,2020-03-27
+65.0,A2a,Germany,Bavaria,Bavaria,Europe,Male,2020-04-09
+29.0,A2a,Germany,Munich,Munich,Europe,Male,2020-03-12
+29.0,A2a,Germany,Bavaria,Bavaria,Europe,Male,2020-03-12
+23.0,A2a,United Arab Emirates,United Arab Emirates,United Arab Emirates,Asia,Male,2020-03-12
+37.0,A2a,Sri Lanka,Sri Lanka,Sri Lanka,Asia,Male,2020-03-19
+64.0,A2a,Portugal,Portugal,Portugal,Europe,Female,2020-03-18
+58.0,A2a,Russia,Republic of Buryatia,Republic of Buryatia,Europe,Female,2020-03-29
+64.0,A2a,Belgium,Quaregnon,Quaregnon,Europe,Female,2020-03-24
+40.0,A2a,Russia,Republic of Crymea,Republic of Crymea,Europe,Male,2020-03-23
+75.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Female,2020-04-14
+51.0,A2a,USA,Virginia,Virginia,North America,Male,2020-03-08
+66.0,A2a,Senegal,Touba,Touba,Africa,Male,2020-03-12
+3.0,A2a,Senegal,Touba,Touba,Africa,Male,2020-03-12
+50.0,A2a,Senegal,Touba,Touba,Africa,Female,2020-03-11
+42.0,A2a,Senegal,Touba,Touba,Africa,Female,2020-03-11
+7.0,A2a,Senegal,Touba,Touba,Africa,Female,2020-03-12
+55.0,A2a,Senegal,Touba,Touba,Africa,Male,2020-03-10
+57.0,A2a,United Kingdom,Wales,Italy,Europe,Male,2020-02-27
+54.0,A2a,Denmark,Copenhagen,Copenhagen,Europe,Male,2020-02-28
+33.0,A2a,Belgium,Henri-chapelle,Henri-chapelle,Europe,Male,2020-03-06
+53.0,A2a,Portugal,Portugal,Portugal,Europe,Male,2020-03-06
+83.0,A2a,Spain,Comunitat Valenciana,Comunitat Valenciana,Europe,Male,2020-03-19
+60.0,A2a,Spain,Comunitat Valenciana,Comunitat Valenciana,Europe,Male,2020-03-24
+27.0,A2a,Hungary,Baranya,Baranya,Europe,Male,2020-04-02
+67.0,A2a,France,Ile de France,Ile de France,Europe,Female,2020-03-21
+41.0,A2a,Sweden,Norrbotten,Norrbotten,Europe,Female,2020-03-26
+39.0,A2a,Sweden,Halland,Halland,Europe,Male,2020-03-12
+34.0,A2a,Brazil,Minas Gerais,Minas Gerais,South America,Male,2020-03-17
+52.0,A2a,Brazil,Minas Gerais,Minas Gerais,South America,Male,2020-03-17
+71.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Male,2020-04-08
+24.0,A2a,United Kingdom,England,England,Europe,Male,2020-03-19
+34.0,A2a,Australia,Victoria,Victoria,Oceania,Female,2020-04-03
+20.0,A2a,Australia,Victoria,Victoria,Oceania,Female,2020-04-01
+77.0,A2a,Australia,Victoria,Victoria,Oceania,Male,2020-03-31
+67.0,A2a,Australia,Victoria,Victoria,Oceania,Female,2020-03-25
+67.0,A2a,Australia,Victoria,Victoria,Oceania,Female,2020-03-24
+66.0,A2a,Australia,Victoria,Victoria,Oceania,Female,2020-04-10
+53.0,A2a,Australia,Victoria,Victoria,Oceania,Male,2020-03-30
+47.0,A2a,Australia,Victoria,Victoria,Oceania,Female,2020-04-04
+25.0,A2a,Belgium,Herve,Herve,Europe,Female,2020-03-05
+42.0,A2a,Belgium,Beersel,Beersel,Europe,Female,2020-03-05
+51.0,A2a,Belgium,Ravels,Ravels,Europe,Male,2020-03-05
+24.0,A2a,Belgium,Kalmthout,Kalmthout,Europe,Male,2020-03-05
+23.0,A2a,Austria,Tyrol,Tyrol,Europe,Male,2020-03-05
+35.0,A2a,Belgium,Riemst,Riemst,Europe,Male,2020-03-05
+56.0,A2a,Australia,Victoria,Victoria,Oceania,Male,2020-03-22
+55.0,A2a,India,Madhya Pradesh,Madhya Pradesh,Asia,Female,2020-04-20
+64.0,A2a,Germany,Bavaria,Bavaria,Europe,Male,2020-04-05
+72.0,A2a,Germany,Bavaria,Bavaria,Europe,Male,2020-04-06
+25.0,A2a,Costa Rica,Orotina,Orotina,North America,Female,2020-03-25
+84.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Male,2020-04-08
+81.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Female,2020-04-10
+4.0,A2a,Poland,Malopolskie,Malopolskie,Europe,Female,2020-03-28
+71.0,A2a,Poland,Malopolskie,Malopolskie,Europe,Female,2020-03-29
+79.0,A2a,Sweden,Norrbotten,Norrbotten,Europe,Male,2020-03-22
+50.0,A2a,Sweden,Halland,Halland,Europe,Female,2020-03-25
+21.0,A2a,Austria,Tyrol,Tyrol,Europe,Female,2020-03-12
+29.0,A2a,Belgium,Wanze,Wanze,Europe,Male,2020-03-25
+79.0,A2a,Austria,Styria,Styria,Europe,Male,2020-04-06
+80.0,A2a,Austria,Styria,Styria,Europe,Female,2020-04-17
+78.0,A2a,Austria,Styria,Styria,Europe,Male,2020-03-24
+71.0,A2a,Austria,Styria,Styria,Europe,Female,2020-04-02
+82.0,A2a,Austria,Styria,Styria,Europe,Male,2020-03-27
+61.0,A2a,Finland,Finland,Finland,Europe,Male,2020-03-13
+25.0,A2a,India,West Bengal,West Bengal,Asia,Male,2020-04-03
+56.0,A2a,Poland,Malopolskie,Malopolskie,Europe,Male,2020-03-28
+62.0,A2a,Poland,Malopolskie,Malopolskie,Europe,Female,2020-03-28
+13.0,A2a,Belgium,Zonhoven,Zonhoven,Europe,Female,2020-03-07
+40.0,A2a,India,Gujarat,Gujarat,Asia,Female,2020-04-26
+42.0,A2a,India,Gujarat,Gujarat,Asia,Male,2020-04-26
+57.0,A2a,Italy,Abruzzo,Abruzzo,Europe,Male,2020-03-21
+50.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Female,2020-03-20
+69.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Male,2020-04-01
+75.0,A2a,Germany,Bavaria,Bavaria,Europe,Male,2020-04-09
+45.0,A2a,India,Punjab,Punjab,Asia,Male,2020-03-16
+45.0,A2a,Portugal,Portugal,Portugal,Europe,Female,2020-03-16
+82.0,A2a,Sweden,Stockholm,Stockholm,Europe,Female,2020-03-30
+49.0,A2a,Germany,Duesseldorf,Duesseldorf,Europe,Male,2020-03-13
+72.0,A2a,United Kingdom,England,England,Europe,Male,2020-03-12
+55.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Male,2020-03-17
+29.0,A2a,Sweden,Dalarna,Dalarna,Europe,Female,2020-03-17
+86.0,A2a,France,Ile de France,Ile de France,Europe,Female,2020-03-17
+51.0,A2a,USA,Oregon,Oregon,North America,Male,2020-04-19
+30.0,A2a,USA,Oregon,Oregon,North America,Male,2020-04-20
+59.0,A2a,USA,Oregon,Oregon,North America,Male,2020-04-19
+48.0,A2a,USA,Oregon,Oregon,North America,Male,2020-04-18
+19.0,A2a,USA,Oregon,Oregon,North America,Female,2020-04-08
+36.0,A2a,USA,Oregon,Oregon,North America,Female,2020-04-08
+58.0,A2a,USA,Indiana,Indiana,North America,Female,2020-04-07
+77.0,A2a,France,Hauts de France,Hauts de France,Europe,Male,2020-04-02
+60.0,A2a,Taiwan,Taipei,Taipei,Asia,Female,2020-03-18
+49.0,A2a,Taiwan,Taipei,Taipei,Asia,Female,2020-04-02
+58.0,A2a,Taiwan,Taipei,Taipei,Asia,Male,2020-03-19
+38.0,A2a,Taiwan,Taipei,Czech Republic,Asia,Female,2020-03-19
+37.0,A2a,Germany,Bavaria,Bavaria,Europe,Female,2020-04-09
+35.0,A2a,Australia,Victoria,Victoria,Oceania,Female,2020-04-04
+84.0,A2a,Australia,Victoria,Victoria,Oceania,Male,2020-04-04
+29.0,A2a,India,Delhi,Delhi,Asia,Female,2020-04-13
+68.0,A2a,Germany,Bavaria,Bavaria,Europe,Female,2020-03-30
+44.0,A2a,South Africa,KwaZulu-Natal,KwaZulu-Natal,Africa,Female,2020-04-01
+40.0,A2a,South Africa,KwaZulu-Natal,KwaZulu-Natal,Africa,Female,2020-04-01
+52.0,A2a,South Africa,KwaZulu-Natal,KwaZulu-Natal,Africa,Female,2020-04-01
+27.0,A2a,Germany,Bavaria,Bavaria,Europe,Female,2020-04-01
+61.0,A2a,Germany,Bavaria,Bavaria,Europe,Male,2020-04-01
+11.0,A2a,India,Madhya Pradesh,Madhya Pradesh,Asia,Female,2020-04-20
+56.0,A2a,Italy,Abruzzo,Abruzzo,Europe,Female,2020-04-27
+47.0,A2a,Russia,Saint-Petersburg,Saint-Petersburg,Europe,Male,2020-04-08
+52.0,A2a,Senegal,St-Louis,St-Louis,Africa,Male,2020-03-20
+37.0,A2a,United Kingdom,England,England,Europe,Male,2020-03-21
+67.0,A2a,Brazil,Minas Gerais,Minas Gerais,South America,Male,2020-03-20
+77.0,A2a,Austria,Tyrol,Tyrol,Europe,Female,2020-03-19
+87.0,A2a,Belgium,Antwerp,Antwerp,Europe,Male,2020-04-05
+57.0,A2a,Belgium,Antwerp,Antwerp,Europe,Male,2020-04-12
+46.0,A2a,Belgium,Antwerp,Antwerp,Europe,Female,2020-04-08
+79.0,A2a,Belgium,Antwerp,Antwerp,Europe,Male,2020-03-30
+32.0,A2a,Belgium,Antwerp,Antwerp,Europe,Male,2020-03-26
+20.0,A2a,India,Gujarat,Gujarat,Asia,Female,2020-04-26
+84.0,A2a,Italy,Abruzzo,Abruzzo,Europe,Female,2020-04-27
+26.0,A2a,Italy,Abruzzo,Abruzzo,Europe,Female,2020-04-27
+28.0,A2a,Australia,Victoria,Victoria,Oceania,Male,2020-03-27
+55.0,A2a,South Africa,KwaZulu-Natal,KwaZulu-Natal,Africa,Female,2020-03-28
+47.0,A2a,Canada,Ontario,Ontario,North America,Male,2020-03-15
+37.0,A2a,Kuwait,Kuwait,Italy,Asia,Male,2020-03-15
+68.0,A2a,Italy,Teramo,Teramo,Europe,Male,2020-03-18
+69.0,A2a,Russia,Saint-Petersburg,Saint-Petersburg,Europe,Female,2020-03-18
+11.0,A2a,India,Madhya Pradesh,Madhya Pradesh,Asia,Female,2020-04-16
+69.0,A2a,USA,Iowa,Iowa,North America,Female,2020-03-08
+71.0,A2a,USA,Iowa,Iowa,North America,Male,2020-03-08
+54.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Male,2020-03-28
+88.0,A2a,France,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,Europe,Female,2020-03-22
+29.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Female,2020-04-17
+25.0,A2a,Taiwan,New Taipei City,New Taipei City,Asia,Male,2020-03-30
+95.0,A2a,France,Grand Est,Grand Est,Europe,Female,2020-04-15
+55.0,A2a,France,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,Europe,Female,2020-03-15
+49.0,A2a,France,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,Europe,Female,2020-03-04
+78.0,A2a,France,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,Europe,Male,2020-03-22
+86.0,A2a,France,Bourgogne-France-Comté,Bourgogne-France-Comté,Europe,Male,2020-03-05
+86.0,A2a,France,Bretagne,Bretagne,Europe,Female,2020-04-02
+50.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Female,2020-03-27
+46.0,A2a,France,Ile de France,Ile de France,Europe,Female,2020-03-14
+83.0,A2a,France,Ile de France,Ile de France,Europe,Female,2020-03-23
+76.0,A2a,France,Grand Est,Grand Est,Europe,Female,2020-03-20
+32.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Male,2020-04-18
+42.0,A2a,France,Bourgogne,Bourgogne,Europe,Female,2020-04-03
+26.0,A2a,Belgium,Oudergem,Oudergem,Europe,Male,2020-03-24
+48.0,A2a,Russia,Sverdlovsk Region,Sverdlovsk Region,Europe,Female,2020-03-19
+58.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Male,2020-04-07
+79.0,A2a,France,Bourgogne-France-Comté,Bourgogne-France-Comté,Europe,Female,2020-03-05
+74.0,A2a,France,Bourgogne-France-Comté,Bourgogne-France-Comté,Europe,Female,2020-03-17
+53.0,A2a,Belgium,Soignies,Soignies,Europe,Male,2020-03-25
+59.0,A2a,Belgium,Liège,Liège,Europe,Male,2020-03-19
+40.0,A2a,Australia,Victoria,Victoria,Oceania,Male,2020-04-01
+51.0,A2a,Belgium,Mouscron,Mouscron,Europe,Male,2020-03-24
+30.0,A2a,Belgium,Honnelles,Honnelles,Europe,Male,2020-03-18
+64.0,A2a,Belgium,Belgium,Belgium,Europe,Male,2020-03-24
+88.0,A2a,France,Hauts de France,Hauts de France,Europe,Male,2020-03-03
+30.0,A2a,Brazil,Minas Gerais,Minas Gerais,South America,Male,2020-03-22
+72.0,A2a,France,Grand Est,Grand Est,Europe,Female,2020-03-20
+51.0,A2a,Belgium,Liège,Liège,Europe,Male,2020-03-21
+25.0,A2a,France,Ile de France,Ile de France,Europe,Male,2020-04-13
+72.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Female,2020-04-04
+60.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Male,2020-03-22
+40.0,A2a,Senegal,Dakar,Dakar,Africa,Male,2020-03-17
+89.0,A2a,France,Occitanie,Occitanie,Europe,Female,2020-04-09
+97.0,A2a,France,Occitanie,Occitanie,Europe,Male,2020-04-09
+91.0,A2a,France,Occitanie,Occitanie,Europe,Female,2020-04-11
+32.0,A2a,Belgium,Vorst,Vorst,Europe,Female,2020-03-23
+57.0,A2a,France,Bretagne,Bretagne,Europe,Male,2020-04-03
+53.0,A2a,France,Bretagne,Bretagne,Europe,Female,2020-03-23
+32.0,A2a,Ghana,Greater Accra,Greater Accra,Africa,Female,2020-03-25
+70.0,A2a,Germany,Bavaria,Bavaria,Europe,Female,2020-04-07
+73.0,A2a,Argentina,Argentina,Argentina,South America,Male,2020-03-22
+29.0,A2a,Taiwan,Taipei,France,Asia,Male,2020-03-16
+60.0,A2a,Iceland,Reykjavik,United Kingdom,Europe,Male,2020-03-12
+50.0,A2a,Iceland,Reykjavik,Reykjavik,Europe,Female,2020-03-19
+55.0,A2a,Iceland,Reykjavik,Reykjavik,Europe,Female,2020-03-20
+87.0,A2a,France,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,Europe,Female,2020-03-23
+73.0,A2a,France,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,Europe,Female,2020-03-17
+88.0,A2a,France,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,Europe,Female,2020-03-06
+79.0,A2a,France,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,Europe,Female,2020-03-17
+50.0,A2a,France,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,Europe,Female,2020-03-24
+66.0,A2a,France,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,Europe,Male,2020-03-24
+31.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Female,2020-03-17
+34.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Male,2020-03-15
+46.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Male,2020-03-18
+39.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Female,2020-03-18
+43.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Male,2020-03-18
+32.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Female,2020-03-18
+75.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Female,2020-04-03
+66.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Female,2020-04-14
+48.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Male,2020-04-15
+48.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Female,2020-04-12
+36.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Male,2020-04-16
+44.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Male,2020-04-06
+30.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Male,2020-04-06
+56.0,A2a,Canada,British Columbia,British Columbia,North America,Male,2020-03-12
+51.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Male,2020-03-23
+33.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Male,2020-03-16
+1.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Male,2020-04-03
+36.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Male,2020-04-09
+82.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Male,2020-04-12
+76.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Male,2020-04-12
+43.0,A2a,France,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,Europe,Female,2020-03-17
+58.0,A2a,France,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,Europe,Female,2020-03-16
+73.0,A2a,France,Centre-Val de Loire,Centre-Val de Loire,Europe,Female,2020-03-04
+57.0,A2a,Belgium,Liège,Liège,Europe,Female,2020-03-09
+31.0,A2a,Democratic Republic of the Congo,Democratic Republic of the Congo,Democratic Republic of the Congo,Africa,Female,2020-03-26
+53.0,A2a,Ghana,Greater Accra,Greater Accra,Africa,Female,2020-03-29
+55.0,A2a,France,Grand Est,Grand Est,Europe,Male,2020-03-17
+71.0,A2a,Belgium,Saint-Ghislain,Saint-Ghislain,Europe,Female,2020-03-24
+45.0,A2a,Belgium,Namur,Namur,Europe,Female,2020-03-19
+46.0,A2a,Belgium,Belgium,Belgium,Europe,Male,2020-03-23
+9.0,A2a,France,Ile de France,Ile de France,Europe,Female,2020-04-17
+49.0,A2a,France,Bourgogne,Bourgogne,Europe,Male,2020-04-02
+51.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Male,2020-04-14
+31.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Male,2020-04-10
+51.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Male,2020-04-16
+82.0,A2a,Switzerland,Bern,Bern,Europe,Male,2020-03-04
+85.0,A2a,Switzerland,Geneva,Geneva,Europe,Male,2020-03-08
+31.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Male,2020-03-08
+33.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Male,2020-04-16
+39.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Male,2020-03-17
+37.0,A2a,Belgium,Saint-Ghislain,Saint-Ghislain,Europe,Female,2020-03-17
+48.0,A2a,Belgium,Honnelles,Honnelles,Europe,Male,2020-03-18
+28.0,A2a,Belgium,Doornik,Doornik,Europe,Male,2020-03-18
+48.0,A2a,Belgium,Liège,Liège,Europe,Female,2020-03-30
+43.0,A2a,Belgium,Charleroi,Charleroi,Europe,Female,2020-03-25
+27.0,A2a,Belgium,Sint-Pieters-Woluwe,Sint-Pieters-Woluwe,Europe,Female,2020-03-25
+54.0,A2a,Belgium,Liège,Liège,Europe,Male,2020-03-22
+53.0,A2a,Belgium,Waterloo,Waterloo,Europe,Female,2020-03-23
+95.0,A2a,Belgium,Liège,Liège,Europe,Male,2020-03-17
+43.0,A2a,Belgium,Genappe,Genappe,Europe,Female,2020-03-25
+69.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Female,2020-03-25
+47.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Male,2020-03-26
+37.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Male,2020-03-26
+43.0,A2a,France,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,Europe,Female,2020-03-04
+34.0,A2a,Belgium,Ganshoren,Ganshoren,Europe,Female,2020-03-06
+82.0,A2a,France,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,Europe,Male,2020-03-06
+32.0,A2a,Switzerland,Geneva,Geneva,Europe,unknwon,2020-03-06
+39.0,A2a,Switzerland,Geneva,Geneva,Europe,Male,2020-03-06
+66.0,A2a,France,Hauts de France,Hauts de France,Europe,Male,2020-03-23
+76.0,A2a,Belgium,Vilvoorde,Vilvoorde,Europe,Female,2020-03-25
+54.0,A2a,Belgium,Mons,Mons,Europe,Male,2020-03-25
+35.0,A2a,Hungary,Balatonfured,Balatonfured,Europe,Female,2020-03-25
+43.0,A2a,Australia,Victoria,Victoria,Oceania,Female,2020-04-09
+87.0,A2a,France,Hauts de France,Hauts de France,Europe,Male,2020-03-18
+31.0,A2a,Belgium,Boussu,Boussu,Europe,Female,2020-03-19
+54.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Female,2020-03-28
+65.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Female,2020-03-29
+66.0,A2a,France,Ile de France,Ile de France,Europe,Female,2020-03-25
+58.0,A2a,Belgium,Colfontaine,Colfontaine,Europe,Male,2020-03-24
+45.0,A2a,Belgium,Mons,Mons,Europe,Female,2020-03-24
+27.0,A2a,Belgium,Charleroi,Charleroi,Europe,Female,2020-03-24
+90.0,A2a,Belgium,Mons,Mons,Europe,Male,2020-03-24
+60.0,A2a,Belgium,Boussu,Boussu,Europe,Female,2020-03-24
+57.0,A2a,Belgium,Mons,Mons,Europe,Female,2020-03-24
+52.0,A2a,Belgium,Mons,Mons,Europe,Male,2020-03-24
+55.0,A2a,France,Ile de France,Ile de France,Europe,Female,2020-03-23
+85.0,A2a,France,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,Europe,Female,2020-03-23
+74.0,A2a,Belgium,Ukkel,Ukkel,Europe,Female,2020-03-23
+77.0,A2a,France,Bretagne,Bretagne,Europe,Male,2020-04-03
+69.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Male,2020-03-28
+25.0,A2a,Belgium,Watermaal-Bosvoorde,Watermaal-Bosvoorde,Europe,Female,2020-03-23
+51.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Male,2020-03-27
+25.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Female,2020-04-16
+86.0,A2a,Belgium,Tournai,Tournai,Europe,Female,2020-03-25
+52.0,A2a,Belgium,Tournai,Tournai,Europe,Female,2020-03-25
+32.0,A2a,Belgium,Liège,Liège,Europe,Female,2020-03-19
+87.0,A2a,France,Grand Est,Grand Est,Europe,Female,2020-03-12
+95.0,A2a,France,Grand Est,Grand Est,Europe,Female,2020-03-12
+98.0,A2a,Belgium,Ath,Ath,Europe,Female,2020-03-24
+45.0,A2a,Belgium,Courcelles,Courcelles,Europe,Female,2020-03-24
+57.0,A2a,France,Ile de France,Ile de France,Europe,Female,2020-03-22
+37.0,A2a,Belgium,Charleroi,Charleroi,Europe,Male,2020-03-23
+82.0,A2a,France,Hauts de France,Hauts de France,Europe,Female,2020-04-03
+23.0,A2a,Taiwan,New Taipei City,New Taipei City,Asia,Female,2020-03-22
+87.0,A2a,France,Occitanie,Occitanie,Europe,Female,2020-04-08
+37.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Female,2020-03-17
+86.0,A2a,France,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,Europe,Female,2020-03-23
+74.0,A2a,France,Ile de France,Ile de France,Europe,Male,2020-03-23
+67.0,A2a,Belgium,Colfontaine,Colfontaine,Europe,Female,2020-03-23
+54.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Male,2020-04-12
+74.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Female,2020-04-16
+28.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Female,2020-04-15
+33.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Male,2020-04-10
+72.0,A2a,Belgium,Mons,Mons,Europe,Female,2020-03-24
+35.0,A2a,Belgium,Leuven,Leuven,Europe,Female,2020-03-24
+64.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Male,2020-04-08
+40.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Male,2020-04-13
+21.0,A2a,France,Normandie,Normandie,Europe,Female,2020-03-23
+30.0,A2a,Russia,Saint-Petersburg,Saint-Petersburg,Europe,Female,2020-03-15
+79.0,A2a,France,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,Europe,Male,2020-03-08
+5.0,A2a,Egypt,Egypt,Egypt,Africa,Male,2020-03-18
+42.0,A2a,Hungary,Baranya,Baranya,Europe,Male,2020-03-30
+44.0,A2a,Brazil,Minas Gerais,Minas Gerais,South America,Female,2020-03-08
+58.0,A2a,France,Ile de France,Ile de France,Europe,Female,2020-03-20
+29.0,A2a,France,Ile de France,Ile de France,Europe,Female,2020-04-09
+71.0,A2a,USA,Florida,Florida,North America,Male,2020-03-02
+56.0,A2a,Australia,Victoria,Victoria,Oceania,Female,2020-03-31
+80.0,A2a,Austria,Styria,Styria,Europe,Female,2020-04-17
+73.0,A2a,France,Bretagne,Bretagne,Europe,Male,2020-02-26
+46.0,A2a,Poland,Pomorskie,Pomorskie,Europe,Male,2020-03-18
+80.0,A2a,France,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,Europe,Female,2020-03-15
+63.0,A2a,Canada,Ontario,Ontario,North America,Male,2020-03-13
+30.0,A2a,Saudi Arabia,Makkah,Makkah,Asia,Male,2020-04-09
+79.0,A2a,France,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,Europe,Male,2020-03-06
+67.0,A2a,France,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,Europe,Male,2020-03-21
+85.0,A2a,France,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,Europe,Female,2020-03-18
+84.0,A2a,France,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,Europe,Female,2020-03-23
+44.0,A2a,France,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,Europe,Female,2020-03-21
+82.0,A2a,France,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,Europe,Female,2020-03-17
+21.0,A2a,Austria,Tyrol,Tyrol,Europe,Female,2020-03-11
+55.0,A2a,Austria,Tyrol,Tyrol,Europe,Female,2020-03-11
+40.0,A2a,USA,Washington DC,Washington DC,North America,Male,2020-03-17
+31.0,A2a,Canada,Ontario,Ontario,North America,Male,2020-03-12
+76.0,A2a,USA,New York,New York,North America,Female,2020-03-11
+56.0,A2a,France,Ile de France,Ile de France,Europe,Male,2020-03-10
+45.0,A2a,USA,Connecticut,Connecticut,North America,Female,2020-04-10
+31.0,A2a,Iceland,Reykjavik,Reykjavik,Europe,Male,2020-03-14
+60.0,A2a,Senegal,Mbour,Mbour,Africa,Male,2020-03-18
+86.0,A2a,France,Hauts de France,Hauts de France,Europe,Male,2020-03-02
+42.0,A2a,USA,Maryland,Maryland,North America,Male,2020-03-16
+91.0,A2a,Finland,Finland,Finland,Europe,Male,2020-03-13
+53.0,A2a,USA,New York,New York,North America,Female,2020-03-18
+32.0,A2a,Sweden,Halland,Halland,Europe,Female,2020-03-11
+33.0,A2a,Taiwan,Taipei,France,Asia,Male,2020-03-13
+22.0,A2a,Austria,Tyrol,Tyrol,Europe,Male,2020-03-10
+80.0,A2a,Germany,Bavaria,Bavaria,Europe,Male,2020-04-13
+43.0,A2a,USA,Washington DC,Washington DC,North America,Male,2020-03-17
+42.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Male,2020-03-17
+69.0,A2a,China,Fujian,Fujian,Asia,Female,2020-03-22
+37.0,A2a,Germany,Duesseldorf,Duesseldorf,Europe,Male,2020-03-14
+54.0,A2a,USA,Washington DC,Washington DC,North America,Male,2020-03-26
+56.0,A2a,Austria,Austria,Austria,Europe,Male,2020-03-24
+43.0,A2a,USA,New Jersey,New Jersey,North America,Male,2020-03-20
+74.0,A2a,USA,New York,New York,North America,Female,2020-03-20
+27.0,A2a,France,Bourgogne,Bourgogne,Europe,Female,2020-04-02
+33.0,A2a,Russia,Moscow Region,Moscow Region,Europe,Male,2020-03-19
+41.0,A2a,USA,New York,New York,North America,Female,2020-04-01
+58.0,A2a,Austria,Austria,Austria,Europe,Male,2020-03-16
+55.0,A2a,USA,New York,New York,North America,Male,2020-03-18
+48.0,A2a,Germany,Duesseldorf,Duesseldorf,Europe,Female,2020-03-15
+36.0,A2a,USA,New Jersey,New Jersey,North America,Male,2020-04-09
+53.0,A2a,Sweden,Orebro lan,Orebro lan,Europe,Male,2020-03-08
+42.0,A2a,Senegal,Dakar,Dakar,Africa,Male,2020-03-19
+68.0,A2a,France,Hauts de France,Hauts de France,Europe,Male,2020-03-04
+70.0,A2a,France,Grand Est,Grand Est,Europe,Male,2020-03-04
+89.0,A2a,France,Hauts de France,Hauts de France,Europe,Male,2020-03-08
+46.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Male,2020-03-11
+10.0,A2a,Finland,Finland,Finland,Europe,Female,2020-03-13
+66.0,A2a,Taiwan,Taiwan,Taiwan,Asia,Male,2020-03-21
+46.0,A2a,Canada,Ontario,Ontario,North America,Male,2020-03-11
+69.0,A2a,USA,Massachusetts,Massachusetts,North America,Male,2020-03-06
+37.0,A2a,France,Hauts de France,Hauts de France,Europe,Female,2020-03-09
+16.0,A2a,France,Ile de France,Ile de France,Europe,Female,2020-03-23
+44.0,A2a,Canada,Ontario,Ontario,North America,Female,2020-03-09
+43.0,A2a,USA,Washington DC,Washington DC,North America,Female,2020-03-07
+59.0,A2a,France,Grand Est,Grand Est,Europe,Male,2020-03-17
+92.0,A2a,France,Hauts de France,Hauts de France,Europe,Female,2020-03-24
+86.0,A2a,France,Hauts de France,Hauts de France,Europe,Female,2020-03-04
+93.0,A2a,France,Hauts de France,Hauts de France,Europe,Male,2020-03-10
+62.0,A2a,France,Hauts de France,Hauts de France,Europe,Female,2020-03-23
+41.0,A2a,USA,Indiana,Indiana,North America,Male,2020-03-07
+7.0,A2a,USA,Indiana,Indiana,North America,Female,2020-03-08
+51.0,A2a,USA,Indiana,Indiana,North America,Female,2020-03-09
+72.0,A2a,Turkey,Karaman,France,Europe,Male,2020-03-17
+50.0,A2a,Turkey,Istanbul,Iran,Europe,Male,2020-03-18
+95.0,A2a,France,Ile de France,Ile de France,Europe,Female,2020-04-02
+67.0,A2a,France,Ile de France,Ile de France,Europe,Female,2020-04-02
+47.0,A2a,USA,North Carolina,North Carolina,North America,Male,2020-03-08
+24.0,A2a,USA,New York,New York,North America,Male,2020-03-22
+45.0,A2a,USA,Massachusetts,Massachusetts,North America,Male,2020-03-05
+60.0,A2a,USA,North Carolina,North Carolina,North America,Male,2020-03-08
+48.0,A2a,USA,Massachusetts,Massachusetts,North America,Male,2020-03-07
+64.0,A2a,USA,Massachusetts,Massachusetts,North America,Male,2020-03-07
+59.0,A2a,Slovakia,Bratislava,Bratislava,Europe,Female,2020-03-07
+56.0,A2a,USA,Washington DC,Washington DC,North America,Female,2020-03-14
+21.0,A2a,Australia,Victoria,Victoria,Oceania,Female,2020-03-27
+34.0,A2a,France,Ile de France,Ile de France,Europe,Female,2020-03-23
+26.0,A2a,Slovakia,Kosice,Ile de France,Europe,Male,2020-03-06
+57.0,A2a,France,Ile de France,Ile de France,Europe,Male,2020-04-02
+37.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Male,2020-04-21
+57.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Male,2020-04-16
+43.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Male,2020-04-15
+71.0,A2a,Gambia,West Coast Region,West Coast Region,Africa,Male,2020-04-20
+19.0,A2a,France,Bretagne,Bretagne,Europe,Female,2020-04-03
+54.0,A2a,France,Ile de France,Ile de France,Europe,Female,2020-03-12
+39.0,A2a,Senegal,Dakar,Dakar,Africa,Male,2020-03-20
+68.0,A2a,France,Ile de France,Ile de France,Europe,Male,2020-03-15
+87.0,A2a,France,Ile de France,Ile de France,Europe,Female,2020-03-15
+78.0,A2a,France,Ile de France,Ile de France,Europe,Female,2020-04-01
+29.0,A2a,France,Hauts de France,Hauts de France,Europe,Female,2020-04-03
+91.0,A2a,France,Hauts de France,Hauts de France,Europe,Male,2020-03-12
+20.0,A2a,France,Ile de France,Ile de France,Europe,Male,2020-04-02
+42.0,A2a,USA,Kansas,Kansas,North America,Female,2020-03-06
+56.0,A2a,USA,Massachusetts,Massachusetts,North America,Female,2020-03-06
+45.0,A2a,USA,Pennsylvania,Pennsylvania,North America,Female,2020-03-05
+35.0,A2a,USA,Massachusetts,Massachusetts,North America,Female,2020-03-05
+45.0,A2a,USA,Massachusetts,Massachusetts,North America,Female,2020-03-05
+86.0,A2a,France,Ile de France,Ile de France,Europe,Male,2020-03-04
+45.0,A2a,USA,Massachusetts,Massachusetts,North America,Male,2020-03-04
+43.0,A2a,Belgium,Walloon Brabant,Walloon Brabant,Europe,Male,2020-03-04
+43.0,A2a,USA,Massachusetts,Massachusetts,North America,Female,2020-03-04
+19.0,A2a,Sweden,Orebro lan,Orebro lan,Europe,Female,2020-03-09
+54.0,A2a,Sweden,Orebro lan,Orebro lan,Europe,Female,2020-03-09
+52.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Male,2020-03-09
+88.0,A2a,France,Hauts de France,Hauts de France,Europe,Female,2020-02-29
+54.0,A2a,USA,Pennsylvania,Pennsylvania,North America,Female,2020-03-07
+60.0,A2a,USA,North Carolina,North Carolina,North America,Female,2020-03-07
+87.0,A2a,France,Hauts de France,Hauts de France,Europe,Female,2020-02-29
+42.0,A2a,USA,Massachusetts,Massachusetts,North America,Male,2020-03-06
+18.0,A2a,USA,Pennsylvania,Pennsylvania,North America,Female,2020-03-08
+47.0,A2a,France,Ile de France,Ile de France,Europe,Female,2020-03-17
+39.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Male,2020-04-17
+74.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Male,2020-03-17
+30.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Male,2020-03-22
+45.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Male,2020-03-22
+63.0,A2a,Poland,Malopolskie,Malopolskie,Europe,Female,2020-03-29
+50.0,A2a,United Kingdom,England,England,Europe,Female,2020-03-17
+40.0,A2a,France,Ile de France,Ile de France,Europe,Female,2020-03-25
+38.0,A2a,Taiwan,New Taipei City,New Taipei City,Asia,Female,2020-03-24
+52.0,A2a,Russia,Khabarovsk Region,Khabarovsk Region,Europe,Female,2020-03-19
+72.0,A2a,France,Hauts de France,Hauts de France,Europe,Female,2020-03-16
+92.0,A2a,France,Bretagne,Bretagne,Europe,Male,2020-03-23
+35.0,A2a,France,Bretagne,Bretagne,Europe,Female,2020-03-27
+84.0,A2a,USA,New York,New York,North America,Male,2020-04-13
+37.0,A2a,Brazil,Minas Gerais,Minas Gerais,South America,Female,2020-03-11
+73.0,A2a,USA,Maryland,Maryland,North America,Female,2020-03-04
+1.0,A2a,Canada,Ontario,Ontario,North America,Female,2020-03-12
+20.0,A2a,Turkey,Tokat,Tokat,Europe,Male,2020-03-19
+71.0,A2a,USA,Oregon,Oregon,North America,Male,2020-04-20
+73.0,A2a,USA,Illinois,Illinois,North America,Female,2020-03-07
+47.0,A2a,Argentina,Argentina,Argentina,South America,Male,2020-03-18
+74.0,A2a,Taiwan,New Taipei City,New Taipei City,Asia,Male,2020-03-24
+69.0,A2a,USA,Pennsylvania,Pennsylvania,North America,Female,2020-03-07
+70.0,A2a,USA,Pennsylvania,Pennsylvania,North America,Female,2020-03-06
+50.0,A2a,Saudi Arabia,Makkah,Makkah,Asia,Male,2020-03-23
+56.0,A2a,Brazil,Minas Gerais,Minas Gerais,South America,Female,2020-03-16
+70.0,A2a,Canada,British Columbia,British Columbia,North America,Female,2020-03-11
+64.0,A2a,Canada,British Columbia,British Columbia,North America,Male,2020-03-11
+50.0,A2a,Saudi Arabia,Makkah,Makkah,Asia,Male,2020-04-16
+41.0,A2a,Democratic Republic of the Congo,Kinshasa,Kinshasa,Africa,Male,2020-04-15
+52.0,A2a,Turkey,Siirt,Siirt,Europe,Male,2020-03-21
+15.0,A2a,Saudi Arabia,Makkah,Makkah,Asia,Male,2020-03-22
+51.0,A2a,Belgium,Liège,Liège,Europe,Male,2020-03-22
+76.0,A2a,Belgium,Liège,Liège,Europe,Male,2020-03-30
+54.0,A2a,Turkey,Nevsehir,Nevsehir,Europe,Female,2020-03-26
+67.0,A2a,Russia,Chechen Republic,Chechen Republic,Europe,Male,2020-03-26
+35.0,A2a,Turkey,Tekirdag,Saudi Arabia,Europe,Female,2020-03-19
+53.0,A2a,Belgium,Liège,Liège,Europe,Male,2020-03-14
+27.0,A2a,Belgium,Liège,Liège,Europe,Male,2020-03-19
+49.0,A2a,Turkey,Istanbul,Istanbul,Europe,Male,2020-04-17
+51.0,A2a,Turkey,Istanbul,Istanbul,Europe,Male,2020-04-13
+36.0,A2a,India,Delhi,Delhi,Asia,Female,2020-03-26
+38.0,A2a,Turkey,Istanbul,Iran,Europe,Male,2020-03-19
+43.0,A2a,Saudi Arabia,Makkah,Makkah,Asia,Female,2020-04-16
+26.0,A2a,India,Delhi,Delhi,Asia,Female,2020-03-18
+48.0,A2a,Turkey,Aksaray,Saudi Arabia,Europe,Male,2020-03-22
+42.0,A2a,Turkey,Sakarya,Sakarya,Europe,Female,2020-03-22
+52.0,A2a,India,Gujarat,Gujarat,Asia,Female,2020-04-26
+48.0,A2a,India,Gujarat,Gujarat,Asia,Male,2020-04-30
+37.0,A2a,India,Gujarat,Gujarat,Asia,Male,2020-04-29
+12.0,A2a,India,Gujarat,Gujarat,Asia,Female,2020-04-26
+55.0,A2a,India,Gujarat,Gujarat,Asia,Male,2020-05-04
+29.0,A2a,India,Gujarat,Gujarat,Asia,Female,2020-04-26
+29.0,A2a,India,Gujarat,Gujarat,Asia,Female,2020-04-26
+63.0,A2a,India,Gujarat,Gujarat,Asia,Male,2020-04-29
+29.0,A2a,India,Gujarat,Gujarat,Asia,Female,2020-04-29
+24.0,A2a,India,Gujarat,Gujarat,Asia,Female,2020-04-29
+53.0,A2a,India,Gujarat,Gujarat,Asia,Male,2020-04-29
+35.0,A2a,India,Gujarat,Gujarat,Asia,Male,2020-04-29
+38.0,A2a,India,Delhi,Delhi,Asia,Female,2020-03-15
+35.0,A2a,India,Delhi,Delhi,Asia,Male,2020-03-18
+28.0,A2a,India,Delhi,Delhi,Asia,Female,2020-03-18
+35.0,A2a,Saudi Arabia,Makkah,Makkah,Asia,Male,2020-04-16
+48.0,A2a,Turkey,Ankara,Ankara,Europe,Male,2020-03-22
+65.0,A2a,India,Delhi,Delhi,Asia,Female,2020-03-18
+62.0,A2a,Turkey,Ankara,Saudi Arabia,Europe,Female,2020-03-18
+59.0,A2a,Turkey,Konya,Saudi Arabia,Europe,Female,2020-03-17
+40.0,A2a,Saudi Arabia,Makkah,Makkah,Asia,Female,2020-04-14
+66.0,A2a,Taiwan,Taiwan,Italy,Asia,Female,2020-03-02
+56.0,A2a,USA,Ohio,Ohio,North America,Female,2020-03-07
+69.0,A2a,USA,Pennsylvania,Pennsylvania,North America,Male,2020-03-07
+37.0,A2a,USA,New York,New York,North America,Female,2020-04-06
+30.0,A2a,USA,New York,New York,North America,Male,2020-04-20
+42.0,A2a,Canada,British Columbia,British Columbia,North America,Male,2020-03-11
+62.0,A2a,USA,New York,New York,North America,Female,2020-04-15
+60.0,A2a,Saudi Arabia,Makkah,Makkah,Asia,Male,2020-04-16
+34.0,A2a,USA,New Jersey,New Jersey,North America,Male,2020-04-10
+77.0,A2a,USA,New York,New York,North America,Female,2020-03-17
+70.0,A2a,Canada,Ontario,Ontario,North America,Female,2020-02-29
+61.0,A2a,USA,Pennsylvania,Pennsylvania,North America,Female,2020-03-09
+36.0,A2a,USA,New York,New York,North America,Female,2020-04-01
+72.0,A2a,Australia,Victoria,Victoria,Oceania,Male,2020-03-24
+30.0,A2a,Brazil,Minas Gerais,Minas Gerais,South America,Female,2020-03-16
+33.0,A2a,Saudi Arabia,Makkah,Makkah,Asia,Male,2020-04-09
+48.0,A2a,USA,New York,New York,North America,Female,2020-04-05
+70.0,A2a,India,Telangana,Telangana,Asia,Male,2020-03-24
+67.0,A2a,USA,Texas,Texas,North America,Female,2020-03-01
+55.0,A2a,USA,Ohio,Ohio,North America,Male,2020-03-08
+54.0,A2a,Taiwan,Taipei,Egypt,Asia,Male,2020-03-14
+71.0,A2a,Austria,Austria,Spain,Europe,Female,2020-03-13
+80.0,A2a,Finland,Finland,Finland,Europe,Male,2020-03-13
+35.0,A2a,Turkey,Ankara,Ankara,Europe,Female,2020-03-21
+53.0,A2a,Indonesia,Surabaya,Surabaya,Asia,Female,2020-04-14
+38.0,A2a,Turkey,Kocaeli,Kocaeli,Europe,Male,2020-03-19
+35.0,A2a,Egypt,Egypt,Egypt,Africa,Female,2020-03-18
+43.0,A2a,Saudi Arabia,Makkah,Makkah,Asia,Male,2020-04-14
+55.0,A2a,Turkey,Nevsehir,Nevsehir,Europe,Female,2020-03-18
+65.0,A2a,Brazil,Minas Gerais,Minas Gerais,South America,Male,2020-03-09
+46.0,A2a,Brazil,Minas Gerais,Minas Gerais,South America,Female,2020-03-17
+28.0,A2a,Brazil,Minas Gerais,Minas Gerais,South America,Male,2020-03-13
+78.0,A2a,Austria,Styria,Styria,Europe,Male,2020-03-31
+92.0,A2a,Austria,Styria,Styria,Europe,Female,2020-03-31
+92.0,A2a,Austria,Styria,Styria,Europe,Female,2020-04-08
+93.0,A2a,Austria,Styria,Styria,Europe,Female,2020-04-03
+85.0,A2a,Austria,Styria,Styria,Europe,Male,2020-04-09
+64.0,A2a,Saudi Arabia,Makkah,Makkah,Asia,Male,2020-04-14
+28.0,A2a,Saudi Arabia,Makkah,Makkah,Asia,Male,2020-04-14
+44.0,A2a,Saudi Arabia,Makkah,Makkah,Asia,Male,2020-04-16
+27.0,A2a,Saudi Arabia,Makkah,Makkah,Asia,Male,2020-04-16
+3.0,A2a,Saudi Arabia,Makkah,Makkah,Asia,Female,2020-04-16
+58.0,A2a,Finland,Finland,Finland,Europe,Male,2020-03-14
+93.0,A2a,Finland,Finland,Finland,Europe,Female,2020-03-14
+86.0,A2a,Finland,Finland,Finland,Europe,Male,2020-03-14
+86.0,A2a,Finland,Finland,Finland,Europe,Female,2020-03-13
+88.0,A2a,Finland,Finland,Finland,Europe,Male,2020-03-13
+87.0,A2a,Finland,Finland,Finland,Europe,Female,2020-03-13
+91.0,A2a,Finland,Finland,Finland,Europe,Male,2020-03-13
+57.0,A2a,USA,Maryland,Maryland,North America,Female,2020-03-04
+70.0,A2a,Saudi Arabia,Saudi Arabia,Saudi Arabia,Asia,Female,2020-03-10
+67.0,A2a,Saudi Arabia,Saudi Arabia,Saudi Arabia,Asia,Female,2020-03-10
+29.0,A2a,Russia,Chechen Republic,Chechen Republic,Europe,Male,2020-03-26
+61.0,A2a,Saudi Arabia,Madinah,Madinah,Asia,Male,2020-03-29
+13.0,A2a,Saudi Arabia,Madinah,Madinah,Asia,Female,2020-03-29
+27.0,A2a,Saudi Arabia,Madinah,Madinah,Asia,Male,2020-03-29
+42.0,A2a,Saudi Arabia,Madinah,Madinah,Asia,Male,2020-03-29
+27.0,A2a,Saudi Arabia,Madinah,Madinah,Asia,Male,2020-03-29
+52.0,A2a,India,Gujarat,Gujarat,Asia,Female,2020-04-29
+50.0,A2a,Saudi Arabia,Madinah,Madinah,Asia,Male,2020-03-29
+78.0,A2a,Saudi Arabia,Makkah,Makkah,Asia,Male,2020-04-14
+55.0,A2a,India,Gujarat,Gujarat,Asia,Female,2020-04-29
+58.0,A2a,Saudi Arabia,Makkah,Makkah,Asia,Male,2020-04-14
+52.0,A2a,Turkey,Afyon,Saudi Arabia,Europe,Female,2020-03-16
+30.0,A2a,Brazil,Minas Gerais,Minas Gerais,South America,Male,2020-03-15
+50.0,A2a,India,Madhya Pradesh,Madhya Pradesh,Asia,Female,2020-04-20
+44.0,A2a,Saudi Arabia,Madinah,Madinah,Asia,Male,2020-03-29
+40.0,A2a,Saudi Arabia,Makkah,Makkah,Asia,Male,2020-04-14
+59.0,A2a,Saudi Arabia,Madinah,Madinah,Asia,Male,2020-03-29
+63.0,A2a,Saudi Arabia,Madinah,Madinah,Asia,Male,2020-03-29
+32.0,A2a,Saudi Arabia,Madinah,Madinah,Asia,Male,2020-03-29
+28.0,A2a,Saudi Arabia,Makkah,Makkah,Asia,Male,2020-04-16
+77.0,A2a,Turkey,Ankara,Saudi Arabia,Europe,Male,2020-03-23
+57.0,A2a,India,Gujarat,Gujarat,Asia,Female,2020-05-04
+28.0,A2a,India,Gujarat,Gujarat,Asia,Male,2020-05-04
+54.0,A2a,Saudi Arabia,Makkah,Makkah,Asia,Male,2020-03-23
+32.0,A2a,Saudi Arabia,Makkah,Makkah,Asia,Male,2020-04-16
+29.0,A2a,Saudi Arabia,Makkah,Makkah,Asia,Male,2020-04-14
+60.0,A2a,Turkey,Kastamonu,Saudi Arabia,Europe,Male,2020-03-18
+72.0,A2a,Turkey,Balikesir,Balikesir,Europe,Female,2020-03-17
+40.0,A2a,Saudi Arabia,Makkah,Makkah,Asia,Male,2020-04-14
+35.0,A2a,Saudi Arabia,Makkah,Makkah,Asia,Female,2020-04-14
+18.0,A2a,India,Gujarat,Gujarat,Asia,Male,2020-05-02
+43.0,A2a,India,Gujarat,Gujarat,Asia,Female,2020-04-26
+40.0,A2a,India,Gujarat,Gujarat,Asia,Male,2020-04-26
+59.0,A2a,Brazil,Santa Catarina,Santa Catarina,South America,Female,2020-03-10
+85.0,A2a,Germany,Duesseldorf,Duesseldorf,Europe,Female,2020-03-19
+56.0,A2a,France,Hauts de France,Hauts de France,Europe,Male,2020-02-21
+56.0,A2a,France,Hauts de France,Hauts de France,Europe,Male,2020-02-21
+50.0,A2a,Singapore,Singapore,Singapore,Asia,Male,2020-03-18
+63.0,A2a,China,Fujian,Fujian,Asia,Male,2020-03-19
+25.0,A2a,USA,Oregon,Oregon,North America,Female,2020-04-07
+14.0,A2a,France,Ile de France,Ile de France,Europe,Female,2020-03-25
+43.0,A2a,Singapore,Singapore,Singapore,Asia,Female,2020-03-17
+67.0,A2a,USA,New York,New York,North America,Female,2020-03-18
+47.0,A2a,France,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,Europe,Male,2020-03-24
+58.0,A2a,Singapore,Singapore,Singapore,Asia,Female,2020-03-18
+31.0,A2a,France,Hauts de France,Hauts de France,Europe,Female,2020-04-02
+50.0,A2a,France,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,Europe,Female,2020-03-04
+41.0,A2a,Germany,Bavaria,Bavaria,Europe,Female,2020-04-06
+70.0,A2a,France,Hauts de France,Hauts de France,Europe,Male,2020-03-10
+70.0,A2a,France,Bretagne,Bretagne,Europe,Male,2020-02-26
+56.0,A2a,France,Bretagne,Bretagne,Europe,Male,2020-03-07
+54.0,A2a,Australia,Victoria,Victoria,Oceania,Female,2020-03-25
+60.0,A2a,Hungary,Baranya,Baranya,Europe,Female,2020-03-30
+59.0,A2a,France,Pays de la Loire,Pays de la Loire,Europe,Female,2020-02-26
+23.0,A2a,Belgium,Liège,Liège,Europe,Male,2020-03-21
+51.0,A2a,Taiwan,Taiwan,Taiwan,Asia,Male,2020-03-20
+42.0,A2a,Canada,Ontario,Ontario,North America,Male,2020-03-12
+23.0,A2a,Canada,Ontario,Ontario,North America,Male,2020-03-11
+70.0,A2a,Russia,Saint-Petersburg,Saint-Petersburg,Europe,Female,2020-03-18
+27.0,A2a,United Arab Emirates,United Arab Emirates,United Arab Emirates,Asia,Female,2020-03-12
+29.0,A2a,France,Ile de France,Ile de France,Europe,Male,2020-03-26
+57.0,A2a,United Kingdom,England,England,Europe,Female,2020-03-30
+34.0,A2a,Australia,Victoria,Victoria,Oceania,Male,2020-03-19
+45.0,A2a,USA,Washington DC,Washington DC,North America,Male,2020-03-14
+23.0,A2a,Taiwan,Taipei,Poland,Asia,Female,2020-03-19
+50.0,A2a,Vietnam,Hanoi,Hanoi,Asia,Male,2020-03-13
+40.0,A2a,France,Bretagne,Bretagne,Europe,Male,2020-03-18
+30.0,A2a,Taiwan,New Taipei City,New Taipei City,Asia,Male,2020-03-17
+31.0,A2a,Taiwan,Taipei,USA,Asia,Female,2020-03-19
+63.0,A2a,France,Hauts de France,Hauts de France,Europe,Male,2020-03-22
+46.0,A2a,Sweden,Halland,Halland,Europe,Male,2020-03-12
+68.0,A2a,France,Hauts de France,Hauts de France,Europe,Female,2020-03-19
+45.0,A2a,France,Hauts de France,Hauts de France,Europe,Male,2020-03-10
+50.0,A2a,France,Hauts de France,Hauts de France,Europe,Female,2020-03-23
+91.0,A2a,Belgium,Andenne,Andenne,Europe,Female,2020-03-06
+56.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Male,2020-04-14
+46.0,A2a,Belgium,Berloz,Berloz,Europe,Male,2020-03-05
+90.0,A2a,France,Hauts de France,Hauts de France,Europe,Male,2020-03-23
+70.0,A2a,France,Hauts de France,Hauts de France,Europe,Female,2020-03-04
+95.0,A2a,France,Hauts de France,Hauts de France,Europe,Male,2020-03-04
+40.0,A2a,France,Bretagne,Bretagne,Europe,Male,2020-03-07
+67.0,A2a,France,Bretagne,Bretagne,Europe,Male,2020-03-07
+32.0,A2a,France,Bretagne,Bretagne,Europe,Male,2020-03-06
+84.0,A2a,France,Bretagne,Bretagne,Europe,Female,2020-03-31
+77.0,A2a,Finland,Helsinki,Helsinki,Europe,Male,2020-03-14
+91.0,A2a,Austria,Tyrol,Tyrol,Europe,Female,2020-03-23
+47.0,A2a,Russia,Sverdlovsk Region,Sverdlovsk Region,Europe,Male,2020-03-19
+60.0,A2a,Ghana,Greater Accra,Greater Accra,Africa,Male,2020-03-31
+42.0,A2a,Ghana,Greater Accra,Greater Accra,Africa,Male,2020-03-24
+43.0,A2a,France,Hauts de France,Hauts de France,Europe,Female,2020-03-05
+34.0,A2a,Belgium,Elsene,Elsene,Europe,Female,2020-03-05
+48.0,A2a,Belgium,Leuven,Leuven,Europe,Female,2020-02-29
+33.0,A2a,Australia,Victoria,Victoria,Oceania,Female,2020-03-28
+53.0,A2a,USA,Maryland,Maryland,North America,Female,2020-03-21
+41.0,A2a,Singapore,Singapore,Singapore,Asia,Male,2020-03-17
+62.0,A2a,Thailand,Nonthaburi,Nonthaburi,Asia,Male,2020-03-18
+62.0,A2a,Thailand,Thailand,Thailand,Asia,Male,2020-03-18
+94.0,A2a,France,Hauts de France,Hauts de France,Europe,Female,2020-03-24
+55.0,A2a,USA,Washington DC,Washington DC,North America,Male,2020-03-28
+25.0,A2a,Taiwan,New Taipei City,New Taipei City,Asia,Male,2020-03-31
+58.0,A2a,Turkey,Ankara,Ankara,Europe,Female,2020-03-26
+19.0,A2a,USA,Ohio,Ohio,North America,Male,2020-03-31
+84.0,A2a,Belgium,Boutersem,Boutersem,Europe,Male,2020-03-25
+65.0,A2a,Belgium,Silly,Silly,Europe,Male,2020-03-24
+61.0,A2a,Belgium,Zinnik,Zinnik,Europe,Male,2020-03-24
+58.0,A2a,Belgium,Ellezelles,Ellezelles,Europe,Male,2020-03-09
+62.0,A2a,Belgium,Herent,Herent,Europe,Male,2020-03-25
+63.0,A2a,Belgium,Mouscron,Mouscron,Europe,Male,2020-03-25
+43.0,A2a,USA,Washington DC,Washington DC,North America,Female,2020-03-14
+75.0,A2a,USA,Utah,Utah,North America,Female,2020-03-07
+48.0,A2a,Australia,Victoria,Victoria,Oceania,Male,2020-04-03
+24.0,A2a,USA,New York,New York,North America,Female,2020-04-10
+53.0,A2a,Australia,Victoria,Victoria,Oceania,Female,2020-03-24
+25.0,A2a,Sweden,Halland,Halland,Europe,Female,2020-03-11
+56.0,A2a,Sweden,Halland,Halland,Europe,Male,2020-03-11
+64.0,A2a,Sweden,Halland,Halland,Europe,Female,2020-03-11
+45.0,A2a,Sweden,Halland,Halland,Europe,Female,2020-03-11
+41.0,A2a,Algeria,Boufarik,Boufarik,Africa,Male,2020-03-02
+28.0,A2a,Algeria,Boufarik,Boufarik,Africa,Female,2020-03-02
+87.0,A2a,Algeria,Blida,Blida,Africa,Male,2020-03-08
+66.0,A2a,France,Hauts de France,Hauts de France,Europe,Male,2020-03-25
+27.0,A2a,France,Ile de France,Ile de France,Europe,Female,2020-03-15
+38.0,A2a,France,Hauts de France,Hauts de France,Europe,Male,2020-03-11
+76.0,A2a,France,Hauts de France,Hauts de France,Europe,Female,2020-03-25
+76.0,A2a,France,Hauts de France,Hauts de France,Europe,Female,2020-03-25
+31.0,A2a,France,Ile de France,Ile de France,Europe,Female,2020-02-27
+71.0,A2a,France,Ile de France,Ile de France,Europe,Male,2020-03-11
+55.0,A2a,France,Ile de France,Ile de France,Europe,Male,2020-03-24
+51.0,A2a,Sweden,Norrbotten,Norrbotten,Europe,Female,2020-03-27
+66.0,A2a,Sweden,Norrbotten,Norrbotten,Europe,Male,2020-04-02
+78.0,A2a,Sweden,Norrbotten,Norrbotten,Europe,Male,2020-03-24
+52.0,A2a,Sweden,Norrbotten,Norrbotten,Europe,Female,2020-03-23
+62.0,A2a,Sweden,Norrbotten,Norrbotten,Europe,Male,2020-03-27
+44.0,A2a,Russia,Saint-Petersburg,Saint-Petersburg,Europe,Male,2020-04-10
+91.0,A2a,Russia,Saint-Petersburg,Saint-Petersburg,Europe,Male,2020-03-29
+59.0,A2a,USA,Maryland,Maryland,North America,Female,2020-03-24
+68.0,A2a,Sweden,Norrbotten,Norrbotten,Europe,Male,2020-03-22
+48.0,A2a,Sweden,Skane,Skane,Europe,Female,2020-04-03
+48.0,A2a,Sweden,Sormland,Sormland,Europe,Female,2020-03-20
+49.0,A2a,Sweden,Stockholm,Stockholm,Europe,Female,2020-04-20
+57.0,A2a,Sweden,Stockholm,Stockholm,Europe,Female,2020-03-20
+48.0,A2a,Sweden,Vastra Gotaland,Vastra Gotaland,Europe,Male,2020-04-16
+79.0,A2a,Sweden,Norrbotten,Norrbotten,Europe,Male,2020-04-02
+46.0,A2a,Sweden,Uppsala,Uppsala,Europe,Female,2020-04-04
+91.0,A2a,Sweden,Vastra Gotaland,Vastra Gotaland,Europe,Male,2020-04-07
+90.0,A2a,Sweden,Vastra Gotaland,Vastra Gotaland,Europe,Male,2020-04-06
+40.0,A2a,Sweden,Stockholm,Stockholm,Europe,Female,2020-04-06
+51.0,A2a,Sweden,Vastra Gotaland,Vastra Gotaland,Europe,Female,2020-04-17
+67.0,A2a,Sweden,Stockholm,Stockholm,Europe,Male,2020-03-12
+49.0,A2a,Sweden,Vastra Gotaland,Vastra Gotaland,Europe,Male,2020-04-06
+72.0,A2a,Sweden,Norrbotten,Norrbotten,Europe,Male,2020-03-27
+73.0,A2a,Sweden,Norrbotten,Norrbotten,Europe,Female,2020-03-25
+36.0,A2a,Sweden,Stockholm,Stockholm,Europe,Male,2020-03-15
+45.0,A2a,Sweden,Sormland,Sormland,Europe,Male,2020-03-21
+46.0,A2a,Sweden,Vastmanland,Vastmanland,Europe,Female,2020-04-15
+80.0,A2a,Belgium,Saint-Ghislain,Saint-Ghislain,Europe,Male,2020-03-24
+36.0,A2a,Belgium,Chaineux,Chaineux,Europe,Female,2020-03-05
+53.0,A2a,Belgium,Lubbeek,Lubbeek,Europe,Male,2020-03-04
+43.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Male,2020-03-17
+33.0,A2a,Senegal,Dakar,Dakar,Africa,Female,2020-03-03
+32.0,A2a,France,Ile de France,Ile de France,Europe,Male,2020-03-18
+33.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Male,2020-03-22
+33.0,A2a,Senegal,Dakar,Dakar,Africa,Male,2020-02-28
+29.0,A2a,USA,New Hampshire,New Hampshire,North America,Male,2020-02-29
+68.0,A2a,Senegal,Dakar,Dakar,Africa,Female,2020-03-04
+70.0,A2a,USA,New Hampshire,New Hampshire,North America,Male,2020-03-06
+80.0,A2a,Senegal,Dakar,Dakar,Africa,Male,2020-03-02
+45.0,A2a,USA,New Hampshire,New Hampshire,North America,Male,2020-03-02
+48.0,A2a,France,Ile de France,Ile de France,Europe,Male,2020-03-12
+25.0,A2a,France,Bretagne,Bretagne,Europe,Female,2020-04-03
+33.0,A2a,France,Bretagne,Bretagne,Europe,Female,2020-04-01
+78.0,A2a,France,Bretagne,Bretagne,Europe,Female,2020-03-24
+89.0,A2a,France,Bretagne,Bretagne,Europe,Female,2020-03-24
+94.0,A2a,France,Bretagne,Bretagne,Europe,Female,2020-03-28
+40.0,A2a,France,Bretagne,Bretagne,Europe,Female,2020-03-27
+67.0,A2a,France,Bretagne,Bretagne,Europe,Male,2020-03-21
+22.0,A2a,Singapore,Singapore,Singapore,Asia,Female,2020-03-18
+63.0,A2a,France,Bretagne,Bretagne,Europe,Male,2020-03-16
+50.0,A2a,USA,New York,New York,North America,Female,2020-03-30
+90.0,A2a,France,Ile de France,Ile de France,Europe,Male,2020-03-12
+77.0,A2a,France,Ile de France,Ile de France,Europe,Female,2020-03-20
+56.0,A2a,Senegal,Mbour,Mbour,Africa,Female,2020-03-17
+28.0,A2a,Senegal,Mbour,Mbour,Africa,Male,2020-03-20
+43.0,A2a,Czech Republic,Prague,Prague,Europe,Female,2020-03-08
+32.0,A2a,Russia,Sverdlovsk Region,Sverdlovsk Region,Europe,Female,2020-03-27
+24.0,A2a,Czech Republic,Prague,Prague,Europe,Male,2020-03-20
+88.0,A2a,Belgium,Antwerp,Antwerp,Europe,Male,2020-04-11
+38.0,A2a,USA,Maryland,Maryland,North America,Male,2020-03-19
+56.0,A2a,USA,Maryland,Maryland,North America,Male,2020-03-24
+34.0,A2a,Germany,Bavaria,Bavaria,Europe,Female,2020-04-03
+33.0,A2a,Turkey,Ankara,Ankara,Europe,Female,2020-03-26
+80.0,A2a,France,Hauts de France,Hauts de France,Europe,Male,2020-04-02
+8.0,A2a,France,Ile de France,Ile de France,Europe,Female,2020-03-26
+30.0,A2a,USA,New Jersey,New Jersey,North America,Female,2020-03-30
+81.0,A2a,USA,Washington DC,Washington DC,North America,Female,2020-03-14
+36.0,A2a,USA,New York,New York,North America,Male,2020-04-03
+43.0,A2a,USA,New York,New York,North America,Female,2020-04-01
+41.0,A2a,USA,New Jersey,New Jersey,North America,Female,2020-03-18
+19.0,A2a,China,Jiangxi,Jiangxi,Asia,Male,2020-03-23
+52.0,A2a,Canada,Ontario,Ontario,North America,Female,2020-03-12
+65.0,A2a,USA,New York,New York,North America,Male,2020-03-18
+37.0,A2a,USA,New York,New York,North America,Male,2020-03-20
+48.0,A2a,USA,New Jersey,New Jersey,North America,Female,2020-04-20
+64.0,A2a,Taiwan,Keelung,Keelung,Asia,Female,2020-03-23
+50.0,A2a,Argentina,Ciudad Autonoma de Buenos Aires,Ciudad Autonoma de Buenos Aires,South America,Male,2020-04-07
+30.0,A2a,USA,New York,New York,North America,Male,2020-04-01
+43.0,A2a,Argentina,Ciudad Autonoma de Buenos Aires,Ciudad Autonoma de Buenos Aires,South America,Female,2020-04-18
+30.0,A2a,USA,New York,New York,North America,Male,2020-04-01
+28.0,A2a,USA,New York,New York,North America,Female,2020-04-06
+26.0,A2a,USA,New York,New York,North America,Female,2020-04-03
+27.0,A2a,Argentina,Buenos Aires,Buenos Aires,South America,Female,2020-03-28
+26.0,A2a,USA,New York,New York,North America,Female,2020-04-16
+57.0,A2a,USA,New York,New York,North America,Male,2020-03-21
+65.0,A2a,USA,Louisiana,Louisiana,North America,Female,2020-04-08
+65.0,A2a,USA,Louisiana,Louisiana,North America,Female,2020-04-06
+17.0,A2a,USA,Louisiana,Louisiana,North America,Male,2020-03-23
+40.0,A2a,Canada,British Columbia,British Columbia,North America,Male,2020-03-12
+87.0,A2a,Australia,Victoria,Victoria,Oceania,Male,2020-04-12
+50.0,A2a,USA,Louisiana,Louisiana,North America,Male,2020-04-09
+31.0,A2a,USA,Rhode Island,Rhode Island,North America,Female,2020-03-09
+53.0,A2a,USA,Louisiana,Louisiana,North America,Male,2020-03-09
+50.0,A2a,USA,Louisiana,Louisiana,North America,Male,2020-04-05
+93.0,A2a,USA,Louisiana,Louisiana,North America,Female,2020-04-08
+45.0,A2a,USA,Louisiana,Louisiana,North America,Male,2020-04-08
+76.0,A2a,USA,Louisiana,Louisiana,North America,Female,2020-04-06
+52.0,A2a,USA,Louisiana,Louisiana,North America,Female,2020-04-03
+60.0,A2a,USA,Maryland,Maryland,North America,Male,2020-03-08
+65.0,A2a,USA,California,California,North America,Male,2020-03-18
+50.0,A2a,Iceland,Reykjavik,Reykjavik,Europe,Female,2020-03-20
+52.0,A2a,USA,Oregon,Oregon,North America,Female,2020-04-16
+65.0,A2a,USA,Oregon,Oregon,North America,Male,2020-04-20
+38.0,A2a,Russia,Krasnodar Region,Krasnodar Region,Europe,Male,2020-03-23
+32.0,A2a,Russia,Orenburg Region,Orenburg Region,Europe,Male,2020-03-23
+58.0,A2a,Sweden,Vastmanland,Vastmanland,Europe,Male,2020-04-15
+61.0,A2a,USA,New York,New York,North America,Male,2020-03-19
+70.0,A2a,USA,Washington DC,Washington DC,North America,Female,2020-03-31
+54.0,A2a,France,Hauts de France,Hauts de France,Europe,Male,2020-02-28
+83.0,A2a,Sweden,Norrbotten,Norrbotten,Europe,Female,2020-03-27
+22.0,A2a,USA,Ohio,Ohio,North America,Male,2020-04-01
+69.0,A2a,Australia,Victoria,Victoria,Oceania,Male,2020-04-11
+60.0,A2a,Germany,Bavaria,Bavaria,Europe,Female,2020-04-02
+48.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Male,2020-04-02
+52.0,A2a,France,Bourgogne,Bourgogne,Europe,Male,2020-04-02
+59.0,A2a,France,Bretagne,Bretagne,Europe,Male,2020-03-03
+49.0,A2a,France,Bretagne,Bretagne,Europe,Male,2020-03-02
+79.0,A2a,France,Bretagne,Bretagne,Europe,Male,2020-03-02
+78.0,A2a,France,Hauts de France,Hauts de France,Europe,Male,2020-03-02
+54.0,A2a,France,Hauts de France,Hauts de France,Europe,Male,2020-03-08
+31.0,A2a,Germany,Duesseldorf,Duesseldorf,Europe,Female,2020-03-15
+59.0,A2a,Austria,Tyrol,Tyrol,Europe,Female,2020-03-11
+40.0,A2a,Costa Rica,La Union,New York,North America,Male,2020-03-18
+63.0,A2a,Austria,Tyrol,Tyrol,Europe,Male,2020-03-13
+50.0,A2a,Austria,Tyrol,Tyrol,Europe,Male,2020-04-03
+69.0,A2a,Austria,Tyrol,Tyrol,Europe,Male,2020-03-13
+49.0,A2a,Austria,Tyrol,Tyrol,Europe,Male,2020-03-13
+45.0,A2a,Germany,Duesseldorf,Duesseldorf,Europe,Female,2020-03-14
+46.0,A2a,Belgium,Antwerp,Antwerp,Europe,Male,2020-04-04
+80.0,A2a,Austria,Tyrol,Tyrol,Europe,Female,2020-03-30
+78.0,A2a,Russia,Sakhalin Region,Sakhalin Region,Europe,Female,2020-03-27
+66.0,A2a,India,Gujarat,Gujarat,Asia,Male,2020-04-13
+76.0,A2a,Austria,Vienna,Vienna,Europe,Female,2020-03-24
+30.0,A2a,Germany,Duesseldorf,Duesseldorf,Europe,Female,2020-03-15
+53.0,A2a,Canada,Ontario,Ontario,North America,Female,2020-03-11
+27.0,A2a,USA,Maryland,Maryland,North America,Male,2020-03-19
+47.0,A2a,Germany,Munich,Munich,Europe,Male,2020-03-16
+53.0,A2a,USA,New Jersey,New Jersey,North America,Female,2020-04-22
+58.0,A2a,Georgia,Tbilisi,Tbilisi,Asia,Female,2020-03-28
+62.0,A2a,China,Fujian,Fujian,Asia,Female,2020-03-17
+48.0,A2a,Germany,Bavaria,Bavaria,Europe,Male,2020-03-17
+29.0,A2a,Germany,Duesseldorf,Duesseldorf,Europe,Female,2020-03-17
+43.0,A2a,USA,Indiana,Indiana,North America,Male,2020-03-19
+45.0,A2a,Australia,Queensland,Queensland,Oceania,Male,2020-03-19
+60.0,A2a,Canada,Ontario,Ontario,North America,Male,2020-03-20
+28.0,A2a,Austria,Tyrol,Tyrol,Europe,Female,2020-03-19
+44.0,A2a,Taiwan,Taiwan,Taiwan,Asia,Male,2020-03-23
+30.0,A2a,USA,New York,New York,North America,Female,2020-03-19
+31.0,A2a,Austria,Tyrol,Tyrol,Europe,Female,2020-03-09
+59.0,A2a,USA,Washington DC,Washington DC,North America,Male,2020-03-20
+44.0,A2a,Russia,Moscow,Moscow,Europe,Female,2020-03-22
+65.0,A2a,USA,Washington DC,Washington DC,North America,Female,2020-03-22
+30.0,A2a,United Arab Emirates,United Arab Emirates,United Arab Emirates,Asia,Male,2020-03-10
+44.0,A2a,Austria,Austria,Austria,Europe,Female,2020-03-10
+31.0,A2a,Austria,Tyrol,Tyrol,Europe,Female,2020-03-11
+36.0,A2a,USA,Maryland,Maryland,North America,Male,2020-03-17
+54.0,A2a,USA,New York,New York,North America,Female,2020-04-01
+25.0,A2a,USA,New York,New York,North America,Male,2020-03-15
+69.0,A2a,USA,New York,New York,North America,Male,2020-03-22
+27.0,A2a,USA,New York,New York,North America,Male,2020-04-14
+46.0,A2a,USA,Washington DC,Washington DC,North America,Female,2020-03-22
+55.0,A2a,USA,Washington DC,Washington DC,North America,Female,2020-03-20
+71.0,A2a,Singapore,Singapore,Singapore,Asia,Male,2020-03-12
+57.0,A2a,Argentina,Ciudad Autonoma de Buenos Aires,Ciudad Autonoma de Buenos Aires,South America,Female,2020-03-26
+63.0,A2a,Iceland,Reykjavik,Reykjavik,Europe,Female,2020-03-06
+61.0,A2a,USA,Rhode Island,Rhode Island,North America,Female,2020-03-05
+68.0,A2a,USA,New York,New York,North America,Female,2020-04-08
+45.0,A2a,Belgium,Antwerp,Antwerp,Europe,Female,2020-04-09
+66.0,A2a,USA,Ohio,Ohio,North America,Male,2020-04-12
+71.0,A2a,Hungary,Baranya,Baranya,Europe,Male,2020-03-30
+44.0,A2a,Belgium,Antwerp,Antwerp,Europe,Male,2020-04-06
+65.0,A2a,Belgium,Antwerp,Antwerp,Europe,Male,2020-03-28
+67.0,A2a,Belgium,Antwerp,Antwerp,Europe,Male,2020-03-29
+65.0,A2a,China,Fujian,Fujian,Asia,Female,2020-03-13
+57.0,A2a,Austria,Tyrol,Tyrol,Europe,Male,2020-03-13
+57.0,A2a,Spain,Madrid,Madrid,Europe,Male,2020-03-26
+87.0,A2a,Hungary,Baranya,Baranya,Europe,Male,2020-03-22
+41.0,A2a,Hungary,Baranya,Baranya,Europe,Female,2020-03-26
+46.0,A2a,Iceland,Reykjavik,Reykjavik,Europe,Male,2020-03-27
+39.0,A2a,Poland,Pomorskie,Pomorskie,Europe,Female,2020-03-23
+65.0,A2a,USA,New York,New York,North America,Male,2020-04-01
+52.0,A2a,USA,New York,New York,North America,Female,2020-04-01
+21.0,A2a,Taiwan,Taipei,Taipei,Asia,Female,2020-04-02
+75.0,A2a,USA,New York,New York,North America,Female,2020-04-01
+4.0,A2a,USA,New York,New York,North America,Female,2020-04-02
+61.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Male,2020-04-01
+47.0,A2a,France,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,Europe,Female,2020-03-23
+75.0,A2a,Finland,Finland,Finland,Europe,Male,2020-03-13
+65.0,A2a,USA,New York,New York,North America,Male,2020-03-20
+54.0,A2a,USA,New York,New York,North America,Male,2020-03-20
+44.0,A2a,USA,New York,New York,North America,Female,2020-04-22
+31.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Female,2020-03-17
+88.0,A2a,France,Hauts de France,Hauts de France,Europe,Female,2020-03-16
+30.0,A2a,Hungary,Baranya,Baranya,Europe,Male,2020-03-20
+82.0,A2a,USA,New York,New York,North America,Female,2020-04-08
+78.0,A2a,USA,Maryland,Maryland,North America,Male,2020-03-14
+30.0,A2a,Brazil,Rio de Janeiro,Rio de Janeiro,South America,Male,2020-03-19
+69.0,A2a,USA,Maryland,Maryland,North America,Male,2020-03-17
+44.0,A2a,Australia,Queensland,Queensland,Oceania,Male,2020-03-18
+19.0,A2a,Russia,Moscow,Moscow,Europe,Female,2020-03-23
+58.0,A2a,India,Delhi,Delhi,Asia,Male,2020-03-18
+56.0,A2a,Austria,Tyrol,Tyrol,Europe,Male,2020-03-24
+68.0,A2a,Germany,Duesseldorf,Duesseldorf,Europe,Male,2020-03-18
+64.0,A2a,Singapore,Singapore,Singapore,Asia,Female,2020-03-18
+55.0,A2a,USA,Washington DC,Washington DC,North America,Male,2020-03-20
+34.0,A2a,Poland,Pomorskie,Pomorskie,Europe,Male,2020-03-18
+69.0,A2a,USA,Maryland,Maryland,North America,Male,2020-03-20
+55.0,A2a,Russia,Chelyabinsk Region,Chelyabinsk Region,Europe,Male,2020-03-28
+38.0,A2a,Taiwan,Taipei,Austria,Asia,Male,2020-03-14
+44.0,A2a,Austria,Vienna,Vienna,Europe,Male,2020-03-14
+32.0,A2a,Australia,Western Australia,Western Australia,Oceania,Male,2020-03-14
+56.0,A2a,Germany,Bavaria,Bavaria,Europe,Male,2020-03-14
+73.0,A2a,USA,New York,New York,North America,Female,2020-03-15
+86.0,A2a,Finland,Helsinki,Helsinki,Europe,Male,2020-03-14
+54.0,A2a,Germany,Munich,Munich,Europe,Female,2020-03-16
+30.0,A2a,Germany,Duesseldorf,Duesseldorf,Europe,Male,2020-03-16
+42.0,A2a,Germany,Munich,Munich,Europe,Female,2020-03-16
+91.0,A2a,France,Hauts de France,Hauts de France,Europe,Male,2020-03-09
+24.0,A2a,Austria,Tyrol,Tyrol,Europe,Female,2020-03-09
+58.0,A2a,Austria,Tyrol,Tyrol,Europe,Male,2020-03-09
+26.0,A2a,Austria,Tyrol,Tyrol,Europe,Male,2020-03-09
+32.0,A2a,Germany,Duesseldorf,Duesseldorf,Europe,Male,2020-03-10
+46.0,A2a,United Arab Emirates,United Arab Emirates,United Arab Emirates,Asia,Male,2020-03-12
+39.0,A2a,Spain,Madrid,Madrid,Europe,Female,2020-03-12
+28.0,A2a,United Arab Emirates,United Arab Emirates,United Arab Emirates,Asia,Male,2020-03-12
+64.0,A2a,Canada,Ontario,Ontario,North America,Male,2020-03-12
+49.0,A2a,Germany,Bavaria,Bavaria,Europe,Male,2020-03-12
+70.0,A2a,USA,Maryland,Maryland,North America,Female,2020-03-21
+86.0,A2a,Germany,Bavaria,Bavaria,Europe,Male,2020-04-05
+70.0,A2a,USA,New York,New York,North America,Male,2020-03-21
+34.0,A2a,Belgium,Antwerp,Antwerp,Europe,Female,2020-03-25
+60.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Female,2020-03-27
+69.0,A2a,United Kingdom,Wales,Wales,Europe,Male,2020-03-27
+42.0,A2a,USA,New York,New York,North America,Female,2020-03-04
+52.0,A2a,USA,Pennsylvania,Pennsylvania,North America,Male,2020-03-08
+54.0,A2a,USA,Ohio,Ohio,North America,Male,2020-03-08
+73.0,A2a,USA,Maryland,Maryland,North America,Female,2020-03-08
+38.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Male,2020-04-01
+91.0,A2a,France,Hauts de France,Hauts de France,Europe,Female,2020-04-02
+37.0,A2a,Germany,Duesseldorf,Duesseldorf,Europe,Female,2020-03-15
+55.0,A2a,USA,Maryland,Maryland,North America,Female,2020-03-15
+46.0,A2a,USA,New York,New York,North America,Female,2020-04-10
+51.0,A2a,Australia,Victoria,Victoria,Oceania,Female,2020-04-11
+33.0,A2a,Australia,Victoria,Victoria,Oceania,Male,2020-04-05
+47.0,A2a,USA,New Jersey,New Jersey,North America,Female,2020-04-02
+95.0,A2a,USA,New Jersey,New Jersey,North America,Male,2020-03-18
+27.0,A2a,USA,New Jersey,New Jersey,North America,Male,2020-03-18
+32.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Male,2020-03-11
+35.0,A2a,Sweden,Halland,Halland,Europe,Male,2020-03-11
+40.0,A2a,Austria,Austria,Austria,Europe,Male,2020-03-11
+63.0,A2a,France,Bretagne,Bretagne,Europe,Male,2020-03-06
+50.0,A2a,France,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,Europe,Male,2020-03-06
+57.0,A2a,Finland,Finland,Finland,Europe,Male,2020-03-08
+72.0,A2a,France,Bretagne,Bretagne,Europe,Male,2020-03-06
+37.0,A2a,France,Centre-Val de Loire,Centre-Val de Loire,Europe,Male,2020-03-24
+56.0,A2a,USA,Maryland,Maryland,North America,Male,2020-03-13
+70.0,A2a,Finland,Finland,Finland,Europe,Male,2020-03-13
+71.0,A2a,Finland,Finland,Finland,Europe,Male,2020-03-13
+35.0,A2a,Russia,Krasnoyarsk Region,Krasnoyarsk Region,Europe,Male,2020-03-13
+52.0,A2a,Luxembourg,Luxembourg,Luxembourg,Europe,Male,2020-03-13
+29.0,A2a,Iceland,Reykjavik,Reykjavik,Europe,Female,2020-03-13
+32.0,A2a,Austria,Tyrol,Tyrol,Europe,Female,2020-03-13
+21.0,A2a,India,Delhi,Delhi,Asia,Female,2020-03-13
+62.0,A2a,Austria,Tyrol,Tyrol,Europe,Female,2020-03-27
+53.0,A2a,Belgium,Antwerp,Antwerp,Europe,Female,2020-04-07
+98.0,A2a,Belgium,Antwerp,Antwerp,Europe,Male,2020-04-13
+46.0,A2a,Austria,Vienna,Vienna,Europe,Female,2020-03-15
+46.0,A2a,Germany,Duesseldorf,Duesseldorf,Europe,Male,2020-03-15
+86.0,A2a,France,Ile de France,Ile de France,Europe,Female,2020-03-19
+85.0,A2a,France,Ile de France,Ile de France,Europe,Female,2020-04-14
+59.0,A2a,USA,Maryland,Maryland,North America,Male,2020-03-23
+43.0,A2a,USA,New York,New York,North America,Female,2020-04-01
+76.0,A2a,Belgium,Antwerp,Antwerp,Europe,Female,2020-03-31
+64.0,A2a,USA,Washington DC,Washington DC,North America,Female,2020-03-29
+58.0,A2a,Sweden,Vastra Gotaland,Vastra Gotaland,Europe,Male,2020-04-21
+49.0,A2a,Austria,Tyrol,Tyrol,Europe,Female,2020-03-24
+37.0,A2a,France,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,Europe,Female,2020-03-23
+28.0,A2a,France,Hauts de France,Hauts de France,Europe,Female,2020-03-30
+83.0,A2a,USA,New York,New York,North America,Female,2020-04-02
+49.0,A2a,USA,New York,New York,North America,Female,2020-04-03
+68.0,A2a,Germany,Duesseldorf,Duesseldorf,Europe,Male,2020-03-20
+51.0,A2a,USA,New York,New York,North America,Male,2020-04-15
+30.0,A2a,Germany,Duesseldorf,Duesseldorf,Europe,Male,2020-03-20
+39.0,A2a,USA,New York,New York,North America,Female,2020-04-13
+42.0,A2a,USA,New Jersey,New Jersey,North America,Female,2020-04-13
+46.0,A2a,Germany,Bavaria,Bavaria,Europe,Male,2020-03-23
+47.0,A2a,USA,Washington DC,Washington DC,North America,Male,2020-03-27
+43.0,A2a,Germany,Bavaria,Bavaria,Europe,Male,2020-03-29
